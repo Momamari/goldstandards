@@ -1,0 +1,405 @@
+Unnamed: 0,title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth,predicted
+37505,Krambambuli,und warf ihm zuweilen Mangel an »Schneid« vor,1,gold_standard,process,process,process,process,process
+37508,Krambambuli,Gleich beim ersten Anblick des Hundes war er von der Zuneigung ergriffen worden,2,gold_standard,change_of_state,process,process,change_of_state,change_of_state
+37511,Krambambuli,und es ist geradeso,3,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37514,Krambambuli,den der Revierjäger im Leben von ihm erhalten hat,4,gold_standard,process,process,process,process,process
+37517,Krambambuli,und rührt sich nicht mehr,5,gold_standard,non_event,non_event,non_event,non_event,non_event
+37520,Krambambuli,bellt,6,gold_standard,process,process,process,process,process
+37523,Krambambuli,"den ihm damals der Oberförster zurief, wild wie ein Teufel in der Hölle und wie ein solcher umringt von jammernden und gepeinigten Sündern",7,gold_standard,process,process,process,process,process
+37526,Krambambuli,Zwei junge Hasen hängen an seiner Waidtasche,8,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37529,Krambambuli,drückte den Kopf auf die ausgestreckten Vorderpfoten,9,gold_standard,process,process,process,process,process
+37532,Krambambuli,Er beugte sich über Krambambuli,10,gold_standard,process,process,process,process,process
+37535,Krambambuli,Der Anführer sollte ein verlottertes Subjekt sein,11,gold_standard,non_event,non_event,non_event,non_event,non_event
+37538,Krambambuli,den er gemacht,12,gold_standard,process,process,process,process,process
+37547,Krambambuli,der an den »Grafenwald« grenzte,15,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37553,Krambambuli,Weil das Spintisieren aber nicht seine Sache ist,17,gold_standard,non_event,non_event,non_event,non_event,non_event
+37556,Krambambuli,Wie er aber aus dem Hause trat,18,gold_standard,process,process,process,process,process
+37565,Krambambuli,und lädt von neuem,21,gold_standard,process,process,process,process,process
+37568,Krambambuli,ihm aber nie hatten beikommen können,22,gold_standard,non_event,non_event,non_event,non_event,non_event
+37574,Krambambuli,strich aber dennoch ruh- und rastlos mit seinem Hunde in der Nähe des Lindenrondells herum,24,gold_standard,process,process,process,process,process
+37577,Krambambuli,Nach einigen Wochen erhielt Hopp die Botschaft,25,gold_standard,process,process,process,process,process
+37580,Krambambuli,Der Revierjäger gestand sich,26,gold_standard,process,process,process,process,stative_event
+37583,Krambambuli,Herr Hopp murmelt ein halbes Dutzend Flüche zwischen den Zähnen,27,gold_standard,process,process,process,process,process
+37586,Krambambuli,den er in der Ferne zu suchen ausging,28,gold_standard,process,process,process,process,process
+37589,Krambambuli,Da bekam er es denn bald heraus,29,gold_standard,process,process,process,process,process
+37592,Krambambuli,in dem die Leiche sich befand,30,gold_standard,stative_event,process,process,process,stative_event
+37595,Krambambuli,von dem kein Zeuge ein Wort vernommen hätte,31,gold_standard,non_event,non_event,non_event,non_event,non_event
+37598,Krambambuli,Da würde er ein rasches Ende gemacht,32,gold_standard,non_event,non_event,non_event,non_event,non_event
+37601,Krambambuli,Was sich nun begab,33,gold_standard,process,process,process,process,process
+37604,Krambambuli,sein Herr zum mindesten pflog lange Unterredungen mit ihm,34,gold_standard,process,process,process,process,process
+37607,Krambambuli,"Herein, Krambambuli",35,gold_standard,non_event,non_event,non_event,non_event,non_event
+37613,Krambambuli,mußte auch selbst vom Handwerk gewesen sein,37,gold_standard,non_event,non_event,non_event,non_event,stative_event
+37616,Krambambuli,den er bei solcher Gelegenheit von oben herunter anblinzelte,38,gold_standard,process,process,process,process,process
+37625,Krambambuli,und kam ganz herunter,41,gold_standard,process,process,process,process,non_event
+37628,Krambambuli,So fand ihn die gerichtliche Kommission,42,gold_standard,process,process,process,process,process
+37631,Krambambuli,der zwischen seinen ausgespreizten Knien saß,43,gold_standard,process,process,process,process,process
+37637,Krambambuli,und rückte auf einmal mit der Erklärung heraus,45,gold_standard,process,process,process,process,process
+37640,Krambambuli,"Die Raubschützen hätten einen Eid darauf geschworen, bei der ersten Gelegenheit exemplarische Rache an ihm zu nehmen",46,gold_standard,non_event,non_event,process,non_event,process
+37643,Krambambuli,"der rechts und links in kleine Linien auslief, in der Art wie die Nadeln an einem Tannenreis",47,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37646,Krambambuli,Wovon hätte er mit seiner Alten reden sollen,48,gold_standard,non_event,non_event,non_event,non_event,non_event
+37649,Krambambuli,und spannte den Hahn seiner Flinte,49,gold_standard,process,process,process,process,process
+37652,Krambambuli,und die Flinte wieder zur Hand nimmt,50,gold_standard,process,process,process,process,process
+37658,Krambambuli,und sieht ihm zu,52,gold_standard,process,process,process,process,process
+37661,Krambambuli,Aber das braucht niemand zu wissen,53,gold_standard,non_event,non_event,non_event,non_event,non_event
+37664,Krambambuli,denn als die Leiche auf den Wagen geladen war,54,gold_standard,process,process,process,process,process
+37667,Krambambuli,Hopp wartete geduldig,55,gold_standard,process,process,process,process,process
+37670,Krambambuli,Weißt du,56,gold_standard,non_event,non_event,non_event,non_event,non_event
+37676,Krambambuli,die dauern sollte bis zu seinem letzten Atemzuge,58,gold_standard,process,non_event,process,non_event,non_event
+37679,Krambambuli,oder wenn er sie nicht zerreißen kann,59,gold_standard,non_event,non_event,non_event,non_event,non_event
+37682,Krambambuli,die zu überschreiten er nicht mehr gewagt hatte,60,gold_standard,non_event,non_event,non_event,non_event,non_event
+37685,Krambambuli,Fast hätte er gemeint,61,gold_standard,non_event,non_event,process,non_event,non_event
+37688,Krambambuli,Die Augenblicke waren seine besten,62,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37700,Krambambuli,Wie viele Hunde hat er schon gehabt,66,gold_standard,non_event,non_event,non_event,non_event,process
+37706,Krambambuli,und als gerade zu rechtfertigen war,68,gold_standard,process,process,process,process,non_event
+37718,Krambambuli,als riefe es den Himmel zum Zeugen seines Seelenschmerzes an,72,gold_standard,non_event,non_event,stative_event,non_event,non_event
+37721,Krambambuli,doch war die seine um ein paar Schattierungen dunkler,73,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37724,Krambambuli,macht ein paar Sätze,74,gold_standard,process,process,process,process,process
+37730,Krambambuli,Doch nein,76,gold_standard,non_event,non_event,non_event,non_event,stative_event
+37739,Krambambuli,Er hielt es nicht mehr aus,79,gold_standard,non_event,non_event,non_event,non_event,non_event
+37745,Krambambuli,aber ein kleiner Spitz sprang aus dem Hause,81,gold_standard,process,process,process,process,process
+37748,Krambambuli,Bei dem Anblick wird Hopp von Blutdurst gepackt,82,gold_standard,process,process,process,process,change_of_state
+37751,Krambambuli,sieht aber seinen Herrn in allerhöchster Aufregung an,83,gold_standard,process,process,process,process,process
+37754,Krambambuli,den der Löwenwirt damals führte,84,gold_standard,process,process,process,process,process
+37760,Krambambuli,"Der stand mit gesträubtem Haar, den Hals vorgestreckt, den Schwanz aufrecht",86,gold_standard,process,process,process,process,process
+37763,Krambambuli,das habe ich nicht ausgesagt,87,gold_standard,non_event,non_event,non_event,non_event,non_event
+37766,Krambambuli,Die Frau des Revierjägers wurde ordentlich eifersüchtig auf den »Buli,88,gold_standard,change_of_state,process,process,process,change_of_state
+37769,Krambambuli,Wirst gehen,89,gold_standard,non_event,non_event,non_event,non_event,non_event
+37772,Krambambuli,Hopp fand zuletzt einen Ausweg aus diesem Dilemma,90,gold_standard,process,process,process,process,change_of_state
+37775,Krambambuli,und schenkte dem Vazierenden fleißig ein,91,gold_standard,process,process,process,process,process
+37784,Krambambuli,Der Krambambuli beschnüffelt den toten Mann,94,gold_standard,process,process,process,process,process
+37787,Krambambuli,brachen alle Zweige ab,95,gold_standard,process,process,process,process,process
+37790,Krambambuli,"sich bei den Versuchen, es zu tun, erwürgt",96,gold_standard,non_event,non_event,non_event,non_event,non_event
+37796,Krambambuli,weil dieser kein zweites umsonst hergeben wollte,98,gold_standard,stative_event,non_event,non_event,non_event,non_event
+37799,Krambambuli,die dem Alten über die Wangen liefen,99,gold_standard,process,process,process,process,change_of_state
+37802,Krambambuli,das Forstpersonal befand sich in grimmigster Aufregung,100,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37805,Krambambuli,der für den Hund zu entrichten wäre,101,gold_standard,non_event,non_event,non_event,non_event,non_event
+37808,Krambambuli,Die Plage hielt er heute noch für eine Freude,102,gold_standard,stative_event,process,process,process,process
+37811,Krambambuli,in denen er vergaß,103,gold_standard,non_event,non_event,process,non_event,process
+37814,Krambambuli,Zwei Weiber lasen die Zweige hastig auf,104,gold_standard,process,process,process,process,process
+37817,Krambambuli,die ihn in irgendeiner übel berüchtigten Spelunke beim Branntwein trafen,105,gold_standard,process,process,process,process,process
+37823,Krambambuli,und entriß ihm gierig das Stück Brot,107,gold_standard,process,process,process,process,process
+37826,Krambambuli,Er stand nun auf,108,gold_standard,process,process,process,process,process
+37832,Krambambuli,und allerlei Vermutungen dämmern in ihm auf,110,gold_standard,process,process,process,process,change_of_state
+37835,Krambambuli,und geht,111,gold_standard,process,process,process,process,process
+37838,Krambambuli,In freundliche Gedanken versunken,112,gold_standard,stative_event,stative_event,stative_event,stative_event,process
+37847,Krambambuli,Riechst du denn nichts,115,gold_standard,non_event,non_event,non_event,non_event,non_event
+37850,Krambambuli,Er war wohl der frechste Gesell,116,gold_standard,non_event,non_event,stative_event,non_event,stative_event
+37853,Krambambuli,wozu freilich der Alte nur lächelte,117,gold_standard,process,process,process,process,process
+37862,Krambambuli,und über den Wirt schimpfte,120,gold_standard,process,process,process,process,process
+37868,Krambambuli,"Der Jägerrock, vermutlich ein Überrest aus der vergangenen Herrlichkeit des letzten Dienstes, trug die Spuren einer im nassen Straßengraben zugebrachten Nacht",122,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37871,Krambambuli,Das wissen die beiden,123,gold_standard,stative_event,process,process,process,stative_event
+37874,Krambambuli,und setzte sich wieder aufrecht neben den Toten hin,124,gold_standard,process,process,process,process,process
+37877,Krambambuli,das vor der letzten Hütte stand,125,gold_standard,process,process,process,process,process
+37880,Krambambuli,Wie er nun mit seiner Arbeit fertig ist,126,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37883,Krambambuli,eh er schlafen geht,127,gold_standard,process,process,process,process,process
+37886,Krambambuli,suchte sich aber immer wieder an ihn heranzudrängen,128,gold_standard,process,process,process,process,process
+37889,Krambambuli,Auch die Jagdtasche hatte der Mörder ihm gelassen,129,gold_standard,non_event,non_event,process,non_event,process
+37892,Krambambuli,Krambambuli hatte seinen ersten Herrn erkannt,130,gold_standard,process,process,process,process,process
+37895,Krambambuli,bei dem Hopp das edle Waidwerk erlernt,131,gold_standard,process,process,process,process,process
+37907,Krambambuli,stieß sein Fuß an denjenigen,135,gold_standard,process,process,process,process,process
+37910,Krambambuli,und wieder fand er sie nicht,136,gold_standard,non_event,non_event,non_event,non_event,non_event
+37913,Krambambuli,Ich bitte dich um alles in der Welt,137,gold_standard,non_event,non_event,process,non_event,process
+37916,Krambambuli,wie der Mann meinte,138,gold_standard,stative_event,process,process,process,stative_event
+37919,Krambambuli,läßt die Zunge heraushängen,139,gold_standard,process,process,process,process,process
+37922,Krambambuli,Unweit der Totenkammer sah ihn der Gerichtsdiener noch am folgenden Tage herumstreichen,140,gold_standard,process,process,process,process,process
+37925,Krambambuli,Auch »der Gelbe« hat den Lauf wieder auf ihn gerichtet,141,gold_standard,process,process,process,process,process
+37934,Krambambuli,Herr Hopp sagte vorerst kein Wort von dem Wohlgefallen,144,gold_standard,non_event,non_event,process,non_event,process
+37937,Krambambuli,Krambambuli wich einige Schritte zurück,145,gold_standard,process,process,process,process,process
+37940,Krambambuli,und schreit,146,gold_standard,process,process,process,process,process
+37943,Krambambuli,nahm er trotzdem Platz neben dem Burschen,147,gold_standard,process,process,process,process,process
+37946,Krambambuli,Als er eilends von der Erlaubnis Gebrauch machte,148,gold_standard,process,process,process,process,process
+37949,Krambambuli,trat hinter einen Baum,149,gold_standard,process,process,process,process,process
+37952,Krambambuli,»der Gelbe« pfeift,150,gold_standard,process,process,process,process,process
+37955,Krambambuli,dann ist er mir nichts mehr wert,151,gold_standard,non_event,non_event,non_event,non_event,non_event
+37958,Krambambuli,als die Herren herantraten,152,gold_standard,process,process,process,process,process
+37961,Krambambuli,Dem Jäger läuft ein Schauer über den Rücken,153,gold_standard,process,process,process,process,change_of_state
+37964,Krambambuli,als seine Unterwerfung vollständig geworden war,154,gold_standard,process,process,process,process,stative_event
+37967,Krambambuli,wie es sei,155,gold_standard,non_event,non_event,stative_event,non_event,non_event
+37970,Krambambuli,Der Hund sitzt aufrecht vor ihm,156,gold_standard,process,process,process,process,process
+37973,Krambambuli,einmal stößt er einen schrillen Freudenschrei aus,157,gold_standard,process,process,process,process,process
+37976,Krambambuli,Und als die Körbe und Tücher der Weiber und die Hüte der Buben in Pfand genommen wurden,158,gold_standard,process,process,process,process,process
+37979,Krambambuli,zeigte es sich,159,gold_standard,process,process,process,process,stative_event
+37985,Krambambuli,"der Wirt jedoch, der schmutzige Leuteschinder, wollte von einem Pfand nichts hören",161,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+37991,Krambambuli,Trotzdem stellt er die Flinte auf den Boden,163,gold_standard,process,process,process,process,process
+37997,Krambambuli,die er einst mit ihm gehabt,165,gold_standard,process,process,process,process,stative_event
+38000,Krambambuli,Aber dorthin kam er nicht,166,gold_standard,non_event,non_event,non_event,non_event,non_event
+38003,Krambambuli,das heißt in dem Fall recte zu Gericht,167,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38006,Krambambuli,Wer könnte ein Geschöpf niederknallen,168,gold_standard,non_event,non_event,non_event,non_event,non_event
+38012,Krambambuli,als dieser ihm zuschrie,170,gold_standard,process,process,process,process,process
+38018,Krambambuli,Da begab es sich nur zu oft,172,gold_standard,process,process,process,process,process
+38024,Krambambuli,der Wildschütz fehlt,174,gold_standard,non_event,non_event,process,non_event,non_event
+38027,Krambambuli,"und als die gute, schöne Dame begann",175,gold_standard,process,process,process,process,process
+38033,Krambambuli,Nachdem es geschehen,177,gold_standard,process,process,process,process,process
+38036,Krambambuli,setzte er ruhig und schmunzelnd fort,178,gold_standard,process,process,process,process,stative_event
+38039,Krambambuli,Mein Hund kennt den niederträchtigen Strolch,179,gold_standard,stative_event,process,process,process,stative_event
+38042,Krambambuli,"als sähe er jenseits der Wiese am Waldessaum den Hund sitzen, die Stätte seines ehemaligen Glückes unverwandt und sehnsüchtig betrachtend",180,gold_standard,non_event,non_event,process,non_event,non_event
+38045,Krambambuli,Der Jäger schlug den Laden zu,181,gold_standard,process,process,process,process,process
+38048,Krambambuli,und alle Förmlichkeiten erfüllt,182,gold_standard,process,process,process,process,process
+38051,Krambambuli,Ja,183,gold_standard,non_event,non_event,non_event,non_event,non_event
+38054,Krambambuli,richtete der Hund sich würde- und respektvoll auf,184,gold_standard,process,non_event,process,non_event,process
+38057,Krambambuli,den sein Besitz erregte,185,gold_standard,change_of_state,process,process,change_of_state,change_of_state
+38060,Krambambuli,der ihn hergab,186,gold_standard,process,process,process,process,stative_event
+38066,Krambambuli,Wie rasend pochte ihm das Herz,188,gold_standard,process,process,process,process,process
+38072,Krambambuli,Manchmal sah dieser sich nach ihm um,190,gold_standard,process,process,process,process,process
+38075,Krambambuli,der am Tische vor einem geleerten Branntweingläschen saß,191,gold_standard,process,process,process,process,process
+38078,Krambambuli,"Aber nicht einmal auf den schlechtesten Kerl schießt der Jäger Hopp, ohne ihn angerufen zu haben",192,gold_standard,non_event,non_event,non_event,non_event,non_event
+38081,Krambambuli,und fortgeführt wurde,193,gold_standard,process,process,process,process,process
+38084,Krambambuli,und fühlte sich wie neugeboren nach diesem Entschluß,194,gold_standard,stative_event,process,process,process,stative_event
+38087,Krambambuli,wenn sie wieder zu stricken begann,195,gold_standard,process,process,process,process,process
+38090,Krambambuli,was ihm zukommt,196,gold_standard,stative_event,stative_event,stative_event,stative_event,non_event
+38093,Krambambuli,und der ohnehin kurze Atem wollte ihm völlig versagen,197,gold_standard,non_event,non_event,non_event,non_event,non_event
+38099,Krambambuli,Ich habe keine Freude mehr an dir,199,gold_standard,non_event,non_event,non_event,non_event,non_event
+38102,Krambambuli,Sie hat zu lange mit aufgesetzter Kapsel im feuchten Wald am Baum gelehnt,200,gold_standard,stative_event,stative_event,stative_event,stative_event,process
+38105,Krambambuli,"und schleicht, sich oft umsehend zu der Leiche zurück",201,gold_standard,process,process,process,process,process
+38108,Krambambuli,dachte Hopp,202,gold_standard,stative_event,process,process,process,stative_event
+38111,Krambambuli,Und makellos war alles an dem ganzen Hunde von der Klaue bis zu der feinen Witternase,203,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38117,Krambambuli,Ich werd meinen Hund hineinbringen in die Geschichte,205,gold_standard,non_event,non_event,process,non_event,non_event
+38120,Krambambuli,und fragte,206,gold_standard,process,process,process,process,process
+38123,Krambambuli,Dem Jäger lachte das Herz im Leibe über den prächtigen Handel,207,gold_standard,stative_event,process,process,process,process
+38126,Krambambuli,Große Erbitterung herrschte darüber in allen Ortschaften,208,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38129,Krambambuli,Der Jäger verschmerzte ihn nie,209,gold_standard,non_event,non_event,non_event,non_event,non_event
+38132,Krambambuli,und stopften sie in Körbe,210,gold_standard,process,process,process,process,process
+38135,Krambambuli,Und tupft mit der Schnauze an des Jägers Knie,211,gold_standard,process,process,process,process,process
+38138,Krambambuli,aber zu helfen wußte er nicht,212,gold_standard,non_event,non_event,non_event,non_event,non_event
+38144,Krambambuli,der Hund gehorchte ihm nicht,214,gold_standard,non_event,non_event,non_event,non_event,non_event
+38147,Krambambuli,und seine hellen Augen antworteten,215,gold_standard,process,process,process,process,process
+38156,Krambambuli,denn der Graf verlor früher die Freude an dem eigensinnigen Tiere,218,gold_standard,change_of_state,process,process,process,change_of_state
+38159,Krambambuli,und auch das Gehirn war ihm wie gelähmt,219,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38162,Krambambuli,Zwei volle Monate brauchte es,220,gold_standard,process,process,process,process,process
+38168,Krambambuli,und sprach gleich von Dankbarkeit,222,gold_standard,process,process,process,process,process
+38171,Krambambuli,Was hat denn der Hund,223,gold_standard,non_event,non_event,non_event,non_event,process
+38174,Krambambuli,sie zielen so ruhig wie ein paar gemalte Schützen,224,gold_standard,process,process,process,process,process
+38177,Krambambuli,"Der Oberförster lag auf abgehauenen Zweigen, die Stirn mit einem dichten Kranz aus Lindenblüten umflochten, einen ebensolchen als Bandelier um die Brust gewunden",225,gold_standard,stative_event,process,process,process,process
+38180,Krambambuli,und sorgte mehr denn je dafür,226,gold_standard,process,process,process,process,process
+38183,Krambambuli,Einmal winselt er,227,gold_standard,process,process,process,process,process
+38186,Krambambuli,Du hast genug,228,gold_standard,stative_event,process,process,process,stative_event
+38189,Krambambuli,das gefüttert werden muß,229,gold_standard,non_event,non_event,non_event,non_event,non_event
+38192,Krambambuli,In dem einen derselben erkannte Hopp die leichtfertige Dirne,230,gold_standard,process,process,process,change_of_state,change_of_state
+38195,Krambambuli,"Erst nach einem heißen Kampfe gelang es Herrn Hopp, die Besitzergreifung des Hundes zu vollziehen",231,gold_standard,process,process,process,process,process
+38198,Krambambuli,"Er ließ durch seine Heger die Buben nur so von den Bäumen schütteln, unbekümmert um die Höhe",232,gold_standard,non_event,non_event,non_event,non_event,process
+38201,Krambambuli,Eines Junimorgens traf er ihn eben wieder bei einer Exekution,233,gold_standard,process,process,process,process,process
+38204,Krambambuli,gegen den der Haß sich zunächst wandte,234,gold_standard,stative_event,process,process,process,process
+38210,Krambambuli,Dem Herrn des schönen Tieres sah der Lump aus den Augen,236,gold_standard,stative_event,process,process,process,process
+38213,Krambambuli,Kinder hatten sie nie gehabt,237,gold_standard,non_event,non_event,non_event,non_event,non_event
+38216,Krambambuli,Übel nahmen er und sein Herr dem Oberförster nichts,238,gold_standard,non_event,non_event,non_event,non_event,non_event
+38219,Krambambuli,und war durch einen elenden Schießprügel ersetzt,239,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38222,Krambambuli,und der Hund begann augenblicklich mit dem Schwanze auf den Boden zu klopfen,240,gold_standard,process,process,process,process,process
+38225,Krambambuli,Seelenkundige haben den geheimnisvollen Drang zu erklären gesucht,241,gold_standard,process,process,process,process,process
+38228,Krambambuli,Es biß jeden,242,gold_standard,process,process,process,process,process
+38231,Krambambuli,und daß er jetzt auch den Hund als solches hergeben möchte,243,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38234,Krambambuli,Dem Oberförster kamen gutgemeinte Warnungen in Menge zu,244,gold_standard,process,process,process,process,process
+38237,Krambambuli,Und als der Jäger fertig ist,245,gold_standard,stative_event,stative_event,stative_event,stative_event,process
+38240,Krambambuli,Der Befehl ist der letzte gewesen,246,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38243,Krambambuli,Dabei summte er,247,gold_standard,process,process,process,process,process
+38252,Krambambuli,der Vagabund gab den Hund,250,gold_standard,process,process,process,process,process
+38258,Krambambuli,die bei irgendeinem unbedeutenden Waldfrevel ertappt wurden,252,gold_standard,process,process,process,process,process
+38261,Krambambuli,Während sie wimmernd und schreiend um seine Füße krochen,253,gold_standard,process,process,process,process,process
+38264,Krambambuli,der unsern Oberförster erschossen hat,254,gold_standard,process,process,process,process,process
+38267,Krambambuli,aus der sie fielen,255,gold_standard,process,process,process,process,process
+38270,Krambambuli,die beim nächsten Schlag ausgenommen werden sollten,256,gold_standard,non_event,non_event,non_event,non_event,non_event
+38279,Krambambuli,die er so gut wie jeder andere von ihm erfuhr,259,gold_standard,process,process,process,process,process
+38282,Krambambuli,die er allenthalben mit ihm feierte,260,gold_standard,process,process,process,process,process
+38285,Krambambuli,die ihm für den Hund geboten wurden,261,gold_standard,process,process,process,process,process
+38288,Krambambuli,die das Gesetz bei solchen Katastrophen vorschreibt,262,gold_standard,stative_event,process,process,process,process
+38294,Krambambuli,Der Oberförster raste in unermeßlicher Wut,264,gold_standard,process,process,process,process,stative_event
+38297,Krambambuli,Er heißt wie das,265,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38309,Krambambuli,der ganze Tag und auch ein Stück der Nacht darüber hingegangen sind,269,gold_standard,process,process,process,process,stative_event
+38312,Krambambuli,Krambambuli lag in der Ecke hinter seinem Herrn,270,gold_standard,process,process,process,process,process
+38318,Krambambuli,Am häufigsten rief der Oberförster dem Revierjäger Hopp die scharfe Handhabung seiner Amtspflicht ins Gedächtnis,272,gold_standard,process,process,process,process,process
+38321,Krambambuli,und der Hund macht wieder kehrt,273,gold_standard,process,process,process,process,process
+38324,Krambambuli,"und Hopp den Auftrag bekam, sie aufs Gericht zu bringen",274,gold_standard,process,process,process,process,process
+38327,Krambambuli,und leckte die Freudentränen ab,275,gold_standard,process,process,process,process,process
+38336,Krambambuli,und den Hund in seinem Zwinger aufsuchte,278,gold_standard,process,process,process,process,process
+38339,Krambambuli,Beim ersten Morgengrauen war er angekleidet,279,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38342,Krambambuli,Aber mitten in dem Worte hielt er bestürzt inne,280,gold_standard,process,process,process,process,process
+38348,Krambambuli,Vorliebe empfindet der Mensch für allerlei Gegenstände,282,gold_standard,non_event,non_event,non_event,non_event,stative_event
+38354,Krambambuli,Einer von ihnen sagte zu dem Jäger,284,gold_standard,process,process,process,process,process
+38360,Krambambuli,Der andere hat auch kein Glück,286,gold_standard,non_event,non_event,non_event,non_event,non_event
+38369,Krambambuli,Zwei Schüsse fallen,289,gold_standard,process,process,process,process,process
+38378,Krambambuli,und in der Farbe glich er dem Lumpen,292,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38381,Krambambuli,den er noch für seinen Herrn hielt,293,gold_standard,stative_event,process,process,process,stative_event
+38384,Krambambuli,Mit zitternden Fingern hat er die neue Kapsel aufgesetzt,294,gold_standard,process,process,process,process,process
+38387,Krambambuli,Und wieder wollte er sich zur Ruhe begeben,295,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38393,Krambambuli,Wie Eichkätzchen krochen sie auf den Ästen der herrlichen Bäume herum,297,gold_standard,process,process,process,process,process
+38399,Krambambuli,nimmt dem Raubschützen noch die jungen Hasen ab,299,gold_standard,process,process,process,process,process
+38402,Krambambuli,Die Linden standen just in schönster Blüte,300,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38405,Krambambuli,schüttelte das Haupt,301,gold_standard,process,process,process,process,process
+38411,Krambambuli,Das Kind blieb starr vor Schrecken,303,gold_standard,process,process,process,process,stative_event
+38414,Krambambuli,Da pfeift Hopp,304,gold_standard,process,process,process,process,process
+38417,Krambambuli,"in der sie nicht aufräumte, wusch oder kochte",305,gold_standard,non_event,non_event,non_event,non_event,non_event
+38420,Krambambuli,die einander auf dem Korn haben,306,gold_standard,stative_event,non_event,non_event,non_event,stative_event
+38423,Krambambuli,mit ruhiger Sicherheit legt er an,307,gold_standard,process,process,process,process,process
+38432,Krambambuli,Der Hund folgte ihm mit den Augen,310,gold_standard,process,process,process,process,process
+38435,Krambambuli,und Hopp hatte wieder ihn als kleinen Jungen in die Rudimente des Berufs eingeweiht,311,gold_standard,process,process,process,process,process
+38441,Krambambuli,jetzt gibt's Streifereien ohne Ende,313,gold_standard,process,non_event,process,non_event,process
+38450,Krambambuli,als höre er etwas im Laube rascheln,316,gold_standard,non_event,non_event,process,non_event,non_event
+38456,Krambambuli,und sprach mit einem tiefen Seufzer,318,gold_standard,process,process,process,process,process
+38459,Krambambuli,Zu seiner Ehre muß man gestehen,319,gold_standard,non_event,non_event,non_event,non_event,non_event
+38462,Krambambuli,der sich ihm näherte,320,gold_standard,process,process,process,process,process
+38468,Krambambuli,"Er, ein rascher, kühner Mann, schlug das Gerede in den Wind",322,gold_standard,process,process,process,process,process
+38477,Krambambuli,Krambambuli fletschte die Zähne gegen ihn,325,gold_standard,process,process,process,process,process
+38483,Krambambuli,deren er unter dem schlechten Gesindel in jedem Dorfe mehrere besaß,327,gold_standard,stative_event,process,process,process,stative_event
+38489,Krambambuli,und die er verächtlich von der Hand wies,329,gold_standard,process,process,process,process,process
+38492,Krambambuli,die ihm gestellt wurde,330,gold_standard,process,process,process,process,process
+38498,Krambambuli,Und Krambambuli gehorcht,332,gold_standard,process,process,process,process,process
+38510,Krambambuli,Der Jäger trifft,336,gold_standard,process,process,process,process,process
+38513,Krambambuli,die auch den Körper eines Hirsches getragen hätten,337,gold_standard,non_event,non_event,non_event,non_event,non_event
+38516,Krambambuli,zischt er noch,338,gold_standard,process,process,process,process,process
+38519,Krambambuli,die seinen Tod verursacht hatte,339,gold_standard,process,process,process,process,process
+38528,Krambambuli,und rief ihm zu,342,gold_standard,process,process,process,process,process
+38537,Krambambuli,in dem er auf den Fußsteig treten will,345,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38540,Krambambuli,"Auf der Stirn hatte er ein Abzeichen, einen weißen Strich",346,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38543,Krambambuli,Dieser ließ sogleich seine Beute fahren,347,gold_standard,process,process,process,process,process
+38546,Krambambuli,statt mit dem Krambambuli sprach er von dem Krambambuli,348,gold_standard,process,process,process,process,process
+38549,Krambambuli,"Wollen wir es andern überlassen, den Schuft wegzuputzen aus der Welt",349,gold_standard,non_event,non_event,non_event,non_event,non_event
+38558,Krambambuli,die zu verknoten dem Vazierenden endlich gelungen war,352,gold_standard,process,process,process,process,process
+38561,Krambambuli,Hopp wußte von diesen gelehrten Ausführungen nichts,353,gold_standard,non_event,non_event,non_event,non_event,process
+38564,Krambambuli,Die Hände zitterten ihm so sehr,354,gold_standard,process,process,process,process,process
+38567,Krambambuli,als jetzt plötzlich durch den Zaun der »Gelbe« auf den Fußsteig trat,355,gold_standard,process,process,process,process,process
+38570,Krambambuli,Aber nach einer Weile stand er auf,356,gold_standard,process,process,process,process,process
+38579,Krambambuli,sondern führte ein elendes Vagabundenleben,359,gold_standard,process,process,process,process,process
+38582,Krambambuli,und sagt ihm,360,gold_standard,process,process,process,process,process
+38588,Krambambuli,und blickte in die schimmernde Sommernacht hinaus,362,gold_standard,process,process,process,process,process
+38594,Krambambuli,Er gab ihm einen Tritt,364,gold_standard,process,process,process,process,process
+38603,Krambambuli,"Am Abend, nach dem Essen hätte sie gern eins dazu geplaudert",367,gold_standard,non_event,non_event,non_event,non_event,non_event
+38606,Krambambuli,Der Oberförster war ja der Sohn des Unvergeßlichen,368,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38612,Krambambuli,Zuletzt hat das arme Tier den trostlos unnötigen Kampf aufgegeben,370,gold_standard,non_event,non_event,process,non_event,process
+38618,Krambambuli,Und als der Wildschütz zur Antwort den Hinterlader von der Schulter reißt,372,gold_standard,process,process,process,process,process
+38621,Krambambuli,und begann sogleich ein Gespräch mit ihm,373,gold_standard,process,process,process,process,process
+38624,Krambambuli,Manchmal machte sie ihrem Manne Vorwürfe,374,gold_standard,process,process,process,process,process
+38627,Krambambuli,und ging zu Bette,375,gold_standard,process,process,process,process,process
+38633,Krambambuli,und warfen sie zur Erde,377,gold_standard,process,process,process,process,process
+38636,Krambambuli,Der alte Fuchs von einem Revierjäger kicherte,378,gold_standard,process,process,process,process,process
+38639,Krambambuli,Eine Woche später traf er ihn wieder im Lindenrondell,379,gold_standard,process,process,process,process,process
+38642,Krambambuli,und dachte anfangs gar nichts,380,gold_standard,non_event,non_event,process,non_event,process
+38645,Krambambuli,kennt ihn,381,gold_standard,stative_event,process,process,process,stative_event
+38648,Krambambuli,"Um dieselbe Zeit trieb, nicht nur in den gräflichen Forsten, sondern in der ganzen Umgebung eine Bande Wildschützen auf wahrhaft tolldreiste Art ihr Wesen",382,gold_standard,process,process,process,process,process
+38651,Krambambuli,und nahm seine dankbaren Liebkosungen in Empfang,383,gold_standard,process,process,process,process,process
+38654,Krambambuli,bis er zwischen den Bäumen verschwunden war,384,gold_standard,process,process,process,process,stative_event
+38657,Krambambuli,Du verlernst vor lauter Sprechen mit dem Vieh das Sprechen mit den Menschen,385,gold_standard,process,process,process,process,change_of_state
+38663,Krambambuli,das einen so ansieht,387,gold_standard,non_event,non_event,non_event,non_event,non_event
+38666,Krambambuli,von dem es aß,388,gold_standard,process,process,process,process,process
+38669,Krambambuli,ließ aber eine Flasche von dem guten Danziger Kirschbranntwein bringen,389,gold_standard,non_event,non_event,non_event,non_event,process
+38672,Krambambuli,Die Gräfin errötete vor Vergnügen über dieses freundliche Entgegenkommen,390,gold_standard,process,process,process,change_of_state,process
+38675,Krambambuli,nicht jede Kette zerreißt,391,gold_standard,non_event,non_event,non_event,non_event,non_event
+38678,Krambambuli,Krambambuli erhob ein wahnsinniges Geheul,392,gold_standard,process,process,process,process,process
+38681,Krambambuli,Keine Zunge schildert,393,gold_standard,non_event,non_event,non_event,non_event,non_event
+38684,Krambambuli,nicht jede Leine zerbeißt,394,gold_standard,non_event,non_event,non_event,non_event,non_event
+38687,Krambambuli,Hopp stand beim Anblick der entstellten Leiche regungslos vor Entsetzen,395,gold_standard,process,process,process,process,process
+38690,Krambambuli,"Bellend, heulend, den Bauch am Boden, den Körper gespannt wie eine Sehne, den Kopf emporgehoben kriecht es – seinem ersten Herrn zu",396,gold_standard,process,process,process,process,process
+38693,Krambambuli,stand dann auf,397,gold_standard,process,process,process,process,process
+38696,Krambambuli,Zwei Jahre waren so vergangen,398,gold_standard,process,process,process,process,process
+38705,Krambambuli,"und windet sich in Verzweiflung auf einem Fleck, in gleicher Distanz von dem Jäger wie von dem Wildschützen, zugleich hingerissen und gebannt",401,gold_standard,process,process,process,process,process
+38708,Krambambuli,"der sich schämte, die Wahrheit zu gestehen",402,gold_standard,stative_event,process,process,process,process
+38711,Krambambuli,und nicht viel dicker waren als die Läufe eines Hasen,403,gold_standard,non_event,non_event,non_event,non_event,stative_event
+38714,Krambambuli,als erwache in ihm eine längst erstorbene Erinnerung,404,gold_standard,process,process,process,process,non_event
+38717,Krambambuli,und liebte ihn trotz der rauhen Behandlung,405,gold_standard,stative_event,process,process,process,process
+38720,Krambambuli,Er hielt es nicht mehr aus ohne den Hund,406,gold_standard,non_event,non_event,non_event,non_event,non_event
+38723,Krambambuli,antwortete Hopp,407,gold_standard,process,process,process,process,stative_event
+38726,Krambambuli,wenn es auch statt eines toten ein lebendiger gewesen wäre,408,gold_standard,non_event,non_event,non_event,non_event,non_event
+38729,Krambambuli,und entfloh,409,gold_standard,process,process,process,process,process
+38732,Krambambuli,der jemals ehrlichen Jägersmännern etwas aufzulösen gab,410,gold_standard,non_event,non_event,stative_event,non_event,stative_event
+38738,Krambambuli,siehst du denn nichts,412,gold_standard,non_event,non_event,non_event,non_event,non_event
+38741,Krambambuli,trat wieder ans Fenster,413,gold_standard,process,process,process,process,process
+38744,Krambambuli,in welcher er sich befand,414,gold_standard,stative_event,process,process,process,stative_event
+38750,Krambambuli,ergriff die Leine,416,gold_standard,process,process,process,process,process
+38753,Krambambuli,wandte den Kopf demjenigen zu,417,gold_standard,process,process,process,process,process
+38756,Krambambuli,und auch gern gehabt,418,gold_standard,non_event,non_event,process,non_event,stative_event
+38759,Krambambuli,stemmte die Vorderpfoten auf dessen Brust,419,gold_standard,process,process,process,process,process
+38771,Krambambuli,"Die Augen waren groß, schwarz, leuchtend, von tauklaren, lichtgelben Reiflein umsäumt",423,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38774,Krambambuli,"Verwildert, zum Skelett abgemagert, umschlich er einmal die armen Wohnungen der Häusler am Ende des Dorfes",424,gold_standard,process,process,process,process,process
+38777,Krambambuli,und bellte den Räuber an,425,gold_standard,process,process,process,process,process
+38780,Krambambuli,das war der letzte Schuß in seinem Gewehr,426,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38783,Krambambuli,Die Probe wurde gemacht,427,gold_standard,process,process,process,process,process
+38789,Krambambuli,Am Abend dieses glücklichen Tages wanderten sie zusammen ins Wirtshaus,429,gold_standard,process,process,process,process,process
+38792,Krambambuli,Ich hol ihn heim,430,gold_standard,stative_event,stative_event,stative_event,stative_event,non_event
+38798,Krambambuli,Ein paarmal drehte er sich im Kreise,432,gold_standard,process,process,process,process,process
+38804,Krambambuli,"befahl seiner Alten, mit dem Mittagessen nicht auf ihn zu warten",434,gold_standard,process,non_event,process,non_event,process
+38807,Krambambuli,Vorwärts,435,gold_standard,non_event,non_event,non_event,non_event,non_event
+38810,Krambambuli,"und bat, den Preis nur zu nennen",436,gold_standard,process,non_event,process,non_event,process
+38813,Krambambuli,Nun,437,gold_standard,non_event,non_event,non_event,non_event,stative_event
+38816,Krambambuli,die sie erwischen konnten,438,gold_standard,non_event,non_event,non_event,non_event,process
+38819,Krambambuli,und der Hund macht kehrt,439,gold_standard,process,process,process,process,process
+38822,Krambambuli,und zum nächsten zieht er eben erst die Patrone aus der Tasche,440,gold_standard,process,process,process,process,process
+38825,Krambambuli,einer gotteslästerlicher als der andere,441,gold_standard,stative_event,stative_event,stative_event,stative_event,process
+38831,Krambambuli,und glotzte eine Stelle des Zaunes an,443,gold_standard,process,process,process,process,process
+38840,Krambambuli,Der Krambambuli aber gähnte laut und wegwerfend,446,gold_standard,process,process,process,process,process
+38843,Krambambuli,heulte,447,gold_standard,process,process,process,process,process
+38846,Krambambuli,und über diese hatte ein Dutzend kleiner Jungen sich hergemacht,448,gold_standard,process,process,process,process,process
+38849,Krambambuli,"Sein Hut stand neben ihm, mit Lindenblüten gefüllt",449,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38852,Krambambuli,als er dem Tiere die Leine um den Hals legte,450,gold_standard,process,process,process,process,process
+38855,Krambambuli,Er hätte keinen Finger heben können,451,gold_standard,non_event,non_event,non_event,non_event,non_event
+38858,Krambambuli,das er an dem Hunde gefunden hatte,452,gold_standard,stative_event,process,process,process,process
+38861,Krambambuli,Der Jäger gab zwölf Flaschen von demselben Getränke,453,gold_standard,process,process,process,process,process
+38864,Krambambuli,die er erreichte,454,gold_standard,process,process,process,process,stative_event
+38867,Krambambuli,und starrte,455,gold_standard,process,process,process,process,process
+38870,Krambambuli,stürzt rücklings hin,456,gold_standard,process,process,process,process,process
+38873,Krambambuli,"und fängt an, das schwere Gewehr zu heben und zu schieben und ins Maul zu fassen, in der offenbaren Absicht, es zu apportieren",457,gold_standard,process,process,process,process,process
+38876,Krambambuli,Sei es,458,gold_standard,non_event,non_event,stative_event,non_event,non_event
+38885,Krambambuli,denkt er,461,gold_standard,process,process,process,process,stative_event
+38888,Krambambuli,der Hund war nicht mehr da,462,gold_standard,non_event,non_event,non_event,non_event,non_event
+38894,Krambambuli,Da war ihm,464,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38897,Krambambuli,als wollt er melden,465,gold_standard,non_event,non_event,non_event,non_event,non_event
+38900,Krambambuli,und sputete sich hinweg,466,gold_standard,process,process,process,process,process
+38903,Krambambuli,eine Kuh durften sie nicht halten,467,gold_standard,non_event,non_event,non_event,non_event,non_event
+38906,Krambambuli,So wenigstens meint der Herr Revierjäger Hopp,468,gold_standard,stative_event,process,process,process,stative_event
+38909,Krambambuli,Er hatte ihn im Wirtshause Zum Löwen in Wischau von einem vazierenden Forstgehilfen gekauft,469,gold_standard,process,process,process,process,process
+38912,Krambambuli,drückte die Wange an den Kopf des Tieres,470,gold_standard,process,process,process,process,process
+38921,Krambambuli,begab sich viel rascher,473,gold_standard,process,process,process,process,stative_event
+38924,Krambambuli,"da erschien eines Tages die Gräfin, die Frau seines Brotherrn, im Hause des Jägers",474,gold_standard,process,process,process,process,process
+38927,Krambambuli,der längs des Buchenzaunes läuft,475,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38933,Krambambuli,und Krambambuli legte sich hin,477,gold_standard,process,process,process,process,process
+38936,Krambambuli,Daher komm,478,gold_standard,non_event,non_event,non_event,non_event,non_event
+38939,Krambambuli,Gleich darauf herrscht jedoch tiefe Stille,479,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+38945,Krambambuli,Beim heiligen Hubertus,481,gold_standard,non_event,non_event,non_event,non_event,non_event
+38948,Krambambuli,"Sie hatte den ganzen Tag, in jeder Stunde schweigend gestrickt",482,gold_standard,process,process,process,process,process
+38951,Krambambuli,"Die Flinte knackst, anstatt zu knallen",483,gold_standard,process,process,process,process,process
+38954,Krambambuli,der eine mit zerschlagenem Gesicht,484,gold_standard,process,process,process,process,process
+38957,Krambambuli,die das Gerücht als die Geliebte des »Gelben« bezeichnete,485,gold_standard,stative_event,process,process,process,stative_event
+38960,Krambambuli,"und schlägt den kürzesten Weg ein, quer durch den Wald gegen die Kulturen in der Nähe des Lindenrondells",486,gold_standard,process,process,process,process,process
+38963,Krambambuli,Krambambuli lag verendet vor ihm,487,gold_standard,stative_event,process,process,process,process
+38966,Krambambuli,Aus dem Zustande war zu ersehen,488,gold_standard,process,process,process,process,process
+38969,Krambambuli,"und rannte auf ihn zu, bis – in die Mitte des Weges",489,gold_standard,process,process,process,process,process
+38975,Krambambuli,Der Jäger spielte Tarock mit dem Doktor und mit dem Verwalter,491,gold_standard,process,process,process,process,process
+38978,Krambambuli,Höchstens zwei Jahre mochte er alt sein,492,gold_standard,non_event,non_event,non_event,non_event,non_event
+38984,Krambambuli,Plötzlich stürzte er auf ein Kind los,494,gold_standard,process,process,process,process,process
+38987,Krambambuli,wie sie ihn geringschätzig nannte,495,gold_standard,process,process,process,process,process
+38990,Krambambuli,der manchen Verbrecher stets wieder an den Schauplatz seiner Untat zurückjagt,496,gold_standard,process,process,process,process,process
+38993,Krambambuli,und lief davon,497,gold_standard,process,process,process,process,process
+38996,Krambambuli,"Es war im Lindenrondell, am Ende des herrschaftlichen Parks und in der Nähe der Kulturen",498,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+39002,Krambambuli,aber zum Erwürgen kam es nicht,500,gold_standard,non_event,non_event,non_event,non_event,non_event
+39005,Krambambuli,dachte er,501,gold_standard,process,process,process,process,process
+39008,Krambambuli,Wenn der Hund im Schlosse bleibt,502,gold_standard,non_event,non_event,non_event,non_event,non_event
+39011,Krambambuli,die der Oberförster am liebsten mit Pulverminen umgeben hätte,503,gold_standard,non_event,non_event,non_event,non_event,non_event
+39014,Krambambuli,"läuft wie nicht gescheit um ihn herum, die Nase immer am Boden",504,gold_standard,process,process,process,process,process
+39020,Krambambuli,und was auch in ihnen vorgehen möge,506,gold_standard,non_event,non_event,non_event,non_event,non_event
+39023,Krambambuli,und sein mark- und beinerschütterndes Wehgeheul durchdrang den Wald,507,gold_standard,process,process,process,process,process
+39026,Krambambuli,tat sehr demütig,508,gold_standard,process,process,process,process,process
+39029,Krambambuli,Als man später die Kugel in der Brust des Ermordeten fand,509,gold_standard,process,process,process,process,process
+39035,Krambambuli,"sein Hut nur fliegt, von Schroten durchlöchert, ins Gras",511,gold_standard,process,process,process,process,process
+39038,Krambambuli,der dem Förster gleichsam zum Hohne über die Schulter gelegt worden war,512,gold_standard,process,process,process,process,process
+39041,Krambambuli,und sah den Jäger an,513,gold_standard,process,process,process,process,process
+39044,Krambambuli,Für Kulturen aber und für Jagdgeschichten hatte wieder die Frau keinen Sinn,514,gold_standard,non_event,non_event,non_event,non_event,non_event
+39047,Krambambuli,sprang an seinem Herrn empor,515,gold_standard,process,process,process,process,process
+39050,Krambambuli,und den Befehl mit einem tüchtigen Fußtritt begleitete,516,gold_standard,process,process,process,process,process
+39056,Krambambuli,dem Krambambuli fehlte sie nicht,518,gold_standard,stative_event,non_event,non_event,non_event,non_event
+39059,Krambambuli,und das zahme Geflügel interessiert einen Jäger im lebendigen Zustande gar nicht,519,gold_standard,non_event,non_event,non_event,non_event,non_event
+39062,Krambambuli,und bewunderte im stillen den trotz der schlechten Kondition wundervollen Hund,520,gold_standard,process,process,process,process,process
+39065,Krambambuli,keucht kurz und laut,521,gold_standard,process,process,process,process,process
+39068,Krambambuli,Im Augenblick ist ihm,522,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+39074,Krambambuli,Die Wild- und Waldschäden erreichten eine unerhörte Höhe,524,gold_standard,process,process,process,process,stative_event
+39077,Krambambuli,die bereits mehr als zur Hälfte mit dem duftenden Raube gefüllt waren,525,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+39080,Krambambuli,in der »der Gelbe« lag,526,gold_standard,stative_event,process,process,process,process
+39083,Krambambuli,er starrte nur,527,gold_standard,process,process,process,process,process
+39088,Krambambuli,Mit einem Satze springt er hinter dem Baum hervor und auf den Fußsteig,529,gold_standard,process,process,process,process,process
+39091,Krambambuli,sonst hätte er das Wild nicht mit solcher Sicherheit aufspüren und nicht so geschickt jeder Falle ausweichen können,530,gold_standard,non_event,non_event,non_event,non_event,non_event
+39094,Krambambuli,Gebunden und geknebelt mußte er zuletzt in einem Sacke auf die Schulter geladen und so bis in das mehrere Wegstunden entfernte Jägerhaus getragen werden,531,gold_standard,non_event,non_event,non_event,non_event,process
+39097,Krambambuli,"und sind überzeugt, mit nichts anderem soviel Ehre einlegen zu können als mit dem Krambambuli",532,gold_standard,stative_event,stative_event,stative_event,stative_event,stative_event
+39100,Krambambuli,"kein Wort ermißt die Höhe der Vollendung nicht nur in der Ausübung seines Berufes, sondern auch im täglichen Leben als eifriger Diener, guter Kamerad und treuer Freund und Hüter",533,gold_standard,non_event,non_event,non_event,non_event,non_event
+39103,Krambambuli,"es ihm auch nicht zukommt, der Obrigkeit Lichter aufzustecken, sondern vielmehr den gräßlichen Fund unberührt liegenzulassen und seiner Wege zu gehen",534,gold_standard,non_event,non_event,non_event,non_event,non_event
+39109,Krambambuli,"die bei sinkender Nacht erschien, um die Leiche des Raubschützen in Augenschein zu nehmen und fortschaffen zu lassen",536,gold_standard,process,process,process,process,process
+39118,Krambambuli,"Und wenn Hopp, sich vergessend, recht wie einen Triumphgesang das Liedchen anstimmte: »Was macht denn mein Krambambuli",539,gold_standard,process,non_event,process,non_event,process
+39124,Krambambuli,"Ja, Herr",541,gold_standard,non_event,non_event,non_event,non_event,non_event
+39127,Krambambuli,Dann aber was für ein Hund wurde er da,542,gold_standard,process,non_event,process,non_event,change_of_state
+39136,Krambambuli,Er wußte gleich,545,gold_standard,stative_event,process,process,process,stative_event
+39140,Krambambuli,Liebe,546,gold_standard,non_event,non_event,non_event,non_event,non_event

@@ -1,0 +1,80 @@
+title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth
+Die Judenbuche,wie man dieses ins Werk gestellt,74,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,der unter dem gestohlenen Sacke büßt,115,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,die von ihrem Manne übel behandelt wird,117,gold_standard,non_event,stative_event,stative_event,stative_event
+Die Judenbuche,an diesem Tage habe Mergel zuerst Hand an sie gelegt,142,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,deshalb wurden die Maßregeln dagegen auf eine bisher unerhörte Weise gesteigert,157,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,rechnete Frau Mergel doch um so weniger darauf,209,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Wenn du dich diesem Orte nahest,337,gold_standard,non_event,process,process,process
+Die Judenbuche,mit dem Friedrich ungern zusammentraf,356,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Er meinte,362,gold_standard,stative_event,process,process,process
+Die Judenbuche,aber ich will hier eine gute Streu machen,451,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,und da ein sehr empfindliches Ehrgefühl ihn die geheime Mißbilligung mancher nicht übersehen ließ,461,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,so geräuschlos wie ein Fuchs die Hühnerstiege erklimmt,495,gold_standard,non_event,stative_event,stative_event,stative_event
+Die Judenbuche,den ihm die gnädige Frau aus dem alten Jagdkleide des Herrn hatte machen lassen,543,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,und überhörte die Frage,568,gold_standard,non_event,process,process,process
+Die Judenbuche,ich kann hölzerne Löffel machen,570,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,das um so mehr anerkannt wurde,578,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,ich ließ halten,660,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Eine Spur schien Licht geben wollen,700,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,der Mergel ist vielleicht unschuldig an dem Morde,757,gold_standard,non_event,stative_event,stative_event,stative_event
+Die Judenbuche,Den hält der Teufel fest genug,765,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,so wird es dir ergehen,870,gold_standard,non_event,process,process,process
+Die Judenbuche,Sobald Margreth wieder zur Besinnung kam,922,gold_standard,change_of_state,process,process,process
+Die Judenbuche,das Holz läßt unser Herrgott frei wachsen,954,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"und nur dem Verlierenden fiel es zuweilen ein, in alten staubichten Urkunden nachzuschlagen",997,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,daß sie nicht einzuschreiten gesonnen seien,1034,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,hat sich der Hund von einem Juden an seinem Strumpfband erhängt,1054,gold_standard,change_of_state,process,process,process
+Die Judenbuche,er versäumte keine Kirchweih oder Hochzeit,1075,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,Wohin Ihr sie geschickt habt,1083,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,die Herrschaft habe ihn verschickt,1139,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,kam ihm doch nicht leicht jemand an Ausdauer gleich,1159,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,daß meine Kräfte unter der harten Arbeit vergingen,1183,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Margreth ließ sich geduldig auseinandersetzen,1198,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,und bei den häufig vorfallenden Schlägereien hatte sich jeder selbst seines zerschlagenen Kopfes zu trösten,1244,gold_standard,non_event,process,process,process
+Die Judenbuche,die pochen,1288,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,dem bei strenger Strafe im Bett zu bleiben geboten war,1291,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,und Kettengeklirr und Gebrumm an ihren Ständern herlief,1311,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,als sein übriges Äußere erwarten ließ,1362,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,die Wolken verzogen sich,1365,gold_standard,process,stative_event,stative_event,stative_event
+Die Judenbuche,daß die Kühe an der Tenne die Hörner zurückzogen,1384,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,und ließ die Kinder gewähren,1401,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,dem jeder um so lieber aus dem Wege ging,1405,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Auf dem Schiffe war es ihm nicht viel besser gegangen,1431,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,Da bringen sie mir das Schwein wieder,1433,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,und der Tau stieg fühlbar aus dem Grunde,1461,gold_standard,process,stative_event,stative_event,stative_event
+Die Judenbuche,Du weißt ja doch,1462,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,"so daß man am andern Morgen nichts fand, als Späne und wüste Haufen von Topholz",1486,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Margreth schwieg eine Weile,1496,gold_standard,non_event,process,process,process
+Die Judenbuche,die er selber ging,1524,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,und ließ nicht nach mit Botschaften,1559,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Hatte sie doch selbst vor vierzig Jahren ein Schwesterchen verloren,1593,gold_standard,change_of_state,process,process,process
+Die Judenbuche,Es pocht mir wohl nur so im Kopfe,1606,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,wollte jeder gern die Ehre des Dorfes oben halten,1677,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,weil ich unbrauchbar war,1728,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,doch rechnete man aus Gründen wenig darauf,1737,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,Da viele Auswärtige erwartet wurden,1748,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,es währte kaum eine Minute,1752,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Er ließ sich die Kammer des Verschollenen aufschließen,1784,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"seit man das verdächtigste von allen, das Dorf B., freisprechen mußte",1900,gold_standard,non_event,process,process,process
+Die Judenbuche,Friedrich schwieg,1941,gold_standard,non_event,process,process,process
+Die Judenbuche,er hätte sie fast nicht erkannt,1947,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Nur die arme Margreth blieb ungetröstet,2000,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,Der eine wollte auch glühende Augen durch die Zweige funkeln gesehen haben,2024,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,über dreiviertel Stunden Weges von der Schlucht,2102,gold_standard,non_event,process,process,process
+Die Judenbuche,aber Eichenstämmchen wie mein Arm dick,2103,gold_standard,non_event,stative_event,stative_event,stative_event
+Die Judenbuche,Ich werde alt,2112,gold_standard,process,stative_event,stative_event,stative_event
+Die Judenbuche,sie ist seit ihrem Verschwinden entweder hochmütig getadelt oder albern gelobt worden,2120,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"die Nähe eines Flusses trug sehr dazu bei, die natürliche Kühnheit der Holzfrevler ermutigen",2151,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"Hirten Knechte alle standen stramm und fest, die Hände in den Taschen, gleichsam als stillschweigende Erklärung",2160,gold_standard,process,stative_event,stative_event,stative_event
+Die Judenbuche,je mehr er in das Alter trat,2164,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"das unvergessen In junge Brust die zähen Wurzeln trieb, Des Vorurteils geheimen Seelendieb",2171,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"Kind, Brandis ist ein Förster",2190,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,"wo er im Gebüsch gesessen, das Gesicht auf den Knien",2205,gold_standard,process,stative_event,stative_event,stative_event
+Die Judenbuche,den er im Walde erschlagen,2207,gold_standard,change_of_state,process,process,process
+Die Judenbuche,"Hum, 's hat mal einer eine Kuh gestohlen",2209,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"Nur bat sie den Bruder, streng, doch nicht hart gegen den Knaben zu sein",2245,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"je mehr man sich bewußt war, ihn nicht zu kennen und nicht berechnen zu können",2251,gold_standard,stative_event,non_event,non_event,non_event
+Die Judenbuche,"daß Simon alles tat, seinen Adoptivsohn dieselben Wege zu leiten",2272,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,"Satan von einem Jungen, du kneipst mir den Arm",2297,gold_standard,process,non_event,non_event,non_event
+Die Judenbuche,Eine Frau,2299,gold_standard,non_event,stative_event,stative_event,stative_event

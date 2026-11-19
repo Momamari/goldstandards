@@ -1,0 +1,375 @@
+title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth
+Die Verwandlung,wie er vor mehr als einem Monat sich mit dem Messer ganz wenig in den Finger geschnitten,3,gold_standard,process,process,process,change_of_state
+Die Verwandlung,das Geld zum Leben aber mußte man verdienen,10,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Aber nun hatte er natürlich seinen Körper ganz anders in der Gewalt als früher,14,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,die sie unmittelbar an ihn gerichtet hatte,27,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"Dann aber war er wieder gar nicht in der Laune, sich um seine Familie zu sorgen",53,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,über dem hohen steifen Kragen des Rockes entwickelte sich sein starkes Doppelkinn,55,gold_standard,stative_event,stative_event,stative_event,change_of_state
+Die Verwandlung,"und fiel inmitten ihrer rings um sie herum sich ausbreitenden Röcke nieder, das Gesicht ganz unauffindbar zu ihrer Brust gesenkt",56,gold_standard,process,non_event,process,non_event
+Die Verwandlung,aber ihr Frauen wollt nicht hören,68,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,daß Gregor viel Raum zum Kriechen brauchte,78,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"und war dann überdies nur mit der größten Mühe zu bewegen, den Sessel mit dem Bett zu vertauschen",84,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Die Mutter aber war Gregors Anblick nicht gewöhnt,89,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Man verstand zwar also seine Worte nicht mehr,91,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,auch ihr bleiches Gesicht schien das zu beweisen,96,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,das alle in eine vollständige Hoffnungslosigkeit gebracht hatte,99,gold_standard,process,process,process,change_of_state
+Die Verwandlung,"Gregor unterließ auch diesmal, unter dem Leintuch zu spionieren",108,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,es näherte sich schon dreiviertel,112,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,was sicher die Schwester stören mußte,133,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Noch ehe die Herren das Zimmer erreicht hatten,135,gold_standard,non_event,process,non_event,process
+Die Verwandlung,denn von dem reichlichen Essen hatte sich sein Leib ein wenig gerundet,140,gold_standard,change_of_state,process,change_of_state,process
+Die Verwandlung,die ihm besser entsprach,145,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,wenn nicht Gregor sich durch das Rumpelzeug wand,146,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,er brauchte sich nur ein wenig aufzublasen,149,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,die in ihrem langen Leben mit Hilfe ihres starken Knochenbaues das Ärgste überstanden haben mochte,153,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,"es war ganz anders, als das Liegen auf dem Fußboden",155,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Da mochten Mutter und Schwester mit kleinen Ermahnungen noch so sehr auf ihn eindringen,158,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Nur den Kopf hatte er nicht vorsichtig genug gehalten,160,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,die man eigentlich nicht angreifen durfte,171,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,solange er lebte,172,gold_standard,non_event,process,non_event,process
+Die Verwandlung,denn hier war es doch kein richtiger Schlaf,179,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Er war schon fast ganz umgedreht,181,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,aber sie ließ das Leintuch,182,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Das ist jemand aus dem Geschäft,187,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Das war aber äußerst peinlich und verdächtig,189,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und die jeden zweiten Tag in Atembeschwerden auf dem Sopha beim offenen Fenster verbrachte,198,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,und den anderen zwei als Autorität zu gelten schien,199,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,zweitens aber sei es doch gar nicht sicher,201,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"und so mußte er sich damit begnügen, nur hier und da ihre Seufzer und Anrufe der Heiligen zu hören",211,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,doch fühlte er sich wie festgenagelt,231,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,es war nicht ganz klar,267,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,Man sah vom Bett aus,278,gold_standard,process,process,non_event,process
+Die Verwandlung,"Gleichzeitig aber vergaß er nicht, sich zwischendurch daran zu erinnern",302,gold_standard,process,non_event,process,non_event
+Die Verwandlung,die auch in diesem Zimmer vor lauter Unruhe unsicher schien,303,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,daß er bei stärkerem Schaukeln kaum das Gleichgewicht noch erhielt,310,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"Aber es kostete ihn große Selbstüberwindung, auch nur die kurze Zeit unter dem Kanapee zu bleiben",322,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Wenn nur nicht dieses unerträgliche Zischen des Vaters gewesen wäre,323,gold_standard,stative_event,non_event,non_event,stative_event
+Die Verwandlung,aber jeden Abend war er zu Hause,324,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,so war es kein Schaden sondern ein großer Vorteil,337,gold_standard,stative_event,non_event,non_event,stative_event
+Die Verwandlung,blieb die Wohnzimmertür an manchen Abenden geschlossen,341,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,wie er wolle,351,gold_standard,stative_event,non_event,non_event,stative_event
+Die Verwandlung,daß er jeden Respekt vergaß,354,gold_standard,process,non_event,process,non_event
+Die Verwandlung,Das war für Gregor eine große Aufmunterung,355,gold_standard,stative_event,stative_event,change_of_state,stative_event
+Die Verwandlung,daß ich zu ihm muß,362,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,"denn er hatte noch größeren Hunger, als am Morgen",366,gold_standard,stative_event,stative_event,change_of_state,stative_event
+Die Verwandlung,Einmal aber hatte die Bedienerin die Tür zum Wohnzimmer ein wenig offen gelassen,379,gold_standard,process,non_event,process,non_event
+Die Verwandlung,Er hatte zwar Schmerzen im ganzen Leib,404,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,nun versagte aber Gregors Sehkraft schon,421,gold_standard,process,process,process,change_of_state
+Die Verwandlung,eher kam es ihm unnatürlich vor,428,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,und am Teppich gescheuert hätte,432,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,"und keine Möglichkeit fand, in diese Willkür Ruhe und Ordnung zu bringen",438,gold_standard,non_event,process,non_event,process
+Die Verwandlung,"Man hatte sich eben daran gewöhnt, sowohl die Familie, als auch Gregor",444,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Als er die Umdrehung vollendet hatte,445,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,er brauchte immer nur ruckweise zu schaukeln,446,gold_standard,process,non_event,process,non_event
+Die Verwandlung,"Der Vater schien es für nötiger zu halten, statt Gregor zu vertreiben, vorerst die Zimmerherren zu beruhigen",456,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"und hatte nicht Zeit, auf anderes zu achten",462,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"die daraus bestanden hatte, sich nett zu kleiden, lange zu schlafen, in der Wirtschaft mitzuhelfen, an ein paar bescheidenen Vergnügungen sich zu beteiligen und vor allem Violine zu spielen",463,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Es gab einen lauten Schlag,477,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"und daß sie sich wohl sehr überwinden mußte, vor dem Anblick auch nur der kleinen Partie seines Körpers nicht davonzulaufen",485,gold_standard,process,non_event,process,non_event
+Die Verwandlung,Besonders die Art ließ auf große Nervosität schließen,491,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"aber er fürchtete sich, den Vater durch die zeitraubende Umdrehung ungeduldig zu machen",511,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,und er war gespannt,519,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Später aber mußte man sie mit Gewalt zurückhalten,521,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,die freundlich gemeint war,525,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,und wir quälen ihn,532,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Sie wurden nun tatsächlich ein wenig böse,539,gold_standard,process,process,process,change_of_state
+Die Verwandlung,mehr war es nicht,540,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"und Gregor sah oft ganze Abende lang auf dieses über und über fleckige, mit seinen stets geputzte Goldknöpfen leuchtende Kleid",542,gold_standard,process,process,change_of_state,process
+Die Verwandlung,und die für den Notfall zurückgelegt werden mußte,548,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,daß er sich nun überhaupt nicht mehr rühren konnte,555,gold_standard,process,process,process,change_of_state
+Die Verwandlung,und jeden Augenblick drohte ihm doch von dem Stock in des Vaters Hand der tödliche Schlag auf den Rücken oder auf den Kopf,571,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,da sie den Sessel dort ließ,579,gold_standard,process,non_event,process,non_event
+Die Verwandlung,"daß der Mangel jeder unmittelbaren menschlichen Ansprache, verbunden mit dem einförmigen Leben inmitten der Familie, im Laufe dieser zwei Monate seinen Verstand hatte verwirren müssen",584,gold_standard,non_event,non_event,change_of_state,non_event
+Die Verwandlung,"daß es nun Zeit sein werde, auch einen braven Mann für sie zu suchen",608,gold_standard,process,process,non_event,process
+Die Verwandlung,das der erstaunten und beglückten Familie zu Hause auf den Tisch gelegt werden konnte,613,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,mußte sie ganz genau erzählen,615,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Nur die Schwester war Gregor doch noch nahe geblieben,617,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"als er in der Seite einen noch nie gefühlten, leichten, dumpfen Schmerz zu fühlen begann",629,gold_standard,process,process,process,stative_event
+Die Verwandlung,Man denkt,648,gold_standard,non_event,process,non_event,process
+Die Verwandlung,"als wären sie in ihrer Annahme, ein schönes oder unterhaltendes Violinspiel zu hören, enttäuscht",651,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Die Eltern verstanden das alles nicht so gut,655,gold_standard,non_event,process,non_event,process
+Die Verwandlung,daß er seinen Eltern und seiner Schwester ein solches Leben in einer so schönen Wohnung hatte verschaffen können,659,gold_standard,process,non_event,process,non_event
+Die Verwandlung,er konnte nicht einmal ihren Geruch vertragen,666,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,und er mußte auf seinen zwei Beinreihen regelrecht hinken,673,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,er verdient ein Heidengeld,681,gold_standard,non_event,process,non_event,process
+Die Verwandlung,Der Vater schien wieder von seinem Eigensinn derartig ergriffen,687,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"und rührte sich nicht, um kein Wort der Gespräche zu verlieren",696,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Vielleicht aber spielte auch der schwärmerische Sinn der Mädchen ihres Alters mit,698,gold_standard,process,non_event,process,non_event
+Die Verwandlung,ich sehe es ein,700,gold_standard,process,process,process,change_of_state
+Die Verwandlung,Die Mutter war ohnmächtig,711,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,da wohl niemand allein zu Hause bleiben wollte,714,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"so daß er, im Dunkel seines Zimmers liegend, vom Wohnzimmer aus unsichtbar, die ganze Familie beim beleuchteten Tische sehen",722,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,was sie für ihn machen mußte,723,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Die Familie war gänzlich vom Violinspiel in Anspruch genommen,734,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,ich glaube,740,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,und ob vielleicht eine kleine Besserung zu bemerken war,742,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Sie verständigten sich durch Gregors Zimmer,753,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,und vergaß in der Aufregung alles andere,764,gold_standard,process,process,process,change_of_state
+Die Verwandlung,Manchmal konnte er vor allgemeiner Müdigkeit gar nicht mehr zuhören,770,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,die sie nun während des Weinens im Gegensatz zu ihrer früheren Sicherheit ergriffen hatte,772,gold_standard,process,process,process,change_of_state
+Die Verwandlung,daß Sie mir wenigstens zu einem kleinen Teil recht geben,773,gold_standard,non_event,process,non_event,process
+Die Verwandlung,"er hatte jetzt nichts zu tun, als zu warten",775,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,was ihn dorthin eigentlich gelockt hatte,776,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,stockte,784,gold_standard,process,non_event,process,non_event
+Die Verwandlung,Dies gelang auch leicht,795,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,den er empfand,799,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,bald steckte er fest,802,gold_standard,process,process,process,stative_event
+Die Verwandlung,Allerdings mußte sich Gregor sagen,804,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Und sie brach so heftig in Weinen aus,807,gold_standard,change_of_state,process,process,change_of_state
+Die Verwandlung,aber er mußte bis zum Mittag warten,808,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,man hatte sie vergessen,814,gold_standard,process,non_event,process,non_event
+Die Verwandlung,wenn er auch nur ein paar Morgenstunden für das Geschäft nicht ausgenutzt hatte,823,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Aus diesem Grunde waren viele Dinge überflüssig geworden,825,gold_standard,process,process,change_of_state,process
+Die Verwandlung,Außerdem aber war das Geld nicht vollständig aufgebraucht worden,828,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Wollte er eines einmal einknicken,831,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,hatte vergessen,834,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,"Aber selbst wenn die Schwester, erschöpft von ihrer Berufsarbeit, dessen überdrüssig geworden war, für Gregor, wie früher, zu sorgen",842,gold_standard,stative_event,stative_event,stative_event,change_of_state
+Die Verwandlung,der ihn ergriffen hatte,856,gold_standard,process,process,process,change_of_state
+Die Verwandlung,"gar nicht recht imstande war, aufzustehen",862,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,wo er sich gleich sehr behaglich fühlte,866,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,und seinem heißen Bauch wohltat,869,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,die durch seine Schuld vielleicht dem Tode nahe war,873,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"da er sie durch seine Stellung verhinderte, sofort das Fenster zu öffnen",874,gold_standard,process,process,stative_event,process
+Die Verwandlung,und ließen sich nur aus Höflichkeit noch in ihrer Ruhe stören,879,gold_standard,process,non_event,process,non_event
+Die Verwandlung,daß es nicht nur die Rücksicht auf ihn war,883,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und führt dabei ein schönes Leben,893,gold_standard,non_event,process,non_event,process
+Die Verwandlung,die viele Feuchtigkeit kränkte allerdings Gregor auch,900,gold_standard,process,process,process,change_of_state
+Die Verwandlung,"trotzdem es ihn eigentlich ungeheuer drängte, unterm Kanapee vorzuschießen, sich der Schwester zu Füßen zu werfen und sie um irgendetwas Gutes zum Essen zu bitten",913,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Früh hatten alle zu ihm hereinkommen wollen,914,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,jetzt war er doch acht Tage in der Stadt,921,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,als sie nur halten konnte,927,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,"Und trotz dieses Zustandes hatte er keine Scheu, ein Stück auf dem makellosen Fußboden des Wohnzimmers vorzurücken",931,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,vielleicht wollte die Schwester ihnen auch eine möglicherweise nur kleine Trauer ersparen,932,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,daß er die anderen verstehen könne,934,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,fühlte er zum erstenmal an diesem Morgen ein körperliches Wohlbehagen,947,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Nur zweimal hatte die aufmerksame Schwester sehen müssen,953,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Ich ärgere mich schon fast,954,gold_standard,process,non_event,process,non_event
+Die Verwandlung,ehe ihr eigentlich zum Bewußtsein kam,961,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Augenblicklich lag er wohl da auf dem Teppich,981,gold_standard,process,process,stative_event,process
+Die Verwandlung,und als der Vater schwieg,984,gold_standard,process,non_event,process,non_event
+Die Verwandlung,daß das Aufräumen von Gregors Zimmer ihr vorbehalten blieb,991,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Nun vielleicht war dieses Vorlesen in der letzten Zeit überhaupt aus der Übung gekommen,996,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Aber man denkt eben immer,1001,gold_standard,process,non_event,process,non_event
+Die Verwandlung,Kein Bitten Gregors half,1006,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,aber das war gänzlich undurchführbar,1012,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,als sich das ganze Zimmer schon um ihn zu drehen anfing,1014,gold_standard,process,process,process,change_of_state
+Die Verwandlung,Aber das hohe freie Zimmer ängstigte ihn,1017,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,denn er fühlte sich genügend ausgeruht und ausgeschlafen,1030,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Ihr scheine das Gegenteil der Fall zu sein,1034,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Man mußte sie von der Küche aus gehört haben,1038,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Es schien leider,1040,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Die Zuversicht und Sicherheit taten ihm wohl,1063,gold_standard,process,process,process,stative_event
+Die Verwandlung,"der Regen fiel noch nieder, aber nur mit großen, einzeln sichtbaren und förmlich auch einzelnweise auf die Erde hinuntergeworfenen Tropfen",1068,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,daß ihm die Wände freistanden,1078,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,daß ihnen jede Voraussicht abhanden gekommen war,1079,gold_standard,process,non_event,process,non_event
+Die Verwandlung,denn nun konnte er den Prokuristen anhören,1085,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Gewiß wollten auch sie nicht,1089,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Es dauerte sehr lange,1094,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,was er selbst zu entscheiden sich nicht mehr getraute,1101,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Dies frühzeitige Aufstehen macht einen ganz blödsinnig,1105,gold_standard,non_event,process,non_event,process
+Die Verwandlung,wie er ja auch in seiner früheren Zeit keine ganz vertrauenswürdige Lunge besessen hatte,1110,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,denn er fühlte den Hals steif werden,1112,gold_standard,change_of_state,process,process,change_of_state
+Die Verwandlung,als sei er gleichzeitig wütend und froh,1119,gold_standard,stative_event,non_event,non_event,stative_event
+Die Verwandlung,der in seiner Eigenschaft als Unternehmer sich in seinem Urteil leicht zu Ungunsten eines Angestellten beirren läßt,1133,gold_standard,non_event,non_event,non_event,change_of_state
+Die Verwandlung,Gregor hatte den Kopf bis knapp zum Rande des Kanapees vorgeschoben,1137,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,in der sich Gregor dort oben befand,1140,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"Der Prokurist mußte gehalten, beruhigt, überzeugt und schließlich gewonnen werden",1142,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,wurden sie aufmerksam,1148,gold_standard,process,process,process,change_of_state
+Die Verwandlung,tatsächlich aber blieben sie dort liegen,1159,gold_standard,process,non_event,process,non_event
+Die Verwandlung,"es genügte vielleicht, um die Familie ein, höchstens zwei Jahre zu erhalten",1174,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Er fühlte sich wieder einbezogen in den menschlichen Kreis,1176,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"sie hatte sich, allerdings nicht ganz unberechtigt, angewöhnt, bei Besprechung der Angelegenheiten Gregors als besonders Sachverständige gegenüber den Eltern aufzutreten",1194,gold_standard,process,process,process,change_of_state
+Die Verwandlung,er wollte lieber verhungern,1204,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und er mußte sich unweigerlich sagen,1210,gold_standard,process,process,process,stative_event
+Die Verwandlung,und mußte auch hier und da ausruhen,1226,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Das mußte aber gewagt werden,1247,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,aber es geht ihr schon besser,1259,gold_standard,stative_event,stative_event,stative_event,change_of_state
+Die Verwandlung,die jetzt so nach ihm verlangten,1260,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,der Prokurist mußte etwas ahnen,1266,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,wo es doch viel bequemer und gemütlicher ist,1275,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,ihm ist nicht wohl,1291,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,da er nicht mehr von den Beinchen gehoben war,1293,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,ein Splitter verletzte Gregor im Gesicht,1299,gold_standard,change_of_state,process,process,change_of_state
+Die Verwandlung,Ich habe es ja erwartet,1305,gold_standard,process,process,process,stative_event
+Die Verwandlung,"das nicht irgendwie, wenn auch nur im geheimen, von ihm handelte",1310,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,was sie schon seit Monaten nicht getan hatten,1314,gold_standard,non_event,process,non_event,process
+Die Verwandlung,Es geht noch nicht so gut,1315,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,und erstarrte fast,1324,gold_standard,process,process,stative_event,process
+Die Verwandlung,seine eine Flanke war ganz wundgerieben,1326,gold_standard,stative_event,stative_event,change_of_state,stative_event
+Die Verwandlung,"für den es ja überhaupt nur ganz gesunde, aber arbeitsscheue Menschen gibt",1331,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,was er an Kraft aufbringen konnte,1332,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,so sehr sie auch brannten,1349,gold_standard,process,process,stative_event,process
+Die Verwandlung,und sie blieb so offen,1365,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Er schwieg,1373,gold_standard,process,non_event,process,non_event
+Die Verwandlung,dies nur nebenbei erwähnt,1377,gold_standard,process,non_event,process,non_event
+Die Verwandlung,er mochte den Kopf noch so demütig drehen,1381,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,mußte dann aber untätig hinter ihr stehen,1390,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,aber da Sie mich hier nutzlos meine Zeit versäumen lassen,1393,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,da möglicherweise auch schon dieses Geräusch anders als menschlicher Husten klang,1413,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und sie schien viel unruhiger als sonst,1414,gold_standard,process,process,change_of_state,process
+Die Verwandlung,und sehr bald mußte er sich nun endgültig entscheiden,1415,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,was er wollte,1420,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,hielt sich aber nicht lange auf,1429,gold_standard,non_event,process,non_event,process
+Die Verwandlung,sie hatten diese Arbeitsunterbrechung nicht nur verdient,1437,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Sie stockte,1438,gold_standard,process,non_event,process,non_event
+Die Verwandlung,ja sogar von nun ab den inneren Fensterflügel offen ließ,1442,gold_standard,process,non_event,process,non_event
+Die Verwandlung,daß sie fortgehe,1443,gold_standard,process,process,non_event,process
+Die Verwandlung,Nun ist wieder alles stehengeblieben,1448,gold_standard,process,non_event,process,non_event
+Die Verwandlung,wie er sich bald eingestehen mußte,1450,gold_standard,process,process,process,stative_event
+Die Verwandlung,Vielleicht merkte der Vater seinen guten Willen,1471,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,daß diese bei näherer Betrachtung durchaus nicht schlecht waren,1472,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und Grete mußte daher öffnen gehen,1494,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Den verfaulten Apfel in seinem Rücken und die entzündete Umgebung spürte er schon kaum,1496,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Und wenn nun auch Gregor durch seine Wunde an Beweglichkeit wahrscheinlich für immer verloren hatte,1508,gold_standard,non_event,non_event,change_of_state,non_event
+Die Verwandlung,hätten die ganze Vorführung satt,1515,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Gregor brauchte nur das erste Grußwort des Besuchers zu hören,1516,gold_standard,process,non_event,process,non_event
+Die Verwandlung,sie traute ihm allen möglichen Verstand zu,1524,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,welche fürchtete,1537,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"daß er in der stillen, aber völlig städtischen Charlottenstraße wohnte",1544,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,denn das Geschäft wird vor sieben Uhr geöffnet,1547,gold_standard,process,non_event,process,non_event
+Die Verwandlung,denn die Bedienerin schien ihre kaum gewonnene Ruhe wieder gestört zu haben,1550,gold_standard,process,non_event,process,non_event
+Die Verwandlung,"Der Wunsch Gregors, die Mutter zu sehen, ging bald in Erfüllung",1559,gold_standard,process,non_event,process,non_event
+Die Verwandlung,und achtete nicht darauf,1562,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,wurde sie aufmerksam,1563,gold_standard,process,process,process,change_of_state
+Die Verwandlung,Im übrigen fühlte er sich verhältnismäßig behaglich,1578,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"als daß er sich, wie früher mehrmals während des Tages, auf den Rücken gelegt",1584,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Ihm war,1585,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"Ein leichtes Unwohlsein, ein Schwindelanfall, haben mich verhindert aufzustehen",1592,gold_standard,process,non_event,process,non_event
+Die Verwandlung,bloß Wut über die schlechte Wartung erfüllte ihn,1598,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Zuerst wollte er mit dem unteren Teil seines Körpers aus dem Bett hinauskommen,1600,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,und ich arbeite gern,1603,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Ebenso auch die Aschenkiste und die Abfallkiste aus der Küche,1606,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Er fühlte ein leichtes Jucken oben auf dem Bauch,1611,gold_standard,process,process,process,stative_event
+Die Verwandlung,Gregor war es klar,1613,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,und die er vollständig billigte,1622,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Nun hatte aber Gregor noch gar keine Übung im Rückwärtsgehen,1626,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"Die Bedienerin hatte vielleicht die Absicht, bei Zeit und Gelegenheit die Dinge wieder zu holen oder alle insgesamt mit einemmal hinauszuwerfen",1630,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Beim Anhören dieser Worte der Mutter erkannte Gregor,1641,gold_standard,process,process,process,change_of_state
+Die Verwandlung,"und bitte Sie ganz ernsthaft um eine augenblickliche, deutliche Erklärung",1648,gold_standard,non_event,process,non_event,process
+Die Verwandlung,Wohl nur infolge der Gegenwart der Mutter behielt sie ihre Fassung,1649,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,es sah aus,1662,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"aber dann ist gerade der richtige Zeitpunkt, sich an die früheren Leistungen zu erinnern und zu bedenken",1669,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,als zeige sich ihm der Weg zu der ersehnten unbekannten Nahrung,1671,gold_standard,stative_event,non_event,non_event,stative_event
+Die Verwandlung,und annahm,1673,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Aber Gretes Worte hatten die Mutter erst recht beunruhigt,1677,gold_standard,change_of_state,process,process,change_of_state
+Die Verwandlung,denn es war in fünf Minuten einviertel acht,1685,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und er selbst noch nicht zu sehen,1697,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,und war fast über Nacht aus einem kleinen Kommis ein Reisender geworden,1698,gold_standard,process,process,change_of_state,process
+Die Verwandlung,damit der Vater beim Eintritt vom Vorzimmer her gleich sehen könne,1701,gold_standard,non_event,process,non_event,process
+Die Verwandlung,"obwohl er nach solchen Wanderungen, zum Sterben müde und traurig, wieder stundenlang sich nicht rührte",1707,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,da wollte er lieber im Bett bleiben,1709,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,ich sehe es kommen,1710,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,die ihn vom Essen abhalte,1711,gold_standard,process,non_event,process,non_event
+Die Verwandlung,das Essen machte ihm bald nicht mehr das geringste Vergnügen,1729,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Trotz aller Not konnte er bei diesem Gedanken ein Lächeln nicht unterdrücken,1742,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,"und vorläufig zur Durchquerung seines Zimmers wie ein alter Invalide lange, lange Minuten brauchte",1748,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,den dieser mit Hut und Überzieher auf einem Sessel zurückgelassen hatte,1752,gold_standard,process,process,process,stative_event
+Die Verwandlung,und nur die seit langem nicht gehörte Stimme der Mutter hatte ihn aufgerüttelt,1759,gold_standard,change_of_state,process,process,change_of_state
+Die Verwandlung,es ist krepiert,1760,gold_standard,stative_event,stative_event,change_of_state,stative_event
+Die Verwandlung,"Ich glaubte Sie als einen ruhigen, vernünftigen Menschen zu kennen",1767,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"strebten sogar darnach, ihn fortzutragen",1769,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"er hatte also eine lange Zeit, um ungestört zu überlegen",1770,gold_standard,process,process,process,stative_event
+Die Verwandlung,Ein wenig wurde der Fall durch den Teppich abgeschwächt,1771,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Da er die Türe auf diese Weise öffnen mußte,1784,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,den er beim Fall scharf heben wollte,1787,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Und Ihre Stellung ist durchaus nicht die festeste,1788,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,und hatte sogar einen besonders kräftigen Hunger,1797,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,und das nahm sich allerdings auffallend aus,1798,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,und verstummte,1815,gold_standard,process,non_event,process,non_event
+Die Verwandlung,das er damit verursacht hatte,1825,gold_standard,process,process,stative_event,process
+Die Verwandlung,wo man bei der kleinsten Versäumnis gleich den größten Verdacht faßte,1828,gold_standard,non_event,process,non_event,process
+Die Verwandlung,"daß Gregor die beste Absicht habe, sofort in sein Zimmer zurückzukehren",1829,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,und ihr Benehmen entschuldigte,1831,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Der nächste Zug ging um sieben Uhr,1833,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,was er sprach,1836,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,er ist vielleicht schwer krank,1838,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,wohin sie durch den ersten Wurf gekommen waren,1839,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,die Beinchen auf der einen Seite hingen zitternd oben in der Luft,1840,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,er fühlte keine Behinderung mehr,1845,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,der fast das ganze Jahr außerhalb des Geschäfts ist,1848,gold_standard,stative_event,non_event,non_event,stative_event
+Die Verwandlung,Denn tatsächlich sah er von Tag zu Tag die auch nur ein wenig entfernten Dinge immer undeutlicher,1849,gold_standard,change_of_state,process,process,change_of_state
+Die Verwandlung,allerdings machte das nicht viel Mühe,1850,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Wie lange du heute schon wieder nähst,1867,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,und bestimmt ist ihm nicht wohl,1871,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Einen Augenblick blieb alles still,1872,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,zur Rettung des Bildes war noch Zeit,1887,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,die guten Einwirkungen der Möbel auf seinen Zustand konnte er nicht entbehren,1891,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,was die Familie hauptsächlich vom Wohnungswechsel abhielt,1893,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,in die sie nach dem plötzlich abgebrochenen Spiel verfallen war,1898,gold_standard,process,process,process,change_of_state
+Die Verwandlung,die auf der anderen waren schmerzhaft zu Boden gedrückt,1909,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"und ihre Reden, gewissermaßen mit allgemeiner Erlaubnis, also ganz anders als früher, anhören durfte",1911,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,vielleicht war das ein gutes Zeichen,1914,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,der eine Wanderung durch die Wohnung schon Anstrengung verursachte,1917,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,denn wie man genau hören konnte,1937,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,er hatte in diesen fünf Jahren viel Fett angesetzt,1954,gold_standard,process,process,process,change_of_state
+Die Verwandlung,die an Asthma litt,1956,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Er konnte das Schnaufen der Anstrengung nicht unterdrücken,1962,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,daher kam der nicht gar so auffallende dumpfe Klang,1967,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,die frischen Speisen dagegen schmeckten ihm nicht,1977,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Seine Wunden mußten übrigens auch schon vollständig geheilt sein,1989,gold_standard,non_event,non_event,change_of_state,non_event
+Die Verwandlung,welche eine Übersiedlung verhinderte,1992,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und in der fast glücklichen Zerstreutheit konnte es geschehen,1999,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt,2003,gold_standard,change_of_state,process,change_of_state,process
+Die Verwandlung,und schon glaubte er,2017,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,es ging so langsam,2036,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,wie sich zeigte,2039,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,Nun mußte die Schwester im Verein mit der Mutter auch kochen,2044,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,die Augen fielen ihr vor Ermattung fast zu,2051,gold_standard,process,non_event,process,non_event
+Die Verwandlung,man erkannte das eigentlich erst jetzt,2052,gold_standard,stative_event,stative_event,stative_event,change_of_state
+Die Verwandlung,so schmeckte ihm überdies die Milch gar nicht,2053,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,und fühlte einen großen Stolz darüber,2064,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,und war dadurch recht schwerfällig geworden,2065,gold_standard,process,process,change_of_state,process
+Die Verwandlung,kein Bitten wurde auch verstanden,2073,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Getrunken wurde vielleicht auch nichts,2074,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,"dagegen konnte er sich nicht versagen, im Anblick des fließenden Kaffees mehrmals mit den Kiefern ins Leere zu schnappen",2081,gold_standard,process,non_event,process,non_event
+Die Verwandlung,und ruhte sich dort einen Augenblick lang von der Anstrengung aus,2084,gold_standard,process,non_event,process,non_event
+Die Verwandlung,der sich vor Erregung nicht mehr kannte,2087,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"Die Enttäuschung über das Mißlingen seines Planes, vielleicht aber auch die durch das viele Hungern verursachte Schwäche machten es ihm unmöglich, sich zu bewegen",2089,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,sie hatten sie wohl offen gelassen,2098,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Sie war wohl erst jetzt aus dem Bett aufgestanden,2102,gold_standard,process,non_event,process,non_event
+Die Verwandlung,in der kleine Schnitten von Weißbrot schwammen,2107,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,da er infolge seines leidenden Zustandes bei den schwierigen Umdrehungen mit seinem Kopfe nachhelfen mußte,2112,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Besonders in der ersten Zeit gab es kein Gespräch,2118,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,und das trübe Wetter machte ihn ganz melancholisch,2122,gold_standard,change_of_state,process,change_of_state,process
+Die Verwandlung,Infolgedessen verlor die gleich anfangs nicht neue Uniform trotz aller Sorgfalt von Mutter und Schwester an Reinlichkeit,2126,gold_standard,process,process,change_of_state,process
+Die Verwandlung,"entschlossen, den zögernden Besucher doch irgendwie hereinzubringen oder doch wenigstens zu erfahren",2133,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,Aber Gregor hatte jetzt keine Zeit für seine Eltern,2136,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,aus dem nur ein wenig Milch ringsherum verschüttet war,2137,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,mußte er eine Unzahl von Bewegungen ausführen,2144,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Inzwischen hatte die Schwester die Verlorenheit überwunden,2145,gold_standard,process,process,process,change_of_state
+Die Verwandlung,weil kein sonstiger Platz zum Kriechen frei war,2146,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,Noch gestern abend war mir ganz gut,2148,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,die das verursachen mußte,2153,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,daß nur eines verletzt worden war,2161,gold_standard,process,process,change_of_state,process
+Die Verwandlung,ich stehe schon auf,2163,gold_standard,process,non_event,process,non_event
+Die Verwandlung,Aber die Schwester war eben nicht da,2169,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"sie stand hier trotz der Anwesenheit des Prokuristen mit von der Nacht her noch aufgelösten, hoch sich sträubenden Haaren",2173,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,der vor Gewissensbissen närrisch wurde,2174,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Während des Tages wollte Gregor schon aus Rücksicht auf seine Eltern sich nicht beim Fenster zeigen,2175,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und mußte sich mit Gewalt losreißen,2182,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,Gregor war aber viel ruhiger geworden,2184,gold_standard,change_of_state,process,change_of_state,process
+Die Verwandlung,den sie frei ohne Band oder Kragen trug,2186,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,"und nun scheinen Sie plötzlich anfangen zu wollen, mit sonderbaren Launen zu paradieren",2207,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,wenn er etwas sagen wollte,2212,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,es dürfte noch fünf bis sechs Jahre dauern,2213,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"Gregor fühlte sich tatsächlich, abgesehen von einer nach dem langen Schlaf wirklich überflüssigen Schläfrigkeit, ganz wohl",2219,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,daß dem Vater von jenem Geschäft her nicht das Geringste übriggeblieben war,2221,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"Seine linke Seite schien eine einzige lange, unangenehm spannende Narbe",2223,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"und keine andere Antwort bekam, als",2227,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,"oder besser, schon gestern abend hatte ich eine kleine Vorahnung",2232,gold_standard,process,non_event,process,non_event
+Die Verwandlung,"daß er die Milch stehen gelassen hatte, und zwar keineswegs aus Mangel an Hunger",2236,gold_standard,process,process,process,stative_event
+Die Verwandlung,"Nun, Herr Prokurist, Sie sehen",2239,gold_standard,process,non_event,process,non_event
+Die Verwandlung,"Danke, ich habe genug",2241,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,"Nun, die Hoffnung ist noch nicht gänzlich aufgegeben",2246,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,"es klang, wie wenn der Wind saust",2254,gold_standard,stative_event,process,stative_event,process
+Die Verwandlung,"teils auch, weil die Mutter nicht alles gleich beim ersten Mal verstand",2255,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,dann hätte sie es ja entfernen können,2259,gold_standard,non_event,non_event,non_event,stative_event
+Die Verwandlung,die überhaupt die ganze Familie ergriffen hatte,2272,gold_standard,process,process,process,change_of_state
+Die Verwandlung,"Sie aber, Herr Prokurist, Sie haben einen besseren Überblick über die Verhältnisse als das sonstige Personal, ja sogar, ganz im Vertrauen gesagt, einen besseren Überblick als der Herr Chef selbst",2274,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,"die er zum Teil im Halbschlaf verbrachte, zum Teil aber in Sorgen und undeutlichen Hoffnungen",2277,gold_standard,process,process,change_of_state,process
+Die Verwandlung,"teils, weil er selbst sich mit diesen Dingen schon lange nicht beschäftigt hatte",2288,gold_standard,non_event,non_event,stative_event,non_event
+Die Verwandlung,"jemand hatte wohl das Bedürfnis hereinzukommen, aber auch wieder zuviele Bedenken",2293,gold_standard,process,non_event,process,non_event
+Die Verwandlung,Gregor hatte ausführlich antworten und alles erklären wollen,2295,gold_standard,stative_event,process,process,stative_event
+Die Verwandlung,Er wollte sie nicht mehr aus seinem Zimmer lassen,2309,gold_standard,stative_event,non_event,stative_event,non_event
+Die Verwandlung,und es in Bewegung brachte,2310,gold_standard,non_event,non_event,process,non_event
+Die Verwandlung,"Ohne jetzt mehr nachzudenken, womit man Gregor einen besonderen Gefallen machen könnte",2318,gold_standard,non_event,non_event,process,non_event

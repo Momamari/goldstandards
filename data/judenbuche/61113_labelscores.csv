@@ -1,0 +1,19 @@
+Model;Category;Precision;Recall;F1-Score;Support
+Dawid & Skene;change_of_state;0,895;0,447;0,596;38,000
+Dawid & Skene;non_event;0,910;0,975;0,942;769,000
+Dawid & Skene;process;0,882;0,958;0,919;1057,000
+Dawid & Skene;stative_event;0,964;0,683;0,799;435,000
+Dawid & Skene;macro avg;0,913;0,766;0,814;2299,000
+Dawid & Skene;weighted avg;0,907;0,903;0,899;2299,000
+MACE;change_of_state;0,696;0,421;0,525;38,000
+MACE;non_event;0,926;0,930;0,928;769,000
+MACE;process;0,984;0,738;0,843;1057,000
+MACE;stative_event;0,584;0,954;0,724;435,000
+MACE;macro avg;0,797;0,761;0,755;2299,000
+MACE;weighted avg;0,884;0,838;0,844;2299,000
+GLAD;change_of_state;0,780;0,842;0,810;38,000
+GLAD;non_event;0,910;0,975;0,942;769,000
+GLAD;process;0,893;0,952;0,921;1057,000
+GLAD;stative_event;0,967;0,683;0,801;435,000
+GLAD;macro avg;0,888;0,863;0,868;2299,000
+GLAD;weighted avg;0,911;0,907;0,903;2299,000

@@ -1,0 +1,1450 @@
+title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth
+Effi Briest,dem sich unerklärlicherweise Freund Alonzo anvertrauen wolle,1,gold_standard,stative_event,process,process,process
+Effi Briest,die sie noch immer geschlossen hielt,2,gold_standard,process,process,process,stative_event
+Effi Briest,wie er Sie wegen des Kindes tot machen will,10,gold_standard,stative_event,process,process,process
+Effi Briest,Als er aber die Gläser nehmen wollte,12,gold_standard,stative_event,process,process,process
+Effi Briest,und die Brandung ging hoch,13,gold_standard,process,process,process,stative_event
+Effi Briest,Und wenn ich mich frage,14,gold_standard,process,non_event,process,process
+Effi Briest,Der Kaffee kam,15,gold_standard,process,process,process,stative_event
+Effi Briest,Aber ich glaube,16,gold_standard,stative_event,process,process,process
+Effi Briest,auch versöhnt mit ihm,23,gold_standard,non_event,stative_event,stative_event,stative_event
+Effi Briest,Und da klappt denn einer zusammen,25,gold_standard,non_event,non_event,process,process
+Effi Briest,der von solchem Patriotismus nicht viel hielt,30,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und was an einem Tage geschah,38,gold_standard,process,process,process,stative_event
+Effi Briest,Ich muß,42,gold_standard,non_event,non_event,process,process
+Effi Briest,das Wasser hat eine scheidende Kraft,44,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,aber gleich hinterher kommt Glanz und Ehre,48,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,als ob die Wellen hier schlimmer wären als wo anders,49,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,daß er erfährt,68,gold_standard,non_event,non_event,process,process
+Effi Briest,der sich darum zu ranken habe,69,gold_standard,non_event,non_event,process,process
+Effi Briest,und nur darin hast Du recht,71,gold_standard,stative_event,process,process,process
+Effi Briest,und ehe eine halbe Minute vorüber war,75,gold_standard,process,process,process,stative_event
+Effi Briest,wogegen sie freilich über jenen alten Paddenhumor verfügte,86,gold_standard,stative_event,process,process,process
+Effi Briest,was geschehen ist,90,gold_standard,process,process,process,stative_event
+Effi Briest,seine Fahrten nach Varzin würden in diesem Jahre fortfallen,93,gold_standard,non_event,non_event,process,process
+Effi Briest,"wo, der Sage nach, ein Wendentempel gestanden",104,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,wie diese furchtbare Sidonie mir eben andeutete,110,gold_standard,process,process,process,stative_event
+Effi Briest,Ich kann's aushalten,117,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,denn sie wußte längst,118,gold_standard,stative_event,process,process,process
+Effi Briest,Es schien,122,gold_standard,non_event,non_event,process,process
+Effi Briest,die sich vor dem Feinde mächtig fürchtete,124,gold_standard,stative_event,process,process,process
+Effi Briest,Ich weiß aber doch,125,gold_standard,stative_event,process,process,process
+Effi Briest,und weil es sehr schön ist,126,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und wenn er den letzten Bissen aufgefangen hatte,130,gold_standard,process,non_event,process,non_event
+Effi Briest,Frau von Padden wollte für das Wasser eintreten,133,gold_standard,stative_event,process,process,process
+Effi Briest,und nun soll ich schuld sein,136,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und ein Auge dafür haben,143,gold_standard,non_event,non_event,process,process
+Effi Briest,das weiß ich auch,144,gold_standard,stative_event,process,process,process
+Effi Briest,Ein Gefühl der Befreiung überkam sie,151,gold_standard,change_of_state,process,process,process
+Effi Briest,und sich durch die Dünen schleicht,159,gold_standard,process,process,process,stative_event
+Effi Briest,Knut wolle die Durchfahrt riskieren,160,gold_standard,stative_event,process,process,process
+Effi Briest,Auf dem Rückwege vom Walde nach der Oberförstern begann es zu schneien,171,gold_standard,process,process,process,change_of_state
+Effi Briest,Aber 'mal kommt es,175,gold_standard,non_event,non_event,process,process
+Effi Briest,das fehlt Ihnen eben,181,gold_standard,non_event,non_event,process,process
+Effi Briest,und fragt sich,187,gold_standard,non_event,non_event,process,process
+Effi Briest,allerdings ziemlich unvollkommen,189,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"wirklich, es war ganz wie ein Märchen",193,gold_standard,process,stative_event,stative_event,stative_event
+Effi Briest,Sie sprachen noch eine Weile so weiter,212,gold_standard,process,process,process,stative_event
+Effi Briest,aber in Respekts- und Bewunderungsfalten,220,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Dies Kreuz gehörte mit dazu,233,gold_standard,stative_event,process,process,process
+Effi Briest,und schickt,242,gold_standard,non_event,non_event,process,process
+Effi Briest,aber Sie wollen sich interessant machen,254,gold_standard,stative_event,process,process,process
+Effi Briest,und das Meer schäumte mächtig,260,gold_standard,stative_event,process,process,process
+Effi Briest,Eigentlich glauben Sie's grad so wenig wie wir,261,gold_standard,stative_event,process,process,process
+Effi Briest,was Crampas gesagt hatte,262,gold_standard,process,process,process,stative_event
+Effi Briest,ein wahres Kunststück,272,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Ich glaube,273,gold_standard,stative_event,process,process,process
+Effi Briest,"bei welchem Wort er sich, Aug' in Auge mit dem nur etwa um ein Dutzend Jahre jüngeren Innstetten, einen Ruck geben mußte",277,gold_standard,change_of_state,process,process,process
+Effi Briest,Alles ausgeflogen,281,gold_standard,stative_event,process,process,process
+Effi Briest,Bewegung sei alles,284,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und der Kutscher wollte jetzt rechts einbiegen auf die Mole zu,288,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,wie Sie mich immer machen wollen,290,gold_standard,stative_event,process,process,process
+Effi Briest,er denkt sich dabei,291,gold_standard,stative_event,process,process,process
+Effi Briest,die mir gleich so sonderbar aussahen,300,gold_standard,stative_event,process,process,process
+Effi Briest,Ein bißchen fällt immer ab,302,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und wie das Mütterchen,303,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Du hast ja den Brief noch in der Tasche,307,gold_standard,stative_event,process,process,process
+Effi Briest,und Resignation üben,318,gold_standard,non_event,non_event,process,process
+Effi Briest,Was alles vorkommt,324,gold_standard,non_event,non_event,process,process
+Effi Briest,Der Major fand die Sache kapital,331,gold_standard,stative_event,process,process,process
+Effi Briest,Wünsche aber liegen meist schon auf der Lippe,332,gold_standard,non_event,process,process,process
+Effi Briest,und ebenso zeigte sich Innstetten's Stimmung gebessert,334,gold_standard,stative_event,process,process,process
+Effi Briest,"da, wo immer die landrätlichen Verordnungen stehen",338,gold_standard,process,non_event,process,process
+Effi Briest,eins geht vor,347,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die derlei schmerzlichen Betrachtungen nachhing,349,gold_standard,process,process,process,stative_event
+Effi Briest,"Frau von Briest, sonst so kritisch, auch ihrem eigenen geliebten Kinde gegenüber, nahm dies anscheinend mangelnde Interesse nicht nur von der leichten Seite",357,gold_standard,stative_event,process,process,process
+Effi Briest,"die, nach Frauenart, nicht ganz abgeneigt war, die ganze Sache als einen interessanten Fall anzusehen",359,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,daß Crampas recht hat,377,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und es beglückte sie unendlich,378,gold_standard,stative_event,process,process,process
+Effi Briest,man gehört einem Ganzen an,380,gold_standard,non_event,non_event,process,process
+Effi Briest,"und Wüllersdorf war sogar, freilich vor einer Reihe von Jahren schon, in den verschiedensten kleinen Nestern der Provinz Posen gewesen",382,gold_standard,process,process,process,stative_event
+Effi Briest,"daß sich Innstetten entschlossen hatte, statt aller weiteren Forcierung, das friedlichere Mittel eines Umwegs zu wählen",384,gold_standard,change_of_state,process,process,process
+Effi Briest,wo man — schon um der Knorren und Wurzeln willen im Schritt reitend — die Gespräche wieder aufnehmen konnte,388,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und während Briest immer weiter perorierte,395,gold_standard,process,process,process,stative_event
+Effi Briest,aber ich weiß auch,400,gold_standard,stative_event,process,process,process
+Effi Briest,das macht still,403,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,der sonst jeden dritten Tag herüber kam,411,gold_standard,process,process,process,stative_event
+Effi Briest,Du hältst uns für schwächer,422,gold_standard,stative_event,process,process,process
+Effi Briest,Denken Sie sich,425,gold_standard,non_event,non_event,process,process
+Effi Briest,von dem ich Euch nachher erzählen muß,426,gold_standard,non_event,non_event,process,process
+Effi Briest,und mich naseweis finden,436,gold_standard,stative_event,process,process,process
+Effi Briest,Ein Nachtzug ging um zwölf,438,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Denn sie fürchteten einen Schlaganfall,439,gold_standard,stative_event,process,process,process
+Effi Briest,In der Bresche stehen,442,gold_standard,non_event,non_event,process,process
+Effi Briest,und alles freute sich,445,gold_standard,stative_event,process,process,process
+Effi Briest,Das muß ich zugeben,447,gold_standard,non_event,non_event,process,process
+Effi Briest,"Sie wissen, gnädigste Frau",450,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Crampas will Sie noch sprechen, Innstetten",452,gold_standard,stative_event,process,process,process
+Effi Briest,sie sah alles klar,456,gold_standard,stative_event,process,process,process
+Effi Briest,sagen wir wie Rollo,458,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,und das Kind griff mit seinen Händchen danach,461,gold_standard,process,process,process,stative_event
+Effi Briest,"Ach, wie wohl ich mich fühle",470,gold_standard,stative_event,process,process,process
+Effi Briest,und aushalten,471,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich werde mir Deine Worte gesagt sein lassen,476,gold_standard,non_event,non_event,process,process
+Effi Briest,Frau von Briest schwieg,478,gold_standard,process,non_event,process,process
+Effi Briest,aber doch als ein Wesen auf niederer Stufe,479,gold_standard,process,non_event,process,non_event
+Effi Briest,Wilke wird schon unruhig,482,gold_standard,change_of_state,stative_event,stative_event,stative_event
+Effi Briest,Niemeyer sagte nachher sogar,486,gold_standard,process,non_event,process,process
+Effi Briest,die Lichter und Schatten flogen hin und her,489,gold_standard,process,process,process,stative_event
+Effi Briest,"vielleicht weil sie vor hatte, sich erst hinter einer dort aufwachsenden dichten Haselnußhecke zu verstecken, um dann, von dieser aus, mit einem weiten Umweg um Kirchhof und Fronthaus, wieder bis an den Seitenflügel und seinen Freiplatz zu kommen",495,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,der von den Raps- und Kleefeldern herüber kam,496,gold_standard,process,process,process,stative_event
+Effi Briest,und fand es auch natürlich,507,gold_standard,stative_event,process,process,process
+Effi Briest,Ich muß jetzt oft an Rollo denken,508,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,in denen vordem das Blut ablief,515,gold_standard,process,process,process,stative_event
+Effi Briest,"Ach, Effi, wir wollen Dich ja nicht beleidigen",519,gold_standard,non_event,non_event,process,process
+Effi Briest,der den ganzen „italienischen Stiefel“ bis Palermo kenne,522,gold_standard,stative_event,process,process,process
+Effi Briest,was gelegentlich vorkam,523,gold_standard,process,process,process,stative_event
+Effi Briest,weil er glaubte,524,gold_standard,stative_event,process,process,process
+Effi Briest,daß das Essen aufgetragen sei,525,gold_standard,stative_event,process,process,process
+Effi Briest,den man geschont,526,gold_standard,process,non_event,process,process
+Effi Briest,Du weißt schon,536,gold_standard,stative_event,process,process,process
+Effi Briest,Und das ist zu Deinen sieben Schönheiten,538,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"Johanna lag daran, Frieden zu schließen",539,gold_standard,stative_event,process,process,process
+Effi Briest,und siehst aus,543,gold_standard,stative_event,process,process,process
+Effi Briest,ich möchte so gerne mit Ihnen plaudern,544,gold_standard,stative_event,process,process,process
+Effi Briest,die versinken im Schloon,545,gold_standard,process,non_event,process,process
+Effi Briest,und der September ging auf die Neige,548,gold_standard,process,process,process,stative_event
+Effi Briest,Denn er ist nicht nur ein Mann der feinsten Formen,559,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"der ein ganz gewöhnlicher Plauderabend ohne den „italienischen Stiefel“ viel, viel lieber gewesen wäre",564,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,so haben Sie vor,565,gold_standard,stative_event,process,process,process
+Effi Briest,Vitzliputzli ist nämlich ein mexikanischer Gott,566,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Was heißt der arme Major,576,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,seine Huldigungen erfüllten sie mit einem gewissen Bangen,578,gold_standard,stative_event,process,process,process
+Effi Briest,daß Sie die gesellschaftlichen Ordnungen gelten lassen,579,gold_standard,non_event,non_event,process,non_event
+Effi Briest,ein Mann wie Sie,590,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,ein andauernder Nordwest trieb Wolkenmassen heran,591,gold_standard,process,process,process,stative_event
+Effi Briest,Es kommt Dir vor wie ein Märchen,594,gold_standard,stative_event,process,process,process
+Effi Briest,der nur einen kurzen Urlaub genommen,595,gold_standard,process,process,process,stative_event
+Effi Briest,"da faßt ihn eine Sehnsucht, auch mit in die Kirche zu gehen",599,gold_standard,change_of_state,stative_event,stative_event,stative_event
+Effi Briest,und doch hatte sie ganz leise das Gefühl einer überstandenen Gefahr,600,gold_standard,stative_event,process,process,process
+Effi Briest,weil sie nichts hat als Roswitha,602,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Effi fühlte sich durch den Ton wenig angenehm berührt,607,gold_standard,stative_event,process,process,process
+Effi Briest,In drei Tagen feiern wir Sylvester,610,gold_standard,non_event,non_event,process,process
+Effi Briest,Seit Sylvesternacht ging ein scharfer Nordost,613,gold_standard,process,process,process,stative_event
+Effi Briest,und während sie mit anscheinendem Interesse zuhörte,614,gold_standard,process,process,process,stative_event
+Effi Briest,und fand schließlich,618,gold_standard,stative_event,process,process,process
+Effi Briest,so daß man sich zu beruhigen begann,621,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,und unsere Pferde sind außerdem daran gewöhnt,623,gold_standard,stative_event,process,process,process
+Effi Briest,als Roswitha und Johanna nicht nur das kleine Fräulein in gleichem Maße liebten,631,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,je deutlicher hörte sie wieder,632,gold_standard,process,non_event,process,non_event
+Effi Briest,daß er für Mirambo einzutreten und das Zwiegestirn von Doktor und Apotheker persönlich glücklich heimzusteuern gedenke,636,gold_standard,stative_event,process,process,process
+Effi Briest,Diese Freundschaft der beiden Mädchen war ein Lieblingsgespräch zwischen den verschiedenen Freunden des Hauses,646,gold_standard,process,process,process,stative_event
+Effi Briest,und Du weißt,649,gold_standard,stative_event,process,process,process
+Effi Briest,als ob er von dem abstamme,651,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,als wäre es ein Spiel Karten,663,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,was ihr das Leben versagt,671,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,ein Einschenkekunststück,678,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die ich zu Ihrer Frau Tochter hege,680,gold_standard,stative_event,process,process,process
+Effi Briest,weil ich fühle,682,gold_standard,stative_event,process,process,process
+Effi Briest,ganz 'was anderes,685,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,aufpassen,701,gold_standard,non_event,non_event,process,process
+Effi Briest,Effi schwieg,705,gold_standard,process,non_event,process,process
+Effi Briest,und stark blutete,709,gold_standard,process,process,process,change_of_state
+Effi Briest,und sprang in plötzlich veränderter Stimmung wieder auf,714,gold_standard,process,process,process,change_of_state
+Effi Briest,Schön und poetisch,720,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Aber sie kam nicht weit,724,gold_standard,non_event,non_event,process,non_event
+Effi Briest,und dabei bleibt es,726,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,daß ich in irgend einer ganz alltäglichen Beleidigungssache zum guten rede,728,gold_standard,non_event,non_event,process,process
+Effi Briest,was darin seinen Grund hatte,730,gold_standard,stative_event,process,process,process
+Effi Briest,die drei Sturmtage gebracht hatten,745,gold_standard,process,process,process,stative_event
+Effi Briest,wie man's nehmen will,746,gold_standard,non_event,non_event,process,process
+Effi Briest,Niemand erheiterte sich dabei mehr als Effi,760,gold_standard,process,non_event,non_event,non_event
+Effi Briest,Bewegung und frische Luft,761,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Da lob' ich mir Gieshübler,770,gold_standard,stative_event,process,process,process
+Effi Briest,wer am ehesten von uns die Treppe heraufkommt,772,gold_standard,non_event,non_event,process,process
+Effi Briest,dann soll es im ganzen Ministerium heißen,781,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ach, von Geert",782,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Im Herbst hatte sie denn auch die Hülle und Fülle davon,785,gold_standard,process,process,process,stative_event
+Effi Briest,und sehe immer,788,gold_standard,stative_event,process,process,process
+Effi Briest,es sei eine Maskerade,790,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die wird jetzt Zeit haben,791,gold_standard,non_event,non_event,process,process
+Effi Briest,"der sich, um hülfreich zu sein, sogar von seiner jungen Frau trennen wolle",793,gold_standard,stative_event,process,process,process
+Effi Briest,"und freut sich, Dich wiederzusehen",795,gold_standard,stative_event,process,process,process
+Effi Briest,"je mehr sie das Gefühl hatte, etwas gut machen zu müssen",811,gold_standard,stative_event,process,process,process
+Effi Briest,und deren Güter an der anderen Seite der Kessine lagen,813,gold_standard,stative_event,process,process,process
+Effi Briest,um was sich's handelt,819,gold_standard,stative_event,process,process,process
+Effi Briest,aber mit einemmale mußte sie wieder lachen,820,gold_standard,stative_event,process,process,process
+Effi Briest,will ein Preuße sein,827,gold_standard,stative_event,process,process,process
+Effi Briest,ziemlich vernachlässigt sah's in den Parterreräumen aus,832,gold_standard,stative_event,process,process,process
+Effi Briest,"Sie schweigen, gnädigste Frau",833,gold_standard,process,non_event,process,process
+Effi Briest,"Ging' es, in Einsamkeit zu leben",835,gold_standard,non_event,non_event,process,process
+Effi Briest,"Aber nun gehen Sie, meine Gnädigste, nach der andern Seite hin, die Spree hinauf",838,gold_standard,non_event,non_event,process,non_event
+Effi Briest,ich weiß,839,gold_standard,stative_event,process,process,process
+Effi Briest,daß man sie in seiner Seele beherberge,840,gold_standard,stative_event,process,process,process
+Effi Briest,Effi und die Geheimrätin Zwicker waren seit fast drei Wochen in Ems,842,gold_standard,process,process,process,stative_event
+Effi Briest,Aber sie besann sich rasch,848,gold_standard,change_of_state,process,process,process
+Effi Briest,von dem ich Dir mit nächstem erzähle,851,gold_standard,non_event,non_event,process,process
+Effi Briest,Und ich stehe so zu der Sache,855,gold_standard,stative_event,process,process,process
+Effi Briest,Effi lebte wieder auf,857,gold_standard,process,process,process,stative_event
+Effi Briest,Und nun helft mir erst Ordnung schaffen auf dem Tisch hier,868,gold_standard,non_event,non_event,process,process
+Effi Briest,"Aber man lebt doch nicht bloß in der Welt, um schwach und zärtlich zu sein und alles mit Nachsicht zu behandeln",872,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Aber ich bezweifle,876,gold_standard,stative_event,process,process,process
+Effi Briest,Mit seinen Zärtlichkeiten blieb er sparsam,878,gold_standard,process,process,process,stative_event
+Effi Briest,in anderen Ländern hat man 'was anderes,880,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich weiß schon,884,gold_standard,stative_event,process,process,process
+Effi Briest,warf sie sich heftig weinend vor der Mama auf die Knie,887,gold_standard,process,process,process,change_of_state
+Effi Briest,Ich hatte auch einen ausgezeichneten Mann,891,gold_standard,stative_event,process,process,process
+Effi Briest,das ist das Wahre,895,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Das ist ja gegen das vierte Gebot,897,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,ich meine von Crampas,900,gold_standard,stative_event,process,process,process
+Effi Briest,so sei glücklicherweise die Gewähr gegeben,904,gold_standard,stative_event,process,process,process
+Effi Briest,die man der guten alten Roswitha mit ihrer ewigen Geschichte „von dem Vater mit der glühenden Eisenstange“ schon gönnen konnte,906,gold_standard,non_event,non_event,process,process
+Effi Briest,und schlendere wieder zurück,915,gold_standard,process,non_event,process,process
+Effi Briest,Gewiß,923,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,was ein Scheitel ist,928,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Ich weiß nur,931,gold_standard,stative_event,process,process,process
+Effi Briest,immer dicht neben der großen Mittelloge,933,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,um diese Frage scheint sich hier alles zu drehen,937,gold_standard,non_event,non_event,process,process
+Effi Briest,Du hast ja Rollo und Roswitha,938,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und nun muß ich doch seinem Rate folgen,942,gold_standard,non_event,non_event,process,process
+Effi Briest,ein erwarteter Brief Effi's hatte noch den mutmaßlich erst in den Schluß der nächsten Woche fallenden Ankunftstag festzustellen,944,gold_standard,stative_event,process,process,process
+Effi Briest,sie habe nun 'mal die Passion,947,gold_standard,stative_event,process,process,process
+Effi Briest,die ganz nach dem Vater schlugen,949,gold_standard,stative_event,process,process,process
+Effi Briest,und Du weißt,963,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Das fehlte noch,965,gold_standard,non_event,process,process,process
+Effi Briest,Karl Stuart zum Beispiel trägt in einer dieser Romanzen seinen Kopf unterm Arm,968,gold_standard,process,process,process,stative_event
+Effi Briest,Sie vergessen,972,gold_standard,process,non_event,process,process
+Effi Briest,und sechs Stunden bleibt oder wohl auch noch länger,977,gold_standard,process,process,process,stative_event
+Effi Briest,"Ich freue mich, Ihnen mitteilen zu können",980,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,legte sich das Unwetter,981,gold_standard,process,process,process,stative_event
+Effi Briest,"Ja, wenn ich durchaus sprechen soll",989,gold_standard,non_event,non_event,process,process
+Effi Briest,und mußte fragen,996,gold_standard,non_event,non_event,process,process
+Effi Briest,"amüsierte sich über das ,Wohlgeboren‘",1002,gold_standard,stative_event,process,process,process
+Effi Briest,"Fräulein Kousine stehe zwar auf dem Punkte, sich zu verheiraten",1003,gold_standard,stative_event,process,process,process
+Effi Briest,Es ist ihm doch noch tiefer gegangen als uns,1007,gold_standard,process,process,process,stative_event
+Effi Briest,was mich quält und ängstigt,1009,gold_standard,stative_event,process,process,stative_event
+Effi Briest,Ich werde mich vorsehen mit ihm,1013,gold_standard,non_event,non_event,process,process
+Effi Briest,und das ganze Soldatenleben überhaupt muß ihm damals wie verleidet gewesen sein,1022,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,der mich nicht an die ‚Hülfskonstruktionen‘ gemahnte,1023,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Versinken,1030,gold_standard,non_event,non_event,process,process
+Effi Briest,Aber Johanna hatte doch auch Trost bei der Hand,1032,gold_standard,stative_event,process,process,process
+Effi Briest,Unerhört,1034,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und nachsehen,1035,gold_standard,non_event,non_event,process,process
+Effi Briest,Aber je länger sie hinaus horchte,1045,gold_standard,process,non_event,process,non_event
+Effi Briest,Zehn Jahre verlangen noch ein Duell,1048,gold_standard,non_event,non_event,process,process
+Effi Briest,Er kutschiert oft im Kreise umher,1051,gold_standard,process,process,process,stative_event
+Effi Briest,In diesem Augenblicke hielt der Schlitten,1052,gold_standard,process,process,process,change_of_state
+Effi Briest,ich liebe sie so wie Du,1053,gold_standard,stative_event,process,process,process
+Effi Briest,es wäre wirklich so,1054,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,was schwerer wiegt,1055,gold_standard,stative_event,process,process,process
+Effi Briest,"Nur zwei, drei Briefe waren adressiert",1062,gold_standard,stative_event,process,process,process
+Effi Briest,sie nimmt sichtlich ab,1070,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,"mit der sie von all' dem Zurückliegenden, von Kessin und Crampas, von dem Chinesen und Kapitän Thomsen's Nichte frei und unbefangen reden konnte",1072,gold_standard,non_event,non_event,process,process
+Effi Briest,so ist es gut,1075,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und schlug jetzt vollends hohe Töne an,1077,gold_standard,process,process,process,stative_event
+Effi Briest,Also lassen wir sie hier,1091,gold_standard,non_event,non_event,process,process
+Effi Briest,allerdings vielfach aus Liebe,1101,gold_standard,process,process,process,stative_event
+Effi Briest,oder über eine andere zu Gericht sitzt,1107,gold_standard,non_event,non_event,process,process
+Effi Briest,so schloß Effi mit der wiederholten Versicherung,1111,gold_standard,process,non_event,process,non_event
+Effi Briest,Und der Rotwein schmeckt mir noch,1124,gold_standard,stative_event,process,process,process
+Effi Briest,Der alte Niemeyer kam in arge Verlegenheit über diese fortgesetzten spitzen Redensarten ohne Bildung und Anstand,1126,gold_standard,change_of_state,process,process,process
+Effi Briest,Aber er hat hier entfernte Vettern von der Mutter Seite her,1143,gold_standard,stative_event,process,process,process
+Effi Briest,So gingen Effi's Spottreden,1146,gold_standard,process,process,process,stative_event
+Effi Briest,Wir müssen nur noch an dem Kirchhof vorüber,1151,gold_standard,process,non_event,process,process
+Effi Briest,ganz gesund,1161,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und ging in größter Erregung auf und ab,1163,gold_standard,process,process,process,stative_event
+Effi Briest,Es fehlte jede Herzensgüte darin,1165,gold_standard,non_event,non_event,process,process
+Effi Briest,der sich nicht leicht in seiner Feierlichkeitsrolle zurecht fand,1175,gold_standard,stative_event,process,process,stative_event
+Effi Briest,und als man vor dem dritten italienischen Abend stand,1178,gold_standard,stative_event,process,process,process
+Effi Briest,wenn ich Ihnen so ohne weiteres den Inhalt hier wiedergebe,1186,gold_standard,process,non_event,process,non_event
+Effi Briest,er hält mich für bleichsüchtig,1188,gold_standard,stative_event,process,process,process
+Effi Briest,Alles geht nämlich unterirdisch vor sich,1189,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,und Sie fahren dann ruhig drüber hin,1190,gold_standard,process,non_event,process,process
+Effi Briest,Du weißt schon,1201,gold_standard,stative_event,process,process,process
+Effi Briest,"der heute früher zurück kam, als gewöhnlich",1212,gold_standard,process,process,process,stative_event
+Effi Briest,"daß ihn Gieshübler gebeten habe, mit dabei sein zu dürfen",1215,gold_standard,process,non_event,process,non_event
+Effi Briest,ich glaube,1222,gold_standard,stative_event,process,process,process
+Effi Briest,Die Fahrt ging rasch,1223,gold_standard,process,process,process,stative_event
+Effi Briest,Es handelt sich um einen Galan meiner Frau,1230,gold_standard,stative_event,process,process,process
+Effi Briest,"Es sieht fast so aus, Wüllersdorf",1236,gold_standard,stative_event,process,process,process
+Effi Briest,und wenn es an dem klaren Himmel eine Wolke gab,1248,gold_standard,process,non_event,process,process
+Effi Briest,"und hoffte, scharf anfahrend, den Schlitten glücklich durchbringen zu können",1249,gold_standard,stative_event,process,process,process
+Effi Briest,Das Betonen von Gattin und Mutter erscheine zunächst freilich nur in der Ordnung,1251,gold_standard,stative_event,process,process,process
+Effi Briest,Man merkt,1254,gold_standard,stative_event,process,process,process
+Effi Briest,und sowohl im Herrenhause wie in der Pfarre und Schule war man unausgesetzt bei den Vorbereitungen zum Polterabend,1263,gold_standard,process,process,process,stative_event
+Effi Briest,und auf das Ganze haben wir beständig Rücksicht zu nehmen,1266,gold_standard,non_event,non_event,process,process
+Effi Briest,Wissen Sie,1270,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ja, sehr",1277,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,sie spricht immer so still vor sich hin,1285,gold_standard,process,process,process,stative_event
+Effi Briest,Ein Zittern überkam sie,1302,gold_standard,change_of_state,process,process,change_of_state
+Effi Briest,"Festsetzungen wegen der Hochzeit, Ausstattungs- und Wirtschafts-Einrichtungsfragen",1303,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,als sie seiner ansichtig wurde,1308,gold_standard,process,process,process,stative_event
+Effi Briest,der Geist der Zeit aber zu mächtig sei,1312,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"und freuten sich, an dem Feste teilnehmen zu können",1320,gold_standard,stative_event,process,process,process
+Effi Briest,Denn ich liebe Berlin trotz alledem,1321,gold_standard,stative_event,process,process,process
+Effi Briest,Und nun will dieser Michelsen alles vergittern,1325,gold_standard,stative_event,process,process,process
+Effi Briest,immer dem Unbequemen aus dem Wege gehen,1330,gold_standard,non_event,non_event,process,process
+Effi Briest,und dann ist es wieder nichts,1331,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Denkst Du,1333,gold_standard,non_event,non_event,process,process
+Effi Briest,die anderen werden sich ärgern,1336,gold_standard,non_event,non_event,process,process
+Effi Briest,Effi schien antworten zu wollen,1341,gold_standard,process,non_event,process,process
+Effi Briest,daß ich in dieser Überzeugung gestorben bin,1342,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und vor Deiner Mutter nun schon gewiß nicht,1356,gold_standard,non_event,non_event,process,non_event
+Effi Briest,nur daß sie jetzt den umgekehrten Gang gingen,1358,gold_standard,process,process,process,stative_event
+Effi Briest,Ich dachte,1364,gold_standard,stative_event,process,process,process
+Effi Briest,Denn Pflicht ist unbequem,1368,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,so daß sie sich während der kalten Tage im Mai heftig erkältete,1370,gold_standard,change_of_state,process,process,change_of_state
+Effi Briest,das solle seine Sorge sein,1376,gold_standard,non_event,non_event,process,process
+Effi Briest,wir hatten ein Dampfschiff,1377,gold_standard,stative_event,process,process,process
+Effi Briest,der unter der Fahne der Disziplin groß geworden ist,1379,gold_standard,process,process,process,stative_event
+Effi Briest,das noch im Hintergrunde liegt,1380,gold_standard,non_event,non_event,process,process
+Effi Briest,und seine Stimme wurde freundlicher,1385,gold_standard,process,process,process,stative_event
+Effi Briest,Innstetten empfand das tief,1388,gold_standard,stative_event,process,process,process
+Effi Briest,aufrichten,1389,gold_standard,non_event,non_event,process,process
+Effi Briest,und hielt nur inne,1390,gold_standard,process,non_event,process,non_event
+Effi Briest,vorläufig wollen wir's mit der Riviera versuchen,1391,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und ich ahne weshalb,1394,gold_standard,stative_event,process,process,process
+Effi Briest,Aber eh' er dazu kam,1396,gold_standard,non_event,non_event,process,process
+Effi Briest,Eine junge Frau ist eine junge Frau,1401,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und im Sommer trocknet es mitunter ganz aus,1410,gold_standard,process,stative_event,stative_event,stative_event
+Effi Briest,was den überaus eitlen Oberförster ganz augenscheinlich verdroß,1411,gold_standard,stative_event,process,process,process
+Effi Briest,als ob es ein Weltwunder wäre,1419,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wenn sie müde geworden,1424,gold_standard,process,non_event,process,non_event
+Effi Briest,da mir's nun 'mal so bestimmt ist,1432,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Angst habe ich wohl gehabt,1445,gold_standard,stative_event,process,process,process
+Effi Briest,"Geert, da muß ich mit hinaus",1449,gold_standard,stative_event,process,process,process
+Effi Briest,aber sie traten glücklicherweise nie bei den zu machenden Einkäufen hervor,1450,gold_standard,non_event,non_event,process,non_event
+Effi Briest,der unter Selbstanklagen sich zu Tode tanzt,1451,gold_standard,process,process,process,stative_event
+Effi Briest,Ein Geisterseher,1452,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Sie mußte des Tages gedenken,1453,gold_standard,stative_event,process,process,process
+Effi Briest,ich kann Ihnen in allem folgen,1455,gold_standard,process,non_event,process,process
+Effi Briest,daß ich so was gesagt habe,1469,gold_standard,process,non_event,process,process
+Effi Briest,und ich muß mich um sie ängstigen,1470,gold_standard,non_event,non_event,process,process
+Effi Briest,als ob es ein Sumpf oder ein Moor wäre,1473,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Nun siehst Du, Mama",1475,gold_standard,process,non_event,process,process
+Effi Briest,Dabei sah er der Rückkehr seiner Frau mit Sehnsucht entgegen,1476,gold_standard,stative_event,process,process,process
+Effi Briest,ich habe einen sehr ausgezeichneten Mann,1477,gold_standard,stative_event,process,process,process
+Effi Briest,dem man ansah,1479,gold_standard,stative_event,process,process,process
+Effi Briest,Wir spielen nicht Versteck,1480,gold_standard,non_event,non_event,process,non_event
+Effi Briest,oder die ersten Krokus aus dem noch halb winterlichen Rondell aufblühten,1484,gold_standard,process,process,process,stative_event
+Effi Briest,die wie mit einem Spezialanspruch auftritt,1485,gold_standard,process,process,process,stative_event
+Effi Briest,das machte die Sache nur noch erquicklicher,1501,gold_standard,stative_event,process,process,process
+Effi Briest,und überließ Innstetten das weitere,1505,gold_standard,process,non_event,process,process
+Effi Briest,so meine ich natürlich moralische Revolution,1515,gold_standard,stative_event,process,process,process
+Effi Briest,Da ist es doch besser so,1523,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Er hatte nur zu wahr gesprochen,1524,gold_standard,process,process,process,stative_event
+Effi Briest,Effi schrak zusammen,1530,gold_standard,process,process,process,change_of_state
+Effi Briest,ich habe nicht viel gelesen,1531,gold_standard,non_event,non_event,process,non_event
+Effi Briest,dem ich das alles verdanke,1536,gold_standard,stative_event,process,process,process
+Effi Briest,Aber das wirst Du doch gestatten,1553,gold_standard,non_event,non_event,process,non_event
+Effi Briest,aber Sie haben recht,1554,gold_standard,stative_event,process,process,process
+Effi Briest,Innstetten war einverstanden,1563,gold_standard,stative_event,process,process,process
+Effi Briest,"Ja, sie konnte verzichten",1564,gold_standard,stative_event,process,process,process
+Effi Briest,und ich mit,1572,gold_standard,non_event,non_event,process,non_event
+Effi Briest,und die Parkwege rasch abtrockneten,1575,gold_standard,process,process,process,stative_event
+Effi Briest,"Meine alten freundschaftlichen Beziehungen zu den Häusern Briest und Belling, und nicht zum wenigsten die herzliche Liebe werden diese Zeilen rechtfertigen",1580,gold_standard,non_event,non_event,process,process
+Effi Briest,ich habe ohnehin noch zu thun,1581,gold_standard,stative_event,process,process,process
+Effi Briest,wo Crampas mit einem Blick Abschied von ihm genommen,1583,gold_standard,process,process,process,stative_event
+Effi Briest,das bedrückt mich,1592,gold_standard,stative_event,process,process,process
+Effi Briest,Ihnen glaub' ich's,1605,gold_standard,stative_event,process,process,process
+Effi Briest,die Hauptschuld tragen die Eltern und Erzieher,1606,gold_standard,stative_event,process,process,process
+Effi Briest,Man hat dann bloß immer Sinn und Merk für hohe und höchste Vorgesetzte,1608,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Das bestätigte sich denn auch,1611,gold_standard,process,process,process,stative_event
+Effi Briest,der alle Verbrecher mit seinem Blick und seiner Frömmigkeit bändigte,1613,gold_standard,process,process,process,stative_event
+Effi Briest,in dem das alles gesagt wurde,1617,gold_standard,process,process,process,stative_event
+Effi Briest,fuhr er irgend eine Ackerfurche wie ein Rasender hinauf,1624,gold_standard,process,non_event,process,non_event
+Effi Briest,wo manche erst anfangen,1647,gold_standard,non_event,non_event,process,non_event
+Effi Briest,und inmitten all' ihrer Ängstlichkeit wurde ihr mit einemmale ganz wehmütigfreudig zu Sinn,1664,gold_standard,change_of_state,process,process,process
+Effi Briest,wenn man zuviel gelernt habe,1674,gold_standard,non_event,non_event,process,non_event
+Effi Briest,als sie Cora's ansichtig wurde,1676,gold_standard,process,process,process,stative_event
+Effi Briest,Du weißt seit Jahr und Tag,1681,gold_standard,stative_event,process,process,process
+Effi Briest,ob man sich nun weiter draußen nach rechts oder links zu halten vor hatte,1685,gold_standard,non_event,non_event,process,process
+Effi Briest,Da wird es dann eine Soog,1691,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Ich kenne das,1692,gold_standard,stative_event,process,process,process
+Effi Briest,nur als der siebziger Krieg kam,1700,gold_standard,process,process,process,stative_event
+Effi Briest,Jetzt weiß ich,1702,gold_standard,stative_event,process,process,process
+Effi Briest,ich habe dem andern keine Ehre gemacht,1705,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Dabei zu sprechen, war fast unmöglich",1714,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Das Nettelbeck-Bild ließ ziemlich viel zu wünschen übrig,1716,gold_standard,stative_event,process,process,process
+Effi Briest,und hattest ganz recht mit dem,1725,gold_standard,stative_event,process,process,process
+Effi Briest,Und da wollt' ich Dir denn sagen,1727,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Haus Innstetten stand also mutmaßlich auf dem Aussterbeetat,1729,gold_standard,stative_event,process,process,process
+Effi Briest,Es versteht sich von selbst,1731,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,weil er eigentlich nur an die Briest's glaubte,1736,gold_standard,stative_event,process,process,process
+Effi Briest,er hat auch darin recht gehabt,1737,gold_standard,stative_event,process,process,process
+Effi Briest,Wie das nun wieder klingt,1738,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Wir haben Zeit,1742,gold_standard,stative_event,process,process,process
+Effi Briest,Der Pastor saß neben ihm,1760,gold_standard,stative_event,process,process,process
+Effi Briest,Liebe kommt zuerst,1767,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Sie treffen's,1768,gold_standard,stative_event,process,process,process
+Effi Briest,Ich kenne das,1773,gold_standard,stative_event,process,process,process
+Effi Briest,und mich schämen,1799,gold_standard,non_event,non_event,process,process
+Effi Briest,Freilich ist das die Hauptsache,1803,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Und dann ließ sie Rügen und den Hertha-See fallen,1815,gold_standard,non_event,non_event,process,process
+Effi Briest,so schreibst Du,1823,gold_standard,stative_event,process,process,process
+Effi Briest,Aber nimmt man wieder zu viel Rücksicht auf solche Hausrepräsentation und den sogenannten ersten Eindruck,1824,gold_standard,non_event,non_event,process,process
+Effi Briest,oder höchstens so 'was,1829,gold_standard,process,process,process,stative_event
+Effi Briest,oder ganz zufällig weiß,1834,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Du weißt,1837,gold_standard,stative_event,process,process,process
+Effi Briest,hoffentlich einen christlichen,1849,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,daß er dem Ritter wegen seiner Kriegs- und Heldenthaten ein Fest veranstalten wolle,1855,gold_standard,stative_event,process,process,process
+Effi Briest,deren Namen Sie ja kennen,1864,gold_standard,stative_event,process,process,process
+Effi Briest,weil sie fühlte,1865,gold_standard,stative_event,process,process,process
+Effi Briest,wenn er vorüberfuhr,1873,gold_standard,process,non_event,process,non_event
+Effi Briest,so hieß der Blick,1881,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Daran liegt mir mehr als an einem Kamin,1883,gold_standard,stative_event,process,process,process
+Effi Briest,und mich freuen,1885,gold_standard,stative_event,process,process,process
+Effi Briest,der Nähtisch müsse aufgemacht werden,1886,gold_standard,non_event,non_event,process,process
+Effi Briest,aber um viele Tage zu spät,1888,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,daß solche Geschichten fast immer in die Erntezeit fallen,1890,gold_standard,non_event,non_event,process,process
+Effi Briest,der herbe Zug schwand wieder hin,1897,gold_standard,process,process,process,stative_event
+Effi Briest,und schenkt man wohl gar noch einer solchen hübschen Person eine weiße Tändelschürze nach der andern,1899,gold_standard,non_event,non_event,process,process
+Effi Briest,das hast Du von Deinem Vater,1901,gold_standard,stative_event,process,process,process
+Effi Briest,so daß man schon um drei vor der Oberförsterei hielt,1902,gold_standard,process,process,process,stative_event
+Effi Briest,namentlich wenn man noch so aussieht wie die Mama,1908,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wo ich mit meinen Blicken hin soll,1911,gold_standard,non_event,non_event,process,process
+Effi Briest,glaub' ich,1917,gold_standard,stative_event,process,process,process
+Effi Briest,als wandle sie eine Ohnmacht an,1928,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Ja, das glaube ich auch, Mama",1946,gold_standard,stative_event,process,process,process
+Effi Briest,und es ging vorzüglich,1950,gold_standard,process,process,process,stative_event
+Effi Briest,vielleicht aber auch aufrichtig,1951,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Das kann ich mir denken,1956,gold_standard,stative_event,process,process,process
+Effi Briest,mein erster großer Ball ist vielleicht auch mein letzter,1966,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,nun hatte sich's verkehrt,1967,gold_standard,process,process,process,stative_event
+Effi Briest,während alle drei zwischen den rechts und links blühenden Studentenblumen auf- und abschritten,1969,gold_standard,process,process,process,stative_event
+Effi Briest,Ich weiß doch,1972,gold_standard,stative_event,process,process,process
+Effi Briest,Alle Gesetzlichkeiten sind langweilig,1993,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,die sich sehr gut auch in seiner Gegenwart verhandeln lassen,1999,gold_standard,process,non_event,process,process
+Effi Briest,was können Sie von einer großen Stadt und ihren Sittlichkeitszuständen erwarten,2003,gold_standard,non_event,non_event,process,process
+Effi Briest,und wäre bei der ihn verzehrenden Unruhe gern in Bewegung geblieben,2007,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und nun will ich das Telegramm schicken,2009,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Es scheint,2016,gold_standard,stative_event,process,process,process
+Effi Briest,was man wünschte,2018,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und muß dann wieder in unsern unbequemen Kasten,2023,gold_standard,non_event,non_event,process,process
+Effi Briest,und weiß auch,2030,gold_standard,non_event,non_event,process,process
+Effi Briest,so strengte sich alles an,2033,gold_standard,process,non_event,process,non_event
+Effi Briest,Das alles soll ganz ungeniert seine Fortsetzung vor seinen Ohren haben,2040,gold_standard,non_event,non_event,process,process
+Effi Briest,oder wo der alte Kaiser vorfährt,2041,gold_standard,non_event,non_event,process,process
+Effi Briest,sondern nahm ihren Platz bei den alten Damen,2046,gold_standard,process,process,process,stative_event
+Effi Briest,Leicht ist es mir aber nicht geworden,2052,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Ich meine,2055,gold_standard,stative_event,process,process,process
+Effi Briest,ich weiß schon,2057,gold_standard,stative_event,process,process,process
+Effi Briest,"Ach, wie werd' ich mich nach Euch sehnen",2060,gold_standard,non_event,non_event,process,process
+Effi Briest,Das ging so manchen Tag,2063,gold_standard,process,process,process,stative_event
+Effi Briest,die heute leider fehlte,2067,gold_standard,non_event,non_event,process,process
+Effi Briest,So fängt es nämlich immer an,2068,gold_standard,process,non_event,stative_event,stative_event
+Effi Briest,aber es müssen so viele leben ohne dies „rechte Glück,2077,gold_standard,non_event,non_event,process,process
+Effi Briest,"die so viel Heilkraft hätte, den Hotelärger zu balanzieren",2079,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,der mich begleitete,2082,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,aber das meiste könnt' ich auf dem Schulzenamt anschlagen lassen,2084,gold_standard,non_event,non_event,process,process
+Effi Briest,die bevorzugt werden,2085,gold_standard,stative_event,process,process,process
+Effi Briest,während Hulda das Käthchen von Heilbronn in der Hollunderbaumszene darstellen sollte,2087,gold_standard,non_event,non_event,process,process
+Effi Briest,daß Ihnen alles andere so fraglich erscheint,2090,gold_standard,stative_event,process,process,process
+Effi Briest,sah aber,2092,gold_standard,stative_event,process,process,process
+Effi Briest,daß es ein Glück ist,2093,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und man sieht aufs Meer,2094,gold_standard,stative_event,process,process,process
+Effi Briest,Von Ihnen sprach er nicht allzu viel,2095,gold_standard,non_event,non_event,process,non_event
+Effi Briest,ich muß das trotz aller Verwahrungen einräumen,2096,gold_standard,non_event,non_event,process,process
+Effi Briest,Besuch blieb nicht ganz aus,2099,gold_standard,process,non_event,process,non_event
+Effi Briest,und bat diese mit ihr fahren zu dürfen,2105,gold_standard,process,non_event,process,non_event
+Effi Briest,Aber als dann all' das Schreckliche kam,2106,gold_standard,process,process,process,stative_event
+Effi Briest,und er tanzt sehr gut,2110,gold_standard,stative_event,process,process,process
+Effi Briest,Von Crampas war kein Weihnachtsgruß eingetroffen,2111,gold_standard,non_event,non_event,process,non_event
+Effi Briest,mein Vater liebt das,2113,gold_standard,stative_event,process,process,process
+Effi Briest,Effi machte die Wirtin,2115,gold_standard,process,process,process,stative_event
+Effi Briest,und auf den Heliotrop,2120,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Und dann kennt er ja doch die Mama,2124,gold_standard,stative_event,process,process,process
+Effi Briest,Das werde ich selber nehmen,2127,gold_standard,non_event,non_event,process,process
+Effi Briest,ob man so hineingerät in allerlei schlechte Gedanken,2128,gold_standard,non_event,non_event,process,process
+Effi Briest,Das Fleisch ist schwach,2139,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,bis die Verschwundene mit einemmale aus ihrem Verstecke hervorbrach,2141,gold_standard,process,process,process,change_of_state
+Effi Briest,und zu diesen leichten Rätseln gehört unser Oberförster,2167,gold_standard,stative_event,process,process,process
+Effi Briest,ließ sie dann aber wieder fallen,2168,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Es blitzt ja bis hoch in den Himmel hinauf,2169,gold_standard,process,process,process,stative_event
+Effi Briest,"Mehr als einmal hatte er, während der ihm immer freudloser dahin fließenden Tage, einer halb vergessenen Ministerialanekdote aus den Zeiten des älteren Ladenberg her, gedenken müssen",2179,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Das Hektische trat ihm ausgesprochener als früher entgegen,2180,gold_standard,stative_event,process,process,process
+Effi Briest,alles zerknittert und zerknautscht,2184,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Glaub' es,2185,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,das Leinenzeug macht immer so viele Falten,2191,gold_standard,non_event,stative_event,stative_event,stative_event
+Effi Briest,wonach sie sich sehnte,2192,gold_standard,stative_event,process,process,process
+Effi Briest,und dabei vergessen,2193,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich dachte schon,2194,gold_standard,stative_event,process,process,process
+Effi Briest,und in die Friedenskirche gehen,2197,gold_standard,non_event,non_event,process,process
+Effi Briest,Weil wir in Spanien sind,2205,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und es fehlt bloß noch,2208,gold_standard,non_event,non_event,process,process
+Effi Briest,und wie mir die Luft wohlthat,2213,gold_standard,process,process,process,stative_event
+Effi Briest,Ich kenne ihn von früher,2230,gold_standard,stative_event,process,process,process
+Effi Briest,Effi zugleich mit einem Ausdruck kindlicher Heiterkeit,2232,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und ich kann Dir sagen,2234,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Das kann ich mir denken,2235,gold_standard,stative_event,process,process,process
+Effi Briest,und wollte gehen,2236,gold_standard,stative_event,process,process,process
+Effi Briest,damals ging es mit der Saison auf die Neige,2237,gold_standard,process,process,process,stative_event
+Effi Briest,und freuten sich des Glücks der Kinder,2238,gold_standard,stative_event,process,process,process
+Effi Briest,Ich liebe Hulda,2239,gold_standard,stative_event,process,process,process
+Effi Briest,so lacht man über dergleichen,2250,gold_standard,non_event,non_event,process,process
+Effi Briest,Denn ich kenne Dich ja,2256,gold_standard,stative_event,process,process,process
+Effi Briest,an dessen offener Seite man eines Teiches mit Wassersteg und angeketteltem Boot und dicht daneben einer Schaukel gewahr wurde,2260,gold_standard,process,process,process,stative_event
+Effi Briest,weil sie das Luftbedürfnis hatte,2267,gold_standard,stative_event,process,process,process
+Effi Briest,Johanna war nicht wenig erstaunt über diese Bemerkung,2271,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,so mußte schließlich die Festlichkeit ohne ihn begonnen werden,2272,gold_standard,non_event,non_event,process,process
+Effi Briest,ich finde das alles so trist und elend,2285,gold_standard,stative_event,process,process,process
+Effi Briest,die Sonnenuhr war fort,2286,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Ich sehe Sie morgen,2287,gold_standard,non_event,non_event,process,process
+Effi Briest,und wenn die Prinzessin Friedrich Karl vorüberfährt,2304,gold_standard,non_event,non_event,process,process
+Effi Briest,das Eigentliche heißt,2306,gold_standard,stative_event,process,process,process
+Effi Briest,wenn Annie schläft,2307,gold_standard,process,non_event,process,process
+Effi Briest,"Übrigens, ich kriege schon einen",2318,gold_standard,non_event,non_event,process,non_event
+Effi Briest,wenn Du fährst,2326,gold_standard,process,non_event,process,process
+Effi Briest,so hieß es noch beim Abschied,2327,gold_standard,process,process,process,stative_event
+Effi Briest,"Also Innstetten, meine gnädigste Frau, hat außer seinem brennenden Verlangen noch eine zweite Passion",2332,gold_standard,stative_event,process,process,process
+Effi Briest,das natürlich an die gnädige Frau gerichtet war,2333,gold_standard,stative_event,process,process,process
+Effi Briest,"was Innstetten hinderte, sich ferner an den Ausflügen zu beteiligen",2335,gold_standard,non_event,non_event,process,process
+Effi Briest,das wollte ich,2340,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und verwandte Gefühle hegte man draußen in der Küche,2346,gold_standard,stative_event,process,process,process
+Effi Briest,daß der Respekt die Hauptsache ist,2355,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die wohl nicht ganz heimlich blieb,2358,gold_standard,process,process,process,stative_event
+Effi Briest,auch Innstetten wollte mit,2361,gold_standard,stative_event,process,process,process
+Effi Briest,Es war eben ein freundliches Miteinanderleben,2363,gold_standard,process,process,process,stative_event
+Effi Briest,Und jedenfalls giebt es schlimmeres,2370,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,wo sie wieder lachen konnte,2371,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,die darin mit feinem Instinkt etwas Anzügliches witterte,2376,gold_standard,stative_event,process,process,process
+Effi Briest,und wußte,2380,gold_standard,stative_event,process,process,process
+Effi Briest,Einfach hier bleiben,2396,gold_standard,non_event,non_event,process,process
+Effi Briest,aber ich weiß schon,2404,gold_standard,stative_event,process,process,process
+Effi Briest,die nach der Bahnhofsstation führte,2408,gold_standard,stative_event,process,process,process
+Effi Briest,wie wenn sie sagen wollte,2412,gold_standard,non_event,non_event,process,process
+Effi Briest,und sagen,2414,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich habe da viel an Ihre Hertha denken müssen,2419,gold_standard,process,non_event,non_event,non_event
+Effi Briest,Es vergeht kein Tag,2421,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Nach diesem Gespräch ließ man den Plan wieder fallen,2423,gold_standard,process,non_event,process,non_event
+Effi Briest,nach der einen Seite hin bedauere er das,2431,gold_standard,stative_event,process,process,process
+Effi Briest,er hat Dir auch gut gefallen,2435,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Da liegt es,2443,gold_standard,stative_event,process,process,process
+Effi Briest,fand alles groß und herrlich,2444,gold_standard,stative_event,process,process,process
+Effi Briest,Was Rummschüttel von diesem Aufenthalt und all' dem andern Guten erwartet hatte,2449,gold_standard,stative_event,process,process,process
+Effi Briest,so hieß es abschließend,2457,gold_standard,process,process,process,stative_event
+Effi Briest,und der alte Colbergverteidiger war der Oberförsterei verblieben,2462,gold_standard,stative_event,process,process,process
+Effi Briest,auch Cora,2464,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und ich liebe Bertha,2465,gold_standard,stative_event,process,process,process
+Effi Briest,es sei nichts,2470,gold_standard,non_event,non_event,process,non_event
+Effi Briest,der bei diesen Worten aufwachte,2474,gold_standard,change_of_state,process,process,process
+Effi Briest,und alle Granden des Reichs saßen an dieser Tafel,2475,gold_standard,process,process,process,stative_event
+Effi Briest,die gerade so brünett ist,2479,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die sich das Volksgemüt als eine Kremserpartie mit ‚Ich bin ein Preuße‘ vorstellt,2484,gold_standard,stative_event,process,process,process
+Effi Briest,es sei das Meer,2486,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,es gäbe noch 'was,2492,gold_standard,stative_event,non_event,process,process
+Effi Briest,der es auch sonst nicht an Huldigungen gegen Hulda fehlen ließ,2494,gold_standard,process,non_event,process,non_event
+Effi Briest,Ich finde es furchtbar,2508,gold_standard,stative_event,process,process,process
+Effi Briest,und sie fühlte,2513,gold_standard,stative_event,process,process,process
+Effi Briest,Sie fürchtete sich,2519,gold_standard,stative_event,process,process,process
+Effi Briest,die allen die Köpfe verdreht hat,2522,gold_standard,change_of_state,process,process,process
+Effi Briest,"und den gnäd'gen Herrn bloß noch bitten, mein Anniechen zu grüßen",2527,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und darum will ich Dir die Wildheit verzeihen,2534,gold_standard,stative_event,process,process,process
+Effi Briest,es muß sein,2535,gold_standard,non_event,non_event,process,process
+Effi Briest,und es kamen noch ein paar sonnige Spätherbsttage,2544,gold_standard,process,process,process,stative_event
+Effi Briest,Aber ich glaube,2557,gold_standard,stative_event,process,process,process
+Effi Briest,Kranz und Guirlande hatte zuletzt keine sonderlichen Schwierigkeiten gemacht,2558,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Und daß Du vorhin weintest,2564,gold_standard,process,process,process,stative_event
+Effi Briest,das wollt' ich,2566,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,die sich auf sein Amt und seine gesellschaftliche Stellung bezogen,2568,gold_standard,stative_event,process,process,process
+Effi Briest,Er hatte immer die Allüren dazu,2574,gold_standard,stative_event,process,process,process
+Effi Briest,und haben eine Vorstellung davon,2589,gold_standard,stative_event,process,process,process
+Effi Briest,Aber doch erziehen auf einem Umweg,2591,gold_standard,non_event,stative_event,stative_event,stative_event
+Effi Briest,Weil es trotzdem sein muß,2601,gold_standard,non_event,non_event,process,process
+Effi Briest,aber heute traf sich's so wenig günstig für sie,2607,gold_standard,process,process,process,stative_event
+Effi Briest,denk ich,2615,gold_standard,stative_event,process,process,process
+Effi Briest,sie läßt ja kein Auge davon,2627,gold_standard,non_event,process,process,stative_event
+Effi Briest,Innstetten begriff vollkommen,2635,gold_standard,stative_event,process,process,process
+Effi Briest,Und dabei schwieg sie noch immer,2645,gold_standard,process,non_event,process,process
+Effi Briest,Hulda wollte noch ein paar Einschränkungen machen,2649,gold_standard,process,non_event,process,non_event
+Effi Briest,Aber schon die bloßen Namen der dabei in Frage kommenden Ortschaften umschließen eine Welt von Angst und Sorge,2652,gold_standard,stative_event,process,process,process
+Effi Briest,Wenn man bedenkt,2656,gold_standard,non_event,non_event,process,process
+Effi Briest,ließ Wüllersdorf den Wagen halten,2657,gold_standard,process,non_event,process,process
+Effi Briest,es wäre so,2677,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,so daß sie nur mit Mühe nach rückwärts wieder heraus konnten,2686,gold_standard,stative_event,process,process,process
+Effi Briest,"nun, dann bin ich für Reichtum und ein vornehmes Haus",2689,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Ich kann Ihnen nur sagen,2691,gold_standard,process,non_event,process,process
+Effi Briest,wie er will,2696,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich werde mit meiner Frau darüber sprechen,2699,gold_standard,non_event,non_event,process,process
+Effi Briest,ich finde mich schon zurecht,2711,gold_standard,non_event,non_event,process,process
+Effi Briest,Er wird vierundvierzig,2714,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"den man, bequemeren Aussteigens halber, herangerollt hatte",2724,gold_standard,process,process,process,stative_event
+Effi Briest,Wir sind ja nun schon über sechs Jahre hier,2727,gold_standard,process,process,process,stative_event
+Effi Briest,daß es ein Glück gebe,2731,gold_standard,stative_event,process,process,process
+Effi Briest,ganz wie Lindequist vermutet hatte,2735,gold_standard,stative_event,process,process,process
+Effi Briest,der langsam herankam,2736,gold_standard,process,process,process,stative_event
+Effi Briest,und ich bin nicht klug aus ihm geworden,2739,gold_standard,non_event,non_event,process,non_event
+Effi Briest,die wir alle kennen,2747,gold_standard,stative_event,process,process,process
+Effi Briest,an wen sie gerichtet waren,2749,gold_standard,stative_event,process,process,process
+Effi Briest,für den an diesem Tage zu Feiernden,2750,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,noch besser als Borcke,2751,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und rang nach Fassung,2755,gold_standard,process,process,process,stative_event
+Effi Briest,er wisse schon,2757,gold_standard,stative_event,process,process,process
+Effi Briest,"Das Verbotene, das Geheimnisvolle hatte seine Macht über sie",2762,gold_standard,stative_event,process,process,process
+Effi Briest,und beruhigte sich erst,2763,gold_standard,change_of_state,non_event,non_event,non_event
+Effi Briest,Du weißt,2764,gold_standard,stative_event,process,process,process
+Effi Briest,Wüllersdorf schwieg,2774,gold_standard,process,non_event,process,process
+Effi Briest,Ich wundere mich,2775,gold_standard,stative_event,process,process,process
+Effi Briest,so glauben die Kessiner,2778,gold_standard,non_event,non_event,process,process
+Effi Briest,für den der alte Briest eine lebhafte Vorliebe hatte,2780,gold_standard,stative_event,process,process,process
+Effi Briest,Und es liegt mir daran,2783,gold_standard,stative_event,process,process,process
+Effi Briest,aber es läge doch auch etwas darin,2789,gold_standard,stative_event,process,process,process
+Effi Briest,und selbst Dinge kämen einem durch solche nachträglichen Studien erst voll zu Bewußtsein und Besitz,2790,gold_standard,change_of_state,process,process,process
+Effi Briest,aber es blieb auch durch den Wald hin immer noch Fährlichkeit genug,2796,gold_standard,stative_event,process,process,process
+Effi Briest,gestern habe er die Sache für bedenklicher angesehen,2800,gold_standard,stative_event,process,process,process
+Effi Briest,"Nein, Effi, nichts Unpassendes",2801,gold_standard,non_event,non_event,process,non_event
+Effi Briest,sie siecht hin,2811,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,je mehr fühle ich,2815,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,daß einer davon in kürzester Frist in diesem Hause sichtbar werden,2833,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Und nun lassen Sie mich schließen, um Ihre Geduld und Nachsicht nicht über Gebühr in Anspruch zu nehmen",2834,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"jedesmal bereit, irgend 'was Schreckliches zu prophezeien",2839,gold_standard,process,non_event,process,process
+Effi Briest,und da heißt es Ehre,2843,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,einige mehr als das,2846,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,ein leerer Platz gerade gegenüber dem König,2847,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wohin ich in erster Reihe die Politik rechne,2857,gold_standard,stative_event,process,process,process
+Effi Briest,weil ich weiß,2862,gold_standard,stative_event,process,process,process
+Effi Briest,was sich paßt,2863,gold_standard,non_event,non_event,process,process
+Effi Briest,Jeder mußte ihr zu diesem Tage schreiben,2864,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und ich will ihm dabei jedes Wort wiederholen,2865,gold_standard,stative_event,process,process,process
+Effi Briest,wenn die Sonnenstrahlen auf dem Eis des kleinen Teiches blitzten,2869,gold_standard,process,process,process,stative_event
+Effi Briest,und ich hab' es nur noch einmal versuchen wollen,2880,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"und ich schäme mich fast, es zu sagen",2889,gold_standard,non_event,non_event,process,process
+Effi Briest,Der eine erzählt dann vom Herzog von Ratibor,2893,gold_standard,non_event,non_event,process,process
+Effi Briest,und schwieg,2895,gold_standard,process,non_event,process,process
+Effi Briest,und richtet bloß Schaden an,2897,gold_standard,non_event,non_event,process,process
+Effi Briest,nahm um ein Geringes wieder zu,2899,gold_standard,process,process,process,stative_event
+Effi Briest,"die die Geschichte von den ,drei Ringen‘ heißt",2903,gold_standard,stative_event,process,process,stative_event
+Effi Briest,wie sie gesehen sein wollen,2905,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,diese Konzession will ich Ihnen vorweg machen,2918,gold_standard,stative_event,process,process,process
+Effi Briest,und wenn das Laub von den Platanen fiel,2922,gold_standard,process,process,process,stative_event
+Effi Briest,Es ist falsch einem Edelmanne Mißtrauen zu zeigen,2924,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Es giebt aber mehr andere,2928,gold_standard,stative_event,process,process,process
+Effi Briest,wo Innstetten nicht Unglaubliches erlebt hatte,2934,gold_standard,process,non_event,process,non_event
+Effi Briest,die Leute hier hätten einen Aberglauben und vorweg eine Furcht,2943,gold_standard,stative_event,process,process,process
+Effi Briest,Ein Narr,2949,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,in Wahrheit aber schlummern hier die Keime einer sozialen Revolution,2960,gold_standard,stative_event,process,process,process
+Effi Briest,denn er habe sich auf diesen Ausritt wirklich gefreut,2973,gold_standard,stative_event,process,process,process
+Effi Briest,er werde den andern Tag wieder kommen,2974,gold_standard,non_event,non_event,process,process
+Effi Briest,Und das kam immer noch früh genug,2978,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,der sich über diese Mißachtung ärgerte,2979,gold_standard,stative_event,process,process,process
+Effi Briest,Und ich könnte beinah' sagen,2980,gold_standard,non_event,non_event,process,process
+Effi Briest,und daran will ich mich aufrichten,2981,gold_standard,stative_event,process,process,process
+Effi Briest,und als ein zweites Jahr ins Land gegangen war,2982,gold_standard,process,process,process,stative_event
+Effi Briest,ich muß Dir nämlich sagen,2994,gold_standard,non_event,non_event,process,process
+Effi Briest,oder fort wollte,2997,gold_standard,stative_event,process,process,process
+Effi Briest,Oder sag' ich lieber,3000,gold_standard,non_event,non_event,process,process
+Effi Briest,Da hatte sich denn auch Ring patriotisch besonnen,3004,gold_standard,change_of_state,process,process,process
+Effi Briest,von denen wir alle abstammen,3008,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,weil's weh thut,3012,gold_standard,non_event,non_event,process,process
+Effi Briest,und jagen uns die Kugel durch den Kopf,3013,gold_standard,non_event,non_event,process,process
+Effi Briest,Du siehst ja aus,3015,gold_standard,stative_event,process,process,process
+Effi Briest,Du bist ja mit dabei gewesen,3026,gold_standard,process,process,process,stative_event
+Effi Briest,Du hast selbst gewollt,3027,gold_standard,stative_event,process,process,process
+Effi Briest,Aber doch meist aus anderen gröberen Motiven,3028,gold_standard,process,process,process,stative_event
+Effi Briest,Als es kam,3037,gold_standard,process,process,process,stative_event
+Effi Briest,so hieß es dann wohl,3039,gold_standard,process,process,process,stative_event
+Effi Briest,"und sah jederzeit mit einer eigenen, ihr übrigens durchaus kleidenden Siegermiene gradlinig und blauäugig über ihre Normalbüste fort",3048,gold_standard,process,process,process,stative_event
+Effi Briest,Effi war den ganzen Tag draußen im Park,3052,gold_standard,process,process,process,stative_event
+Effi Briest,daß ich Dich habe,3055,gold_standard,stative_event,process,process,process
+Effi Briest,Ich schenk' es mir heute ganz,3056,gold_standard,non_event,non_event,process,process
+Effi Briest,und ich glaube,3060,gold_standard,stative_event,process,process,process
+Effi Briest,Und ich glaube,3068,gold_standard,stative_event,process,process,process
+Effi Briest,Dann und wann kam ein Windzug,3072,gold_standard,process,process,process,stative_event
+Effi Briest,was mir schmeicheln soll,3074,gold_standard,non_event,non_event,process,process
+Effi Briest,"und für jede Dame, auch für die jungen, ein gnädiges Wort hat",3084,gold_standard,non_event,non_event,process,process
+Effi Briest,wie er sein soll,3093,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wo Kaiser Friedrich liegt,3094,gold_standard,stative_event,process,process,process
+Effi Briest,Von einem solchen ließ sich denn nun bei beiden Mädchen auch wirklich sprechen,3097,gold_standard,non_event,non_event,process,process
+Effi Briest,die dem Liebling an diesem Unglückstage 'was schuldig zu sein glaubte,3105,gold_standard,stative_event,process,process,process
+Effi Briest,wurde er totenblaß,3106,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,Daß im Schulhaus die Töchter ausgeflogen waren,3108,gold_standard,process,process,process,stative_event
+Effi Briest,wie Fräulein Hulda blond ist,3109,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Ich habe von der Zeit an einen Widerwillen gegen die Wenden,3115,gold_standard,stative_event,process,process,process
+Effi Briest,In dieser Art ging es durch Wochen hin,3120,gold_standard,process,process,process,stative_event
+Effi Briest,wie Lot ausgesehen hat,3121,gold_standard,non_event,non_event,process,process
+Effi Briest,den er immer vor Augen hatte,3122,gold_standard,stative_event,process,process,process
+Effi Briest,Freilich mitunter ist es mir,3127,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,daß Sie Anniechen auch die Geschichte erzählen,3131,gold_standard,non_event,non_event,process,process
+Effi Briest,das muß ich sehen,3133,gold_standard,stative_event,process,process,process
+Effi Briest,"Auch Kessin mit Gieshübler und der Trippelli, mit Oberförster Ring und Sidonie Grasenabb — kam dann wohl an die Reihe",3142,gold_standard,process,process,process,stative_event
+Effi Briest,"jedenfalls lieber — Pardon, Innstetten — als so die Blicke beständig nach oben richten zu müssen",3147,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Jahnke hat ganz recht,3150,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,die Mama könne es glauben,3152,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"aber mit einem Gedichte — freilich keinem Heine'schen, keinem ‚Seegespenst‘ und keinem ,Vitzliputzli‘ — bin ich Ihnen doch voraus",3153,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und daß ich Euch liebe,3157,gold_standard,stative_event,process,process,process
+Effi Briest,"als aber eine lange, lange Zeit vergangen war",3161,gold_standard,process,process,process,stative_event
+Effi Briest,und verlor ein gut Teil ihrer Reizbarkeit,3162,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,Es wird ihn trösten,3170,gold_standard,non_event,non_event,process,process
+Effi Briest,"Viele, viele Male war er dann des Weges hier gekommen",3175,gold_standard,process,process,process,stative_event
+Effi Briest,das war durch die Crampas'schen Hauszustände so gut wie ausgeschlossen,3180,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wir werden schon etwas finden für Dich,3199,gold_standard,non_event,non_event,process,process
+Effi Briest,den am Tage vorher Wüllersdorf benutzt hatte,3207,gold_standard,process,process,process,stative_event
+Effi Briest,wo man hin gehört,3210,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,dazu Krausgebackenes,3213,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,aber . . . ich fürchte mich vor ihm,3219,gold_standard,stative_event,process,process,process
+Effi Briest,Und dann kommt er natürlich mit,3220,gold_standard,non_event,non_event,process,process
+Effi Briest,hier ist meine Stelle,3224,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"Auf eine Festlichkeit, wie die vorjährige, müssen wir verzichten",3228,gold_standard,non_event,non_event,process,process
+Effi Briest,Und ich würde ihm mit den Fingern drohen,3230,gold_standard,non_event,non_event,process,process
+Effi Briest,"und hätte, links Basedow und rechts Pestalozzi eigentlich nach Schnepfenthal oder Bunzlau hingepaßt",3235,gold_standard,non_event,non_event,process,process
+Effi Briest,und ihm sagen,3248,gold_standard,non_event,non_event,process,process
+Effi Briest,er könne sich nun ganz seinem Hause widmen,3252,gold_standard,non_event,non_event,process,process
+Effi Briest,"Niemand hatte damals, bei der wie gewöhnlich stattfindenden Auktion, das Bild des Alten haben wollen",3258,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und ich liebe Hertha,3261,gold_standard,stative_event,process,process,process
+Effi Briest,und dann kommt Zerstreuung,3279,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und jeden herzlich erfreute,3280,gold_standard,stative_event,process,process,process
+Effi Briest,Er hat einen Ziegenpeter,3287,gold_standard,stative_event,process,process,process
+Effi Briest,"so haben Sie vor, sich vor der Zeit auf den König von Thule hin auszuspielen",3292,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und alles löste sich wie ein Nebelbild,3294,gold_standard,process,process,process,stative_event
+Effi Briest,wo Eis und Schnee nie recht aufhörten,3300,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,deren Namen ich klüglich verschweige,3302,gold_standard,non_event,non_event,process,process
+Effi Briest,Und ehe die Uhr noch einsetzte,3308,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,sie glaubt,3313,gold_standard,stative_event,process,process,process
+Effi Briest,aber jetzt war es damit vorbei,3319,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und nach diesem Prinzip arbeitet er noch,3321,gold_standard,process,process,process,stative_event
+Effi Briest,und Hohen-Cremmen hatte,3344,gold_standard,stative_event,process,process,process
+Effi Briest,sie wurde fiebrig,3345,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,die jetzt den richtigen Einsetzemoment gekommen glaubte,3350,gold_standard,stative_event,process,process,process
+Effi Briest,wir sind gleicher Meinung,3352,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und wie gut sie gespielt habe,3361,gold_standard,process,process,process,stative_event
+Effi Briest,das liegt jenseits Deiner Sphäre,3375,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"und es empfahl sich, in der Korrespondenz mit ihm, ein Bild von allem zu gewinnen, um nichts Unnützes anzuschaffen",3377,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Aber ich glaube,3384,gold_standard,stative_event,process,process,process
+Effi Briest,denn ein kleiner Schabernack entsprach ganz seinem Geschmack,3388,gold_standard,stative_event,process,process,process
+Effi Briest,Crampas stürzte,3411,gold_standard,process,process,process,change_of_state
+Effi Briest,Daß sie so fiebert,3415,gold_standard,stative_event,process,process,process
+Effi Briest,und wie er damit auf Sie losgekommen,3416,gold_standard,process,process,process,stative_event
+Effi Briest,und wollte Pläne schmieden,3418,gold_standard,stative_event,process,process,process
+Effi Briest,so sahen sich diese freudig verwundert an,3419,gold_standard,process,non_event,process,non_event
+Effi Briest,wie Frauen thun,3420,gold_standard,non_event,non_event,process,process
+Effi Briest,das Sie mich mit meiner Frau wechseln hören,3422,gold_standard,non_event,non_event,process,process
+Effi Briest,ist für Leichtsinn,3425,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,etwas von der Seele herunter sprechen,3428,gold_standard,non_event,non_event,process,process
+Effi Briest,In der Stadt galt es als ein Spukhaus,3432,gold_standard,stative_event,process,process,process
+Effi Briest,"Vom rechten Flügel her klang des Landrats bestimmte Weisung herüber, vorläufig diesseits zu bleiben und ihm durch die Dünen hin bis an eine weiter hinauf gelegene Bohlenbrücke zu folgen",3438,gold_standard,process,non_event,process,non_event
+Effi Briest,daß er inmitten seiner Mißbilligung sich eigentlich darüber freute,3440,gold_standard,stative_event,process,process,process
+Effi Briest,Effi war nun schon in die fünfte Woche fort,3444,gold_standard,process,process,process,stative_event
+Effi Briest,Sie werden von anderen erfahren,3446,gold_standard,non_event,non_event,process,process
+Effi Briest,daß ich den Flügel schräg in die Stube stelle,3448,gold_standard,non_event,process,process,process
+Effi Briest,jetzt stecke ich in einer Sackgasse,3450,gold_standard,stative_event,process,process,process
+Effi Briest,schadete nicht viel,3455,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Das ist die Hauptsache,3457,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,wenn das Frühstück im Freien genommen wurde,3459,gold_standard,process,non_event,process,non_event
+Effi Briest,und wenn die Mama dann kommt,3480,gold_standard,non_event,non_event,process,process
+Effi Briest,Es sieht sonderbar aus,3482,gold_standard,stative_event,process,process,process
+Effi Briest,ich meinerseits schon aus Dankbarkeit,3483,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und nun harrte ihrer eine neue Überraschung,3486,gold_standard,non_event,non_event,process,process
+Effi Briest,"O, ich will schon",3493,gold_standard,stative_event,process,process,process
+Effi Briest,und gratuliere Ihnen aufrichtig dazu,3495,gold_standard,process,non_event,process,non_event
+Effi Briest,daß die Frage leichter gestellt als beantwortet sei,3497,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,was Sie anzudeuten belieben,3499,gold_standard,stative_event,process,process,process
+Effi Briest,"Ja, Mama, so bin ich",3500,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"und die Kapitänsfrau und das liebe, kleine Kind, nicht viel größer als Anniechen, immer wieder mit seiner roten Zunge geleckt habe",3501,gold_standard,process,process,process,stative_event
+Effi Briest,Natürlich weiß jeder,3503,gold_standard,stative_event,process,process,process
+Effi Briest,was man zunächst von dem neuen Leben hatte,3510,gold_standard,stative_event,process,process,process
+Effi Briest,darin steckt die eigentliche Gefahr,3512,gold_standard,stative_event,process,process,process
+Effi Briest,wenn ich das Wort höre,3517,gold_standard,process,non_event,process,process
+Effi Briest,weil sie's allemal als ein Unrecht gegen den guten und lieben Menschen empfand,3525,gold_standard,stative_event,process,process,process
+Effi Briest,und ich habe Enkel und Enkelinnen,3526,gold_standard,stative_event,process,process,process
+Effi Briest,und als der Sommer kam,3527,gold_standard,stative_event,process,process,process
+Effi Briest,Dazu kam noch,3528,gold_standard,process,process,process,stative_event
+Effi Briest,"Ja, so bist Du",3530,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,da liegt Vineta,3534,gold_standard,stative_event,process,process,process
+Effi Briest,und da verging denn kein Tag,3535,gold_standard,process,non_event,process,non_event
+Effi Briest,Ich denke,3538,gold_standard,stative_event,process,process,process
+Effi Briest,als säh' er wieder die rotblonden Mädchenköpfe zwischen den Weinranken,3539,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,glaub' ich,3542,gold_standard,stative_event,process,process,process
+Effi Briest,kam ihm seine Jugend wieder,3549,gold_standard,process,process,process,stative_event
+Effi Briest,der nicht gleich mit den Sachlichkeiten beginnen wollte,3554,gold_standard,stative_event,process,process,process
+Effi Briest,was er sagt,3555,gold_standard,non_event,non_event,process,process
+Effi Briest,mit welcher Geschicklichkeit er bewies,3556,gold_standard,process,process,process,stative_event
+Effi Briest,Da ist mir nicht bange,3561,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und nun wollen wir sie verbinden,3563,gold_standard,non_event,non_event,process,process
+Effi Briest,wie ich mich gefürchtet habe,3570,gold_standard,stative_event,process,process,process
+Effi Briest,Alles ging auch gut,3584,gold_standard,process,process,process,stative_event
+Effi Briest,am meisten Du,3589,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,ich werde kommen,3595,gold_standard,non_event,non_event,process,process
+Effi Briest,denen die Fürsorge für junge Seelen obliegt,3596,gold_standard,stative_event,process,process,process
+Effi Briest,ihr fehlte die Nachhaltigkeit,3598,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,aber es kam ihm doch so vor,3601,gold_standard,stative_event,process,process,process
+Effi Briest,er sei auch ein Mann von Grundsätzen,3621,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,daß mich diese Afra ganz ungemein an die stattliche Person erinnert,3631,gold_standard,stative_event,process,process,process
+Effi Briest,Die dürfen sich das gönnen,3632,gold_standard,non_event,non_event,process,process
+Effi Briest,"aber Effi hatte so wenig Verlangen, in die Vorbereitungen und geplanten Überraschungen einzudringen",3634,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,vielleicht weil sich die Radegaster und die Swantowiter Linie des Hauses in ihr vereinigten,3639,gold_standard,process,non_event,process,non_event
+Effi Briest,und wollen zur Kirche,3646,gold_standard,stative_event,process,process,process
+Effi Briest,Übrigens haben die Kessiner ein ziemlich großes Dampfschiff,3649,gold_standard,stative_event,process,process,process
+Effi Briest,Weil er einen „Verdruß“ hat,3657,gold_standard,stative_event,process,process,process
+Effi Briest,Es verbirgt sich ein Vorwurf dahinter,3658,gold_standard,stative_event,process,process,process
+Effi Briest,so gewiß stand ihm jetzt fest,3660,gold_standard,stative_event,process,process,process
+Effi Briest,und nahm dann seinen Platz in der Nähe des Steuers,3661,gold_standard,process,process,process,stative_event
+Effi Briest,so frage ich,3665,gold_standard,non_event,non_event,process,process
+Effi Briest,es werde sich kein Damenpferd finden lassen,3669,gold_standard,non_event,non_event,process,process
+Effi Briest,weil man fand,3670,gold_standard,stative_event,process,process,process
+Effi Briest,also für den Kalatrava-Ritter,3672,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"wie der König, dieser Pedro, sich eben erheben will, um gleißnerisch sein Bedauern auszusprechen",3673,gold_standard,stative_event,process,process,process
+Effi Briest,Mirambo saß vorn,3679,gold_standard,stative_event,process,process,process
+Effi Briest,"da begegnen Sie neben mindestens sonderbaren Namen wie Kiekebusch, wie Wuhlheide",3685,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Ich werde ganz einfach telegraphieren,3689,gold_standard,non_event,non_event,process,process
+Effi Briest,so weit ich's hindern kann,3701,gold_standard,stative_event,process,process,process
+Effi Briest,Aber ehe Hertha nicht von den Stachelbeeren genommen,3710,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Mir klingt so 'was in der Seele,3712,gold_standard,stative_event,process,process,process
+Effi Briest,Sie wissen ja,3723,gold_standard,stative_event,process,process,process
+Effi Briest,"Und wie reizend im letzten Akt ,Aschenbrödel's Erwachen als Prinzessin‘ oder doch wenigstens als Gräfin",3728,gold_standard,non_event,stative_event,stative_event,stative_event
+Effi Briest,"und bat, sich nach ihrem Befinden erkundigen zu dürfen",3729,gold_standard,process,non_event,process,non_event
+Effi Briest,Der um die Fenster sich rankende wilde Wein bewegte sich leis in dem Luftzuge,3730,gold_standard,process,process,process,stative_event
+Effi Briest,Wenn ich mir seinen letzten Blick vergegenwärtige,3735,gold_standard,process,non_event,process,process
+Effi Briest,was er in Berlin vorhabe,3742,gold_standard,stative_event,process,process,process
+Effi Briest,Aber ich möchte den sehen,3743,gold_standard,stative_event,process,process,process
+Effi Briest,und mir sagen,3751,gold_standard,non_event,non_event,process,process
+Effi Briest,als ob sie schliefe,3753,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die über einen kommen,3758,gold_standard,change_of_state,stative_event,stative_event,stative_event
+Effi Briest,und so furchtbar ich alles finde,3759,gold_standard,stative_event,process,process,process
+Effi Briest,daß ich ihr alles verzeihen kann,3771,gold_standard,stative_event,non_event,process,process
+Effi Briest,"und wenn er der Innstetten'schen Aufforderung zu den italienischen Abenden, schon um Effi's willen, auch mit aufrichtigster Freude Folge leistete",3772,gold_standard,process,non_event,process,non_event
+Effi Briest,"er gab es aber auf, irgend was in diesem Sinne zu schreiben",3776,gold_standard,change_of_state,process,process,process
+Effi Briest,Denn nach den Aufführungen ist Ball,3781,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Annie trinkt auch eine halbe Tasse,3785,gold_standard,non_event,non_event,process,process
+Effi Briest,und die Enge des Wegs zwang die beiden Reiter dicht nebeneinander,3790,gold_standard,process,process,process,stative_event
+Effi Briest,Ich bin,3791,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,dem es augenscheinlich weniger paßte,3796,gold_standard,stative_event,process,process,process
+Effi Briest,was Crampas gemeint hatte,3800,gold_standard,stative_event,process,process,process
+Effi Briest,und in der Mitte saß der König,3806,gold_standard,process,process,process,stative_event
+Effi Briest,das ist doch das erste,3819,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,und vor allem versteht er sich auf die Liebe,3823,gold_standard,stative_event,process,process,process
+Effi Briest,Mit dem Eingeschneitwerden verbinde ich von langer Zeit her eine freundliche Vorstellung,3825,gold_standard,stative_event,process,process,process
+Effi Briest,weil Liebe doch nur ein Papperlapapp ist,3827,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und vergesse die Geschichte,3834,gold_standard,stative_event,process,process,process
+Effi Briest,der ihr eigentlich zustimmte,3836,gold_standard,stative_event,process,process,process
+Effi Briest,zu denen er überhaupt hinneigte,3840,gold_standard,stative_event,process,process,process
+Effi Briest,So verging der Sommer,3851,gold_standard,process,process,process,stative_event
+Effi Briest,Es geht mir schon lange durch den Kopf,3853,gold_standard,process,process,process,stative_event
+Effi Briest,Effi erschien in einer reizenden Balltoilette,3862,gold_standard,process,process,process,stative_event
+Effi Briest,darin der eigentliche Beruf beider noch nachspukte,3863,gold_standard,stative_event,process,process,process
+Effi Briest,Den Jagdhund behandelte er wohlwollend,3865,gold_standard,process,process,process,stative_event
+Effi Briest,sagt gerade genug,3867,gold_standard,stative_event,process,process,stative_event
+Effi Briest,Das machte doch einen Eindruck auf Effi,3875,gold_standard,stative_event,process,process,process
+Effi Briest,aber einen Ball haben wir natürlich,3877,gold_standard,non_event,non_event,process,process
+Effi Briest,Alles ist Schicksal,3878,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,das wird wohl richtig sein,3879,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Jahresringe, Gardinenringe, Trauringe",3881,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,den diese kleinen Verlegenheiten erheiterten,3893,gold_standard,stative_event,process,process,process
+Effi Briest,ich glaube,3894,gold_standard,stative_event,process,process,process
+Effi Briest,das hat einen Sinn,3895,gold_standard,stative_event,process,process,process
+Effi Briest,Ich sehe sie lieber morgen früh,3909,gold_standard,non_event,non_event,process,process
+Effi Briest,und recht gut weiß,3918,gold_standard,stative_event,process,process,process
+Effi Briest,Und da Sie so 'was vorhaben,3923,gold_standard,stative_event,process,process,process
+Effi Briest,das hast Du von der Mama,3930,gold_standard,stative_event,process,process,process
+Effi Briest,das ist einer von Papas Lieblingssätzen,3935,gold_standard,stative_event,process,process,process
+Effi Briest,was wir in unsrem altpommerschen Kessiner Kreise haben,3937,gold_standard,stative_event,process,process,process
+Effi Briest,Vorher aber im kleinen und kleinsten so viel herausschlagen wie möglich,3939,gold_standard,non_event,non_event,process,process
+Effi Briest,wo man seine Meinung in dieser Angelegenheit hören wollte,3943,gold_standard,stative_event,process,process,process
+Effi Briest,der ohne rechte Liebe ist,3949,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und nun auch noch von der Fülle,3951,gold_standard,non_event,non_event,process,non_event
+Effi Briest,was ich mir von meiner klugen Effi kaum denken kann,3966,gold_standard,non_event,non_event,process,process
+Effi Briest,ich komme bequem durch,3968,gold_standard,process,non_event,process,process
+Effi Briest,und mit Absicht,3969,gold_standard,stative_event,process,process,stative_event
+Effi Briest,Es kam alles so schnell,3977,gold_standard,process,process,process,stative_event
+Effi Briest,Da ist Dein Platz,3978,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die Gesellschaft verachtet uns,3979,gold_standard,non_event,non_event,process,process
+Effi Briest,und während Effi diese Litanei feierlich anstimmte,3990,gold_standard,process,process,process,stative_event
+Effi Briest,Sie haben so 'was,3994,gold_standard,stative_event,process,process,process
+Effi Briest,und überhaupt wohl älter,3999,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,alles soll leben,4006,gold_standard,non_event,non_event,process,process
+Effi Briest,Briest schwieg,4010,gold_standard,process,non_event,process,process
+Effi Briest,daß das mit der „stickigen Kutsche“ bloß Vorwand gewesen,4013,gold_standard,stative_event,process,process,process
+Effi Briest,Alles dreht sich um die Frage,4016,gold_standard,stative_event,process,process,process
+Effi Briest,die vom Teich her aufstiegen,4032,gold_standard,process,process,process,stative_event
+Effi Briest,Alles ist Leben,4033,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und gerade weil man nur noch gute vierzehn Tage hatte,4034,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"daß ich mich, mir selbst zum Trotz, in meinem letzten Herzenswinkel zum Verzeihen geneigt fühle",4039,gold_standard,stative_event,process,process,process
+Effi Briest,wie ich darüber denke,4044,gold_standard,stative_event,process,process,process
+Effi Briest,und so gewiß ihm an Ehren und Gunstbezeugungen von oberster Stelle her lag,4048,gold_standard,stative_event,process,process,process
+Effi Briest,wen sie dafür verantwortlich machen sollte,4060,gold_standard,non_event,non_event,process,process
+Effi Briest,und hat die Lächerlichkeit,4064,gold_standard,non_event,non_event,process,process
+Effi Briest,was man gute Sitte nennt,4066,gold_standard,stative_event,process,process,process
+Effi Briest,Versteht sich,4070,gold_standard,stative_event,process,process,process
+Effi Briest,bis man fällt,4078,gold_standard,non_event,non_event,process,process
+Effi Briest,und ich weiß noch,4083,gold_standard,stative_event,process,process,process
+Effi Briest,Sie saß neben Sidonie von Grasenabb,4085,gold_standard,stative_event,process,process,process
+Effi Briest,sondern auch unter einander nach wie vor auf dem besten Fuße standen,4087,gold_standard,stative_event,process,process,process
+Effi Briest,"wenn sie, vom Geist überkommen, die Schalen ihres Zornes ausschüttete",4093,gold_standard,process,non_event,process,process
+Effi Briest,"und ich geniere mich fast, es auszusprechen",4094,gold_standard,stative_event,process,process,process
+Effi Briest,und wenn meine Frau von Treue spricht,4095,gold_standard,non_event,non_event,process,process
+Effi Briest,"weil es jeden Besucher, wenigstens die Männer, stört, eine lange Stakete mit griesem Teint und schwarzen Rändern in der Thüröffnung erscheinen zu sehen",4101,gold_standard,non_event,non_event,process,process
+Effi Briest,Sonst sprachst Du doch ganz anders,4106,gold_standard,process,process,process,stative_event
+Effi Briest,so heißt es immer,4116,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,ihre Nerven zehren sich auf,4117,gold_standard,process,process,process,stative_event
+Effi Briest,Die Gnade Seiner Majestät beschämt mich,4119,gold_standard,stative_event,process,process,process
+Effi Briest,die wir jetzt haben,4127,gold_standard,non_event,non_event,process,process
+Effi Briest,Aber da giebt es Außengebiete,4133,gold_standard,stative_event,process,process,process
+Effi Briest,Ihr Herr Gemahl war freilich schon länger im Dienst,4138,gold_standard,process,process,process,stative_event
+Effi Briest,wie's kommen mußte,4149,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wo mir solche Fragen nicht gekommen wären,4153,gold_standard,non_event,non_event,process,non_event
+Effi Briest,und wenn der Winter dann da ist,4163,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wo sie unter einem Zeltdach Platz nahmen,4165,gold_standard,process,process,process,stative_event
+Effi Briest,gerade soviel kommt mitunter dabei heraus,4173,gold_standard,non_event,non_event,process,process
+Effi Briest,etwas aufgeregt wegen Unkenntnis im Kutschieren,4175,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und während so Frage und Antwort ging,4177,gold_standard,process,process,process,stative_event
+Effi Briest,leider,4178,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Effi war nun schon über ein halbes Jahr in Hohen-Cremmen,4179,gold_standard,process,process,process,stative_event
+Effi Briest,und vergessen darüber ganz,4187,gold_standard,non_event,non_event,process,process
+Effi Briest,denn Ihr macht wieder lange Gesichter,4190,gold_standard,process,process,process,stative_event
+Effi Briest,während sie sich umwandte,4191,gold_standard,process,process,process,stative_event
+Effi Briest,daß es gekommen sei,4201,gold_standard,process,process,process,stative_event
+Effi Briest,unser Freund hält zu denen,4202,gold_standard,stative_event,process,process,process
+Effi Briest,am allerwenigsten hat man einen Anspruch darauf,4205,gold_standard,non_event,non_event,process,process
+Effi Briest,und ließ sich unbefangen von ihm erzählen,4206,gold_standard,process,non_event,process,non_event
+Effi Briest,sie langweilt sich in unserm guten Kessin,4210,gold_standard,stative_event,process,process,process
+Effi Briest,Auf dem Rondell hatte sich eine kleine Veränderung vollzogen,4211,gold_standard,process,process,process,stative_event
+Effi Briest,und manche sagen auch wohl noch Schlimmeres,4212,gold_standard,non_event,non_event,process,process
+Effi Briest,und es mischte sich etwas von Wehmut mit ein,4222,gold_standard,process,process,process,stative_event
+Effi Briest,Sie werden sich wohl am Ende wundern,4242,gold_standard,non_event,non_event,process,process
+Effi Briest,es muß nur einen Reim auf ‚u‘ haben,4243,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,der sich in den nächsten Tagen fast bis zum Sturm steigerte,4255,gold_standard,process,process,process,stative_event
+Effi Briest,und freute sich,4263,gold_standard,stative_event,process,process,process
+Effi Briest,von der man einen prächtigen Ausblick auf das Meer hatte,4268,gold_standard,stative_event,process,process,process
+Effi Briest,wenn ein paar beim Brüten gestörte Rebhühner dicht neben ihm aus einer Nachbarfurche aufflogen,4269,gold_standard,process,non_event,process,non_event
+Effi Briest,daß es wie ein feines Rieseln auf die Platanen niederfiel,4275,gold_standard,process,process,process,stative_event
+Effi Briest,das hier rechts vom Gothener See her herunter kommt,4280,gold_standard,process,process,process,stative_event
+Effi Briest,Und nun brach Effi ihr Schweigen,4297,gold_standard,process,process,process,change_of_state
+Effi Briest,Und ich glaube,4300,gold_standard,stative_event,process,process,process
+Effi Briest,und von denen man kaum wisse,4303,gold_standard,stative_event,process,process,process
+Effi Briest,Aber Sie wollten von dem Hertha-See sprechen,4307,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Eigentlich sah er schon immer so aus,4312,gold_standard,stative_event,process,process,process
+Effi Briest,und grenzte schon fast an Grausamkeit,4313,gold_standard,stative_event,process,process,process
+Effi Briest,wobei sich Innstetten nicht leicht genug thun konnte,4314,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Mit dem ist immer noch am ehesten fertig zu werden,4316,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,weil ihm das Nachtrotten mißfiel,4318,gold_standard,stative_event,process,process,process
+Effi Briest,Finde ich auch,4330,gold_standard,stative_event,process,process,process
+Effi Briest,daß es mich erschütterte,4334,gold_standard,stative_event,process,process,process
+Effi Briest,was alles zum Zeichen wird,4346,gold_standard,process,process,process,stative_event
+Effi Briest,Der gnädige Herr hatte ihr nicht nur alles gesagt,4349,gold_standard,process,non_event,process,non_event
+Effi Briest,sie haben da natürlich auch Musik,4352,gold_standard,stative_event,process,process,process
+Effi Briest,mir wär' es recht,4354,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Er will mir ja schon Schmuck schenken in Venedig,4357,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Innstetten fand trotzdem den Ton so verletzend herbe,4358,gold_standard,stative_event,process,process,process
+Effi Briest,Jeder trägt seine Kappe,4362,gold_standard,process,non_event,process,process
+Effi Briest,Es giebt eine Verjährungstheorie,4368,gold_standard,stative_event,process,process,process
+Effi Briest,Ein schönes Gefühl hatte wieder Platz in ihrem Herzen gefunden,4372,gold_standard,change_of_state,process,process,process
+Effi Briest,Am Ende ist es doch das beste,4373,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Ich bitte Sie,4375,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Und welche waren,4380,gold_standard,process,process,process,stative_event
+Effi Briest,ich kenne überhaupt nur wenig,4387,gold_standard,stative_event,process,process,process
+Effi Briest,Das ist die Signatur unserer Zeit,4388,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,das regt sie bloß auf,4390,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich war immer eine schwache Christin,4391,gold_standard,stative_event,process,process,stative_event
+Effi Briest,und ehe noch irgend wer weiß,4395,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,aber doch schon groß genug,4397,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,darin hatte die Mama recht,4405,gold_standard,stative_event,process,process,process
+Effi Briest,Da war er denn vorgestern drüben,4406,gold_standard,process,stative_event,stative_event,stative_event
+Effi Briest,"Wenn Effi rasch und elastisch auf die Eltern zutrat, um ihnen einen guten Morgen zu bieten",4410,gold_standard,process,non_event,process,non_event
+Effi Briest,wie's sein sollte,4414,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die eines schönen Tages verschwand,4416,gold_standard,non_event,non_event,process,process
+Effi Briest,der so ziemlich das Gegenteil versichert habe,4422,gold_standard,stative_event,process,process,process
+Effi Briest,"Es wird vorüber gehen, liebe Geheimrätin",4426,gold_standard,non_event,non_event,process,process
+Effi Briest,Das würd' ich mir auch verbitten,4436,gold_standard,non_event,non_event,process,process
+Effi Briest,und empfand schmerzlich,4441,gold_standard,stative_event,process,process,process
+Effi Briest,die schließlich doch nur sagt,4442,gold_standard,stative_event,process,process,process
+Effi Briest,während sie den Stachelbeeren fleißig zusprach,4444,gold_standard,process,process,process,stative_event
+Effi Briest,"Nein, ich will nichts als Dich ansehen",4447,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Effi kam in ein nervöses Zittern,4448,gold_standard,change_of_state,process,change_of_state,change_of_state
+Effi Briest,die kaum hörbar von des Sterbenden Lippen kamen,4468,gold_standard,process,process,process,stative_event
+Effi Briest,wenn auch bloß um der Kapothüte willen,4473,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,in der er ein paar Zeilen von Wüllersdorf vorfand,4477,gold_standard,stative_event,process,process,process
+Effi Briest,es vergeht kein Tag,4478,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Aber er wollte davon nichts wissen,4487,gold_standard,non_event,non_event,process,non_event
+Effi Briest,so ist es auch gut,4488,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und wenn wir zurückreiten,4494,gold_standard,non_event,non_event,process,process
+Effi Briest,dem auch viel verquer gegangen war,4501,gold_standard,process,process,process,stative_event
+Effi Briest,wie ich sehe,4504,gold_standard,stative_event,process,process,process
+Effi Briest,"Wissen Sie, liebe Baronin",4507,gold_standard,non_event,non_event,process,process
+Effi Briest,wie beispielsweise der Doktor Wichern im Rauhen Hause zu Hamburg gewesen ist,4517,gold_standard,process,process,process,stative_event
+Effi Briest,giebt es mir noch jetzt einen Stich ins Herz,4533,gold_standard,process,non_event,process,process
+Effi Briest,was zufällig gilt,4534,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Ich hasse diese Landpartieen,4548,gold_standard,stative_event,process,process,process
+Effi Briest,"sahen sie, nach links hin, schon die Gegenpartei",4549,gold_standard,stative_event,process,process,process
+Effi Briest,Das macht das Wasser,4554,gold_standard,process,non_event,process,process
+Effi Briest,"er hat das Gefühl, aus der Sache nicht heil herauszukommen",4559,gold_standard,stative_event,process,process,process
+Effi Briest,desto schöner und begehrlicher erscheinen sie Dir,4564,gold_standard,stative_event,process,process,process
+Effi Briest,und beruhigt mich über Mirambo,4565,gold_standard,change_of_state,process,process,process
+Effi Briest,das ist das beste,4567,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,eine Judengeschichte,4570,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wenn sie zu Besuch da war,4571,gold_standard,process,process,process,stative_event
+Effi Briest,Ich liebe diese Frau so sehr,4572,gold_standard,stative_event,non_event,process,process
+Effi Briest,Effi hatte noch immer die alte Liebe für sie,4574,gold_standard,stative_event,process,process,process
+Effi Briest,Es lief darauf hinaus,4579,gold_standard,process,non_event,process,process
+Effi Briest,wie schön das aussieht,4586,gold_standard,stative_event,process,process,process
+Effi Briest,ich muß es so nennen,4590,gold_standard,non_event,non_event,process,process
+Effi Briest,"daß ihre Rivalin, ohne Vertrauensperson gewesen zu sein, sich doch als die Eingeweihtere zeigen sollte",4594,gold_standard,non_event,non_event,process,process
+Effi Briest,Lesen aber und vor allem die Beschäftigung mit den Künsten hatte sie ganz aufgegeben,4600,gold_standard,non_event,non_event,process,process
+Effi Briest,und zumal wenn Westwind ging,4601,gold_standard,process,process,process,stative_event
+Effi Briest,Ich will wissen,4603,gold_standard,stative_event,process,process,process
+Effi Briest,und es giebt sogar eine Geschichte,4605,gold_standard,stative_event,process,process,process
+Effi Briest,nachdem ein erstes schmerzliches Gefühl glücklich überwunden war,4609,gold_standard,change_of_state,stative_event,stative_event,stative_event
+Effi Briest,dann war das Glück hin,4610,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Heine wird doch nicht bloß von Vitzliputzli und Don Pedro und Ihrem Rollo gedichtet haben,4614,gold_standard,non_event,non_event,process,non_event
+Effi Briest,je mehr man mich auszeichnet,4615,gold_standard,process,non_event,process,non_event
+Effi Briest,Das kenn' ich,4622,gold_standard,stative_event,process,process,process
+Effi Briest,Der Weg bis zur Anlegestelle war keine drei Minuten,4631,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Dabei war aber ihr Luftbedürfnis in einem beständigen Wachsen,4632,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,die wir hier haben,4633,gold_standard,stative_event,process,process,process
+Effi Briest,Annie wurde bei diesem Anblicke denn auch etwas redseliger,4644,gold_standard,change_of_state,process,process,process
+Effi Briest,was ein anderer zugeschlossen hat,4645,gold_standard,non_event,non_event,process,process
+Effi Briest,brach sie ohnmächtig zusammen,4647,gold_standard,change_of_state,process,process,change_of_state
+Effi Briest,Wir haben auch ein Recht,4649,gold_standard,process,non_event,process,process
+Effi Briest,daß Innstetten um eine Stunde früher in sein Arbeitszimmer trat als gewöhnlich,4652,gold_standard,process,process,process,stative_event
+Effi Briest,und diese schlichten Worte mit ihrer gewollten oder vielleicht auch nicht gewollten Anklage haben mich wieder vollends aus dem Häuschen gebracht,4662,gold_standard,change_of_state,process,process,process
+Effi Briest,das käme davon,4663,gold_standard,non_event,non_event,process,non_event
+Effi Briest,die nun einfach wieder behoben sei,4665,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,so etwa gingen seine Gedanken,4667,gold_standard,process,process,process,stative_event
+Effi Briest,Aber es wäre doch wohl gut,4670,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und zuletzt das mit Annie,4671,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Gut, gnäd'ger Herr",4675,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wo's doch auch gegangen,4680,gold_standard,process,process,process,stative_event
+Effi Briest,oder vielleicht auch schon 'mal erzählt habe,4689,gold_standard,non_event,non_event,process,non_event
+Effi Briest,daß das uns anvertraute Gut auch 'mal von uns zurückgefordert wird,4693,gold_standard,process,non_event,process,non_event
+Effi Briest,Und er hatte recht mit seinem Satz,4696,gold_standard,stative_event,process,process,process
+Effi Briest,Und wie ihm das Haar sitzt,4699,gold_standard,stative_event,process,process,process
+Effi Briest,sie sah ein,4705,gold_standard,stative_event,process,process,process
+Effi Briest,ich kann auch rasch sein,4708,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und was die Menschen verurteilen,4719,gold_standard,process,process,process,stative_event
+Effi Briest,und nach elf Jahren oder vielleicht schon bei zehnundeinhalb heißt es Unsinn,4726,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,daß Sie recht haben,4729,gold_standard,stative_event,process,process,process
+Effi Briest,Effi schwieg eine Weile,4733,gold_standard,non_event,non_event,process,process
+Effi Briest,sie wäre doch gegangen,4739,gold_standard,non_event,non_event,process,process
+Effi Briest,zu welcher Regung mütterlichen Stolzes sie vollberechtigt war,4741,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und in seinem Kopfe begann sich alles zu drehen,4742,gold_standard,process,process,process,stative_event
+Effi Briest,Es kam Effi sehr zu paß,4747,gold_standard,stative_event,process,process,process
+Effi Briest,Worin er auch recht hatte,4749,gold_standard,stative_event,process,process,process
+Effi Briest,und nimmt die Liebesworte vorweg aus dem Briefe heraus,4751,gold_standard,stative_event,process,process,process
+Effi Briest,an das ihn so viel Erinnerungen knüpfen,4753,gold_standard,stative_event,process,process,process
+Effi Briest,und ärgerte sich blos über das beständige Tuscheln und Geheimthun der Freundinnen,4760,gold_standard,stative_event,process,process,process
+Effi Briest,und das Einsteigen in die verschiedenen Gefährte schien sich schnell und ohne Störung vollziehen zu sollen,4766,gold_standard,non_event,non_event,process,process
+Effi Briest,"das sich bewußt war, ein lebendes Bild zu stellen",4767,gold_standard,stative_event,process,process,process
+Effi Briest,Von so einem hört man immer am liebsten,4768,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Das Auf- und Abschreiten nebenan wollte kein Ende nehmen,4770,gold_standard,non_event,non_event,process,non_event
+Effi Briest,welche Wendung einer Waffenstreckung ziemlich gleich kam,4771,gold_standard,process,process,process,stative_event
+Effi Briest,und versuchte ruhig zu sein,4772,gold_standard,stative_event,process,process,process
+Effi Briest,Und dabei spielt er sich auf den Kirchlichen aus,4774,gold_standard,process,process,process,stative_event
+Effi Briest,daß ich deutlich fühle,4775,gold_standard,stative_event,process,process,process
+Effi Briest,Sie hat's getroffen,4780,gold_standard,stative_event,process,process,process
+Effi Briest,Aber das hilft nicht immer,4784,gold_standard,non_event,non_event,process,non_event
+Effi Briest,so war es die,4785,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Er erkannte jetzt auch die Handschrift,4791,gold_standard,stative_event,process,process,process
+Effi Briest,ja selbst besser als Grasenabb,4800,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Alles ist an Zeit und Umstände gebunden,4805,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Da wird es ein Soog,4810,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"O, ganz gut",4812,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,aber Regen und Kälte fehlten noch,4825,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,so lange der Götze gilt,4826,gold_standard,process,process,process,stative_event
+Effi Briest,Dann drückt der Wind das Meerwasser in das kleine Rinnsal hinein,4827,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,und graues Gewölk am Himmel zog,4829,gold_standard,process,process,process,stative_event
+Effi Briest,Sie litt schwer darunter,4832,gold_standard,stative_event,process,process,process
+Effi Briest,als etwas Gewölk heranzog,4837,gold_standard,process,process,process,stative_event
+Effi Briest,und wenn diese dann zweifelte,4840,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Effi sah ihnen nicht ohne Neid nach,4845,gold_standard,process,non_event,process,non_event
+Effi Briest,"und bat nur, ihr ein Glas Wasser reichen zu wollen",4849,gold_standard,process,non_event,process,non_event
+Effi Briest,Ich wollte,4851,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,wenn sie zwischen den ersten Feldern waren,4855,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Und hoffe mich doch noch zu verheiraten,4856,gold_standard,stative_event,process,process,process
+Effi Briest,"Ja, Mirambo müsse zurückbleiben",4857,gold_standard,non_event,non_event,process,process
+Effi Briest,glaub' ich,4873,gold_standard,stative_event,process,process,process
+Effi Briest,wie das so geht,4877,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und diesen ihren heiteren Phantasien entsprach denn auch ihre Haltung,4890,gold_standard,stative_event,process,process,process
+Effi Briest,"Mama, wir erwarten Dich lange schon",4891,gold_standard,stative_event,process,process,process
+Effi Briest,Leutnant Engelbrecht von den Husaren als Wetter vom Strahl,4892,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,die freilich für den Winter in Sicht standen,4897,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Diese Begrüßung zerfiel in zwei Hauptteile,4899,gold_standard,process,non_event,process,process
+Effi Briest,"Crampas seinerseits hielt es für unangebracht, Aufklärungen zu geben",4908,gold_standard,stative_event,process,process,process
+Effi Briest,die doch immerhin möglich waren,4910,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Nur das Eleganteste gefiel ihr,4914,gold_standard,stative_event,process,process,process
+Effi Briest,Weiß ich,4916,gold_standard,stative_event,process,process,process
+Effi Briest,steig' ich aus,4920,gold_standard,non_event,non_event,process,process
+Effi Briest,Von Juni an schläft dann alles ein,4922,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und zuletzt thun wir es selbst,4926,gold_standard,non_event,non_event,process,process
+Effi Briest,Effi war ganz still geworden,4927,gold_standard,process,process,process,stative_event
+Effi Briest,"Fräulein Effi, was gilt die Wette",4930,gold_standard,non_event,non_event,process,process
+Effi Briest,und wer eine Tochter habe,4934,gold_standard,stative_event,process,process,process
+Effi Briest,"und hatte eine ihr unerklärliche Scheu, ihn zu öffnen",4940,gold_standard,stative_event,process,process,process
+Effi Briest,Da würd' ich denken,4946,gold_standard,non_event,non_event,process,process
+Effi Briest,und Euch vor der Zeit zu alten Leuten gemacht,4954,gold_standard,change_of_state,process,process,process
+Effi Briest,wo's windstill war,4955,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,so fühlte sich Effi wenig angenehm von dem berührt,4956,gold_standard,stative_event,process,process,process
+Effi Briest,Er will hier alte Freundschaft und Verwandtschaft wiedersehn,4957,gold_standard,stative_event,process,process,process
+Effi Briest,Und man muß dann spielen,4959,gold_standard,non_event,non_event,process,process
+Effi Briest,Effi ärgerte sich darüber,4963,gold_standard,stative_event,process,process,process
+Effi Briest,und die wohlwollende Gesinnung des Ministers fast noch mehr,4965,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und sie von ihrem Wagen aus freundlich grüßt,4968,gold_standard,non_event,non_event,process,process
+Effi Briest,Sie haben wieder Ihren Koller,4969,gold_standard,stative_event,process,process,process
+Effi Briest,und schämte sich dann wieder,4971,gold_standard,stative_event,process,process,process
+Effi Briest,der das Amt des ‚Einschenkens en cascade‘ an den ihm gegenüber sitzenden Crampas abtreten mußte,4973,gold_standard,process,non_event,process,process
+Effi Briest,Ich hoffe,4975,gold_standard,stative_event,process,process,process
+Effi Briest,aber 'was Menschliches,4978,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und Du möchtest eine Prinzessin sein,4991,gold_standard,stative_event,process,process,process
+Effi Briest,Freilich ein etwas kaltes Bad,4998,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"da sie seit Jahren nichts Schöneres kannte, als beispielsweise den Empfang vieler Geburtstagsbriefe",4999,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,daß ich das rührend finde,5004,gold_standard,stative_event,process,process,process
+Effi Briest,Denn diese Rücksicht „auf die Pferde“ ging auch im Kreise Kessin allem anderen vor,5010,gold_standard,stative_event,process,process,process
+Effi Briest,der noch plaudern wollte,5014,gold_standard,stative_event,process,process,process
+Effi Briest,Verjährung ist das einzig Vernünftige,5015,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,worin er nicht ganz unrecht hatte,5019,gold_standard,stative_event,process,process,process
+Effi Briest,als er sich wieder gefunden hatte,5021,gold_standard,change_of_state,process,process,process
+Effi Briest,und den lachenden blauen Himmel leise zu trüben begann,5025,gold_standard,process,process,process,stative_event
+Effi Briest,und man klappt selber nach,5029,gold_standard,non_event,non_event,process,process
+Effi Briest,wenn er immer sagt,5037,gold_standard,process,non_event,process,non_event
+Effi Briest,und der Doktor kam jetzt täglich,5051,gold_standard,process,process,process,stative_event
+Effi Briest,Man spricht immer von unsühnbarer Schuld,5053,gold_standard,non_event,non_event,process,process
+Effi Briest,Die Wirklichkeit ist anders,5056,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,und das ärgert mich,5058,gold_standard,stative_event,process,process,process
+Effi Briest,und da fliegt denn das Herz hinüber,5060,gold_standard,stative_event,process,process,process
+Effi Briest,daß Rummschüttel kommt,5071,gold_standard,non_event,non_event,process,process
+Effi Briest,und dachte mit einemmale wieder an die Worte,5077,gold_standard,stative_event,process,process,process
+Effi Briest,Aber worüber ich mich am meisten gefreut,5078,gold_standard,stative_event,process,process,process
+Effi Briest,Effi rechnete darauf,5087,gold_standard,stative_event,process,process,process
+Effi Briest,bis sie mit einemmale verschwunden war,5088,gold_standard,stative_event,process,change_of_state,change_of_state
+Effi Briest,aber doch oft,5089,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und dann steig' ich ab,5095,gold_standard,process,non_event,process,process
+Effi Briest,die sie immer geliebt hatte,5105,gold_standard,stative_event,process,process,process
+Effi Briest,und es blieb ein leerer Platz,5106,gold_standard,stative_event,process,process,process
+Effi Briest,"aber das weiß ich, Johanna",5107,gold_standard,stative_event,process,process,process
+Effi Briest,Damit hat's freilich noch gute Wege,5111,gold_standard,non_event,non_event,process,process
+Effi Briest,so viel er sich von Italien versprochen hatte,5112,gold_standard,stative_event,process,process,process
+Effi Briest,und weil er den schönen Kalatrava-Ritter überhaupt nicht recht leiden mochte,5117,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,die dabei der nun um kaum achtzehn Jahre zurückliegenden Zeit gedenken mochte,5118,gold_standard,non_event,non_event,process,process
+Effi Briest,Du sprichst ja wie ein Courmacher,5126,gold_standard,process,process,process,stative_event
+Effi Briest,Nur das laß mich im voraus sagen,5137,gold_standard,non_event,non_event,process,process
+Effi Briest,"daß uns die alten Schweden, die Griechen, bloß das Wort hinterlassen haben",5143,gold_standard,process,non_event,process,non_event
+Effi Briest,dann hatte er sich wieder gefaßt,5149,gold_standard,change_of_state,process,process,process
+Effi Briest,Und der schönste sei für Dich,5150,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Diese Unechten sind schuld an allem,5158,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und ein Landrat ist ein Landrat,5165,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,dessen Gamaschen immer weiter wurden,5168,gold_standard,process,process,process,stative_event
+Effi Briest,Eins geht vor,5173,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,als wäre jeder mit dabei gewesen,5176,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,ich bin nicht so dumm,5186,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Ich weiß wohl,5190,gold_standard,stative_event,process,process,process
+Effi Briest,Effi vermied die kleinen Waldpartieen,5191,gold_standard,non_event,non_event,process,process
+Effi Briest,Aber es beglückt mich so,5192,gold_standard,stative_event,process,process,process
+Effi Briest,Aber eh' ich die Sache kenne,5200,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich sehe darin nur eine neue Bestätigung des alten Weisheitssatzes,5206,gold_standard,stative_event,process,process,process
+Effi Briest,Und ich liebe auch den alten Niemeyer,5211,gold_standard,stative_event,process,process,process
+Effi Briest,Ich wüßt' es schon,5212,gold_standard,non_event,non_event,process,process
+Effi Briest,Es steht so,5215,gold_standard,stative_event,process,process,process
+Effi Briest,oder ob einem derlei Dinge zur halben oder auch wohl zur ganzen Lebensgewohnheit werden,5223,gold_standard,non_event,non_event,process,process
+Effi Briest,läßt mich seinen Wert um so tiefer empfinden,5224,gold_standard,stative_event,process,process,process
+Effi Briest,weil er es schwül fand,5225,gold_standard,stative_event,process,process,process
+Effi Briest,so verzichtete sie auf das Zweitbeste,5227,gold_standard,non_event,non_event,process,process
+Effi Briest,Der Herr schreibt sonst nie nach Hohen-Cremmen,5234,gold_standard,process,non_event,process,non_event
+Effi Briest,und wohnt bei uns,5239,gold_standard,non_event,non_event,process,process
+Effi Briest,dann ist alles wieder in Ordnung,5240,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Was es von ernsteren Dingen zu besprechen gab,5241,gold_standard,stative_event,process,process,process
+Effi Briest,ich liebe meine Frau,5243,gold_standard,stative_event,process,process,process
+Effi Briest,Frau von Briest schwieg,5244,gold_standard,non_event,non_event,process,process
+Effi Briest,ob es nebenher auch noch prosaisch ist,5247,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,fand sich auch,5250,gold_standard,process,non_event,process,non_event
+Effi Briest,Sie sind,5251,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,daß Ungewöhnlichkeiten nach oben hin besser empfehlen,5252,gold_standard,non_event,non_event,process,process
+Effi Briest,Im Hause sind jetzt die Handwerker,5253,gold_standard,stative_event,process,process,stative_event
+Effi Briest,und hat ein natürlich menschliches Recht,5256,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Ring hielt auf dergleichen, um den Herrschaften beim Anziehen ihrer Pelze behülflich zu sein",5257,gold_standard,stative_event,process,process,process
+Effi Briest,Denn an ein häufigeres Sichsehen en famille war nicht wohl zu denken,5266,gold_standard,non_event,non_event,process,process
+Effi Briest,wenn ich wiederkomme,5277,gold_standard,process,non_event,process,process
+Effi Briest,Sie haben recht,5279,gold_standard,stative_event,process,process,process
+Effi Briest,Sie wußte recht gut,5280,gold_standard,stative_event,process,process,process
+Effi Briest,ich bin gleich wieder da,5282,gold_standard,non_event,non_event,process,process
+Effi Briest,Nach wie vor nur das eine,5285,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Innstetten war Beamter genug, um den Brief von ‚Exzellenz‘ zuerst zu erbrechen",5289,gold_standard,stative_event,process,process,stative_event
+Effi Briest,denn wenn erst die Wagen heran sind,5292,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"Aber, ich bitte Sie",5300,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Kann ganz folgen, Innstetten",5301,gold_standard,process,non_event,process,process
+Effi Briest,den haben alle vom Lande,5313,gold_standard,non_event,non_event,process,process
+Effi Briest,wie leicht es ihr wurde,5320,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,Die werde ich Ihnen schicken,5327,gold_standard,non_event,non_event,process,process
+Effi Briest,"ist es erstaunlich, ein so gutes Hotel hier zu finden",5329,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wo dies für ihn feststand,5338,gold_standard,stative_event,process,process,process
+Effi Briest,und zu dem Schmerz über empfangenes Leid kommt noch der Schmerz über gethanes Leid,5341,gold_standard,non_event,non_event,process,process
+Effi Briest,wie Sie das meinen,5352,gold_standard,stative_event,process,process,process
+Effi Briest,ich habe nur die Sehnsucht,5353,gold_standard,stative_event,process,process,process
+Effi Briest,dadurch mache man sich alles erst dauernd zu eigen,5354,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,wenn sie wen empfangen,5363,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Ganz unerträglich,5365,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Aber es giebt doch andere,5366,gold_standard,stative_event,process,process,process
+Effi Briest,Natürlich ist nicht bloß Gieshübler zugegen,5369,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,weil er alles in Zweifel läßt,5370,gold_standard,stative_event,process,process,stative_event
+Effi Briest,Dann ließ er davon ab,5376,gold_standard,non_event,non_event,process,process
+Effi Briest,sonst würd' ich mir einbilden,5386,gold_standard,non_event,non_event,process,process
+Effi Briest,Ich bin so reizbar geworden,5387,gold_standard,change_of_state,process,process,stative_event
+Effi Briest,und dabei wird es in unserer guten Stadt immer stiller und einsamer,5388,gold_standard,process,process,process,stative_event
+Effi Briest,und eine alte Witwe betete zu Gott,5389,gold_standard,stative_event,process,process,process
+Effi Briest,ihren Hauptverkehr aber hatte sie doch in Schulhaus und Pfarre,5401,gold_standard,process,process,process,stative_event
+Effi Briest,Meine liebe Effi will immer gern 'was Neues hören,5416,gold_standard,stative_event,process,process,process
+Effi Briest,und was Ehre ist,5423,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und die heruntergelassenen Rouleaux verkünden einem schon auf hundert Schritt,5425,gold_standard,process,process,process,stative_event
+Effi Briest,aber das eine gute hat es,5428,gold_standard,stative_event,process,process,process
+Effi Briest,aber Lene ist schon hin,5432,gold_standard,process,process,process,stative_event
+Effi Briest,Aber Vineta hat er gemeint,5435,gold_standard,stative_event,process,process,process
+Effi Briest,An dem Besitze mehr oder weniger alltäglicher Dinge lag Effi nicht viel,5439,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,so wissen Sie es,5442,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Ich weiß es wohl,5449,gold_standard,stative_event,process,process,process
+Effi Briest,"und den Wimpel oben selbst anzumachen, das ließ' ich mir nicht nehmen",5451,gold_standard,non_event,non_event,process,process
+Effi Briest,Aber sie denkt,5452,gold_standard,stative_event,process,process,process
+Effi Briest,"Ich bitte Sie, mein gnädigstes Fräulein",5454,gold_standard,non_event,non_event,process,non_event
+Effi Briest,und seine Gleichgültigkeiten verstimmten sie,5455,gold_standard,stative_event,process,process,process
+Effi Briest,was wir haben,5459,gold_standard,stative_event,process,process,process
+Effi Briest,Das fragt sich,5462,gold_standard,stative_event,process,process,process
+Effi Briest,trotzdem aber ungern that,5463,gold_standard,process,non_event,process,non_event
+Effi Briest,was Jugend bedeutet,5475,gold_standard,non_event,non_event,process,process
+Effi Briest,daß er etwas sagen wollte,5477,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,wie Sie's verstehen,5479,gold_standard,stative_event,process,process,process
+Effi Briest,Das sieht Dir ähnlich,5480,gold_standard,stative_event,process,process,process
+Effi Briest,"Ich werde mich aber hüten, Dir nachzuklettern",5484,gold_standard,non_event,non_event,process,process
+Effi Briest,Wer gerade gewachsen ist,5495,gold_standard,non_event,non_event,process,process
+Effi Briest,aber dabei blieb es,5509,gold_standard,stative_event,process,process,process
+Effi Briest,"der denn auch, unter Anlehnung an seinen mecklenburgischen Landsmann und Lieblingsdichter und nach dem Vorbilde von Mining und Lining, seinen eigenen Zwillingen die Namen Bertha und Hertha gegeben hatte",5510,gold_standard,process,process,process,stative_event
+Effi Briest,seinem Scheitel und seiner ausgeschnittnen Weste nach können wir dreist auf vier rechnen,5511,gold_standard,non_event,non_event,process,process
+Effi Briest,nach Karat berechnet man nämlich den reinen Goldeswert,5520,gold_standard,non_event,non_event,process,process
+Effi Briest,unbefangen und heiter,5524,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,trotzdem ein leiser Spott noch darin nachklang,5527,gold_standard,stative_event,process,process,stative_event
+Effi Briest,Und unser Leben wird von Stund an ein anderes,5529,gold_standard,process,process,process,stative_event
+Effi Briest,und Sie wissen doch,5530,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und sowohl Effi wie die Geheimrätin waren ziemlich emsig bei ihrer Handarbeit,5533,gold_standard,process,process,process,stative_event
+Effi Briest,"und daß sich Sidonie nur zu ihr gesetzt hatte, um ihr etwas Unangenehmes zu sagen",5535,gold_standard,process,non_event,process,non_event
+Effi Briest,und weiß recht gut,5561,gold_standard,stative_event,process,process,process
+Effi Briest,will ich es Ihnen verzeihen,5562,gold_standard,stative_event,process,process,process
+Effi Briest,Ich werde Innstetten davon erzählen,5565,gold_standard,non_event,non_event,process,process
+Effi Briest,Aber ehe sie diese finden konnte,5575,gold_standard,non_event,non_event,process,process
+Effi Briest,"wenn Sie beinah' unmittelbar vor den Thoren derselben auf kaum tausend Schritte zusammengedrängt, einem Pichelsberg, einem Pichelsdorf und einem Pichelswerder begegnen",5579,gold_standard,non_event,non_event,process,process
+Effi Briest,Gedanken sind in der Regel etwas,5580,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,mit dem Eintreten des Winters aber kam eine mehrmonatliche Unterbrechung,5582,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,An allem freute sie sich,5584,gold_standard,stative_event,process,process,process
+Effi Briest,und freue mich über jedes grüne Blatt und über den wilden Wein,5585,gold_standard,stative_event,process,process,process
+Effi Briest,aber er hazardiert im Leben in einem fort,5587,gold_standard,process,process,process,stative_event
+Effi Briest,"die wieder, wie damals an ihrem Verlobungstage mit Innstetten, ein blau und weißgestreiftes Kittelkleid mit einem losen Gürtel trug",5588,gold_standard,process,process,process,stative_event
+Effi Briest,So trieb sie denn weiter,5599,gold_standard,process,process,process,stative_event
+Effi Briest,Ich will auch fort,5601,gold_standard,stative_event,process,process,process
+Effi Briest,Für mich hat es nicht viel auf sich,5606,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,deren Beantwortung er meist nicht abwartete,5609,gold_standard,non_event,non_event,process,process
+Effi Briest,so viel weiß ich von meinem Papa her,5624,gold_standard,stative_event,process,process,process
+Effi Briest,Da müßte denn doch Innstetten wenigstens ein verkappter Hohenzoller sein,5634,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,von denen wir alle abstammen,5641,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,denn es liegt ja alles zurück,5643,gold_standard,stative_event,process,process,process
+Effi Briest,"daß mein Freund, der Oberkellner, drei Sprachen spricht",5660,gold_standard,non_event,non_event,process,process
+Effi Briest,den die Königin natürlich heimlich liebte,5661,gold_standard,stative_event,process,process,process
+Effi Briest,Das ist so Frauenrecht von alter Zeit her,5662,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und Begegnungen bei den benachbarten adligen Familien konnten immer nur sehr vereinzelt und sehr flüchtige sein,5668,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,denn ich nehme an,5669,gold_standard,stative_event,process,process,process
+Effi Briest,und Innstetten ahmte Johanna's Haltung nach,5670,gold_standard,process,process,process,stative_event
+Effi Briest,"zu dem sechs Stufen, nicht viel breiter als Leitersprossen, hinaufführten",5673,gold_standard,stative_event,process,process,process
+Effi Briest,und ihre Thränen fielen auf die Kissen,5674,gold_standard,process,process,process,stative_event
+Effi Briest,Hiermit war aber die Sache für ihn noch nicht abgeschlossen,5691,gold_standard,stative_event,process,process,process
+Effi Briest,um diesen herum aber Immortellen und ein paar blutrote Nelken,5692,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Jeder ist der Richtige,5694,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Du schweigst,5695,gold_standard,process,non_event,process,process
+Effi Briest,Ich will mit der Frau über Land fahren,5696,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Von da her rührten auch die meisten der rings umher hängenden Bilder: der Kornhändler und seine Frau, der Marienburger Remter und eine gute Kopie nach dem berühmten Memling'schen Altarbilde in der Danziger Marienkirche",5707,gold_standard,stative_event,process,process,process
+Effi Briest,Und ich glaube beinah',5709,gold_standard,stative_event,process,process,process
+Effi Briest,im Gegenteil,5710,gold_standard,non_event,process,process,process
+Effi Briest,"Immer Wort halten, ist sehr viel",5712,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und der ganze Strandsand ist dann bis tief hinunter mit Wasser durchsetzt und gefüllt,5713,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,und jedesmal muß ich auch wirklich immer an Ihren Vater denken,5714,gold_standard,stative_event,process,process,process
+Effi Briest,"auf dem Effi dann und wann eine Sonate, die Zwicker dann und wann einen Walzer spielte",5717,gold_standard,process,process,process,stative_event
+Effi Briest,"Mein Gott, was sind das nur alles für Namen und Wörter",5725,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,wie der Gieshübler'sche Schlitten zurückzufahren sei,5726,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Er that das eine und das andere mit unglaublicher Bonhommie,5728,gold_standard,process,process,process,stative_event
+Effi Briest,"Aber, Johanna, das ist doch wirklich zu schlecht von Ihnen, mir so 'was auf den Kopf zuzusagen",5732,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"Und vorhin, Wüllersdorf sprachen Sie selber anders davon",5733,gold_standard,process,non_event,process,process
+Effi Briest,aber schaffte doch die Verlegenheit nicht aus der Welt,5734,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Ja, im Winter, da ist es 'was anderes",5735,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Knut fehlte,5738,gold_standard,non_event,non_event,process,process
+Effi Briest,wo sie Glasperlen machen und schönen Schmuck,5740,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ja, das sagst Du wohl, Effi",5744,gold_standard,process,non_event,process,process
+Effi Briest,und nicht lange,5745,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Innstetten war am anderen Morgen früh auf,5748,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"Ja, das rechte Maß, das hält er",5750,gold_standard,process,non_event,process,process
+Effi Briest,"So nach meinem eigenen Willen schalten und walten zu können, ist mir immer das Liebste gewesen",5753,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Statt einfach über die Ehre,5754,gold_standard,non_event,non_event,process,non_event
+Effi Briest,so ziemlich um dieselbe Zeit,5756,gold_standard,non_event,non_event,process,non_event
+Effi Briest,aber mit einemmal fühlte sie,5760,gold_standard,stative_event,process,process,process
+Effi Briest,"Ja, lachen Sie nur",5761,gold_standard,process,non_event,process,process
+Effi Briest,"Ach, Geert, ich ängstige mich wirklich",5764,gold_standard,stative_event,non_event,process,process
+Effi Briest,Arme Effi,5768,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Ach, das weiß ich auch",5769,gold_standard,stative_event,non_event,process,process
+Effi Briest,"schwarz und goldene Vögel darauf, alle mit einem langen Kranichschnabel",5771,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Ja, der erzählte immer so was",5772,gold_standard,process,non_event,process,process
+Effi Briest,"unser gnäd'ger Herr, der soll auch leben",5776,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ja, mit den Vorstellungen ist es ein eigen Ding",5777,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,daß der etwas kritische Klitzing nur zu sehr recht habe,5782,gold_standard,stative_event,process,process,stative_event
+Effi Briest,"Natürlich, denn er ist sehr schneidig",5787,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,und die Mama wetteiferte mit ihrem Manne in Liebes- und Aufmerksamkeitsbezeugungen,5798,gold_standard,process,non_event,stative_event,stative_event
+Effi Briest,"Ja, meine Freunde viele Ringe giebt es",5800,gold_standard,non_event,non_event,process,process
+Effi Briest,und die Briefe die sahen ja schon ganz gelb aus,5802,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,aber zu Jahnke selbst,5805,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Nein, Mama, das ist mein völliger Ernst",5815,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Und dann am liebsten gleich in die Brandung,5816,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Ach, Roswitha, Sie reden",5817,gold_standard,process,non_event,process,process
+Effi Briest,"Ja, meine Liebe, das haben sie",5818,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Indessen erhob sich auch Effi,5819,gold_standard,process,non_event,process,process
+Effi Briest,Also singen wir,5820,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ja, Sie haben recht",5822,gold_standard,stative_event,non_event,process,process
+Effi Briest,"und jetzt, in hartem Gegensatz dazu, war er froh",5834,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,dann kamen Crampas und Effi,5836,gold_standard,stative_event,process,process,process
+Effi Briest,ja das waren eng geschriebene Zeilen von der Mama,5839,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"Ja, man konnte sich nicht genug thun damit",5840,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ja, Roswitha, davon sprechen Sie in einem fort",5842,gold_standard,process,non_event,process,process
+Effi Briest,"Da haben wir ,Sardanapal‘ oder ,Coppelia‘ mit der del Era",5847,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ja, meine gnädigste Frau da steht es schlimm",5849,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,"aber freilich, ich breche immer wieder ab",5850,gold_standard,process,non_event,process,process
+Effi Briest,die paarmal,5854,gold_standard,non_event,non_event,process,process
+Effi Briest,Und haben doch Gieshübler und den Journalzirkel,5856,gold_standard,stative_event,process,process,process
+Effi Briest,Schmerzliches,5858,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Indessen Sie haben einen himmlischen Kehrmichnichtdran,5860,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,um so mehr,5864,gold_standard,non_event,non_event,process,process
+Effi Briest,ich gehe rechts bis an den Strand und durch die Plantage zurück,5865,gold_standard,non_event,non_event,process,process
+Effi Briest,darin,5875,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und am liebsten immer in der Furcht,5876,gold_standard,non_event,stative_event,stative_event,stative_event
+Effi Briest,Ein Glück,5877,gold_standard,non_event,non_event,process,process
+Effi Briest,Es wäre zu wünschen,5878,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Das ging so den ganzen Winter durch, sehr zu Effi's Leidwesen",5884,gold_standard,process,process,process,stative_event
+Effi Briest,Die sprechen von schlechter Erziehung,5885,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Ich fürchte mich eigentlich, Roswitha",5888,gold_standard,stative_event,process,process,process
+Effi Briest,"Ich werde gegen acht Tage fort sein, vielleicht noch einen Tag länger",5890,gold_standard,non_event,non_event,process,process
+Effi Briest,Zwischen den beiden Steindämmen floß die Kessine breit und ruhig dem Meere zu,5892,gold_standard,stative_event,process,process,stative_event
+Effi Briest,"Ja, meine gnädigste Frau, Gott sieht ins Herz",5893,gold_standard,non_event,non_event,process,non_event
+Effi Briest,Das mit dem Fleisch,5895,gold_standard,non_event,non_event,process,process
+Effi Briest,"und dann weil wir die Vorstellung unterhielten, vielleicht mit Unrecht",5900,gold_standard,stative_event,process,process,process
+Effi Briest,"Innstetten war ernsthaft gewillt, auf das stille Leben ein gesellschaftlich angeregteres folgen zu lassen, um seinet- und noch mehr um Effi's willen",5901,gold_standard,stative_event,process,process,process
+Effi Briest,Natürlich muß er von Adel sein und eine Stellung haben und gut aussehen,5902,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und dann hat man doch schließlich auch seine Hülfsmittel und Gegenkräfte,5905,gold_standard,stative_event,process,process,process
+Effi Briest,"hier dicht neben der Schaukel, mit Raaen und einer Strickleiter",5906,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"mehr noch, weil er sich sagte",5907,gold_standard,process,non_event,process,non_event
+Effi Briest,"beide saßen auf dem schattigen Steinfliesengange, den Gartensaal im Rücken, das Rondell mit der Sonnenuhr vor sich",5908,gold_standard,stative_event,process,process,process
+Effi Briest,und ich möchte fast sagen von einer natürlichen Anmut,5912,gold_standard,non_event,non_event,process,process
+Effi Briest,"ich mag die Leute nicht mehr in Anspruch nehmen, als nötig",5914,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"und lebte ganz dem Glücksgefühle, wieder an dieser für sie so freundlich friedreichen Stelle zu sein, in Versöhnung mit denen",5918,gold_standard,process,process,process,stative_event
+Effi Briest,"so fand sie nichts, um dessentwillen sie sich direkte Vorwürfe zu machen gehabt hätte",5919,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"daß alles weit, weit zurückliegt, wie ein Geschehnis auf einem andern Stern",5920,gold_standard,stative_event,non_event,process,process
+Effi Briest,"deren in letzter Zeit — wohl unter dem Eindruck zurückgezogenen Lebens — stark erwachte Lust, auch mal den Süden zu sehen, seinem Vorschlage zu Hülfe kam",5932,gold_standard,process,process,process,stative_event
+Effi Briest,"nie habe sie sich, trotz ihrer fünfundzwanzig, so als Kind gefühlt, wie nach der Bekanntschaft mit dieser Dame",5935,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,ich glaube „Seegespenst“ oder so ähnlich,5937,gold_standard,stative_event,process,process,process
+Effi Briest,"Aber im Glauben sich unterkriegen, meine liebe Frau, darauf kommt es an",5938,gold_standard,non_event,non_event,process,process
+Effi Briest,ein Ring,5939,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und verging ähnlich wie das Jahr vorher,5940,gold_standard,process,process,process,stative_event
+Effi Briest,"Übrigens freu' ich mich Dich jedesmal eine Strecke Wegs begleiten zu können, bis an die Mühle gewiß oder bis an den Kirchhof oder auch bis an die Waldecke",5943,gold_standard,stative_event,process,process,process
+Effi Briest,"ja, seltsam zu sagen",5950,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ich glaube wirklich, Major",5951,gold_standard,stative_event,process,process,process
+Effi Briest,"Und dieser Kalatrava-Ritter hatte einen wunderschönen Hund, einen Neufundländer",5955,gold_standard,stative_event,non_event,process,process
+Effi Briest,"Theebrötchen und Aufschnitt von kaltem Braten, dazu Rotwein und neben der Flasche zwei hübsche zierliche Trinkgläser, klein und mit Goldrand",5957,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und unsre gnäd'ge Frau,5961,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Beide Damen hatten ihr Frühstück nicht im Salon selbst, sondern auf einem ein paar Fuß hoch aufgemauerten und mit Kies bestreuten Vorplatz eingenommen",5963,gold_standard,process,non_event,process,non_event
+Effi Briest,Und das Bild von Dir,5964,gold_standard,non_event,non_event,process,process
+Effi Briest,vor allem aber,5965,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Aber das mit der heimlichen Liebe das wurde dem Könige doch zu viel,5969,gold_standard,process,non_event,process,non_event
+Effi Briest,"mit der ihr nicht nur Innstetten, sondern auch fernerstehende Personen begegneten",5975,gold_standard,process,non_event,process,non_event
+Effi Briest,"Der Damast, die Weinkühler, das reiche Silbergeschirr, alles wirkte herrschaftlich, weit über oberförsterliche Durchschnittsverhältnisse hinaus",5985,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Zurechtweisende Worte,5992,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"da giebt es ganz andere, Briest",5994,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,ein ganz vornehmes,5995,gold_standard,non_event,non_event,process,process
+Effi Briest,"und, wenn möglich, noch bessere Grundsätze",5999,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Sie wissen, Innstetten",6000,gold_standard,stative_event,process,process,process
+Effi Briest,das Eitelste ist ein Landwehr-Bezirksmajor von zweiundvierzig,6003,gold_standard,non_event,non_event,process,process
+Effi Briest,daß sein ‚lieber Gast‘ noch immer fehle,6012,gold_standard,process,non_event,process,process
+Effi Briest,"Ja, Effi, das war ein hübscher Abend",6015,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"aber ich müßte noch vor der Einsegnung und beinah' vor der Taufe stehen, um Sie für einen einfachen Mann zu halten",6017,gold_standard,non_event,non_event,process,process
+Effi Briest,"Dieser Alonzo, dieser Preciosa-Spanier",6018,gold_standard,non_event,non_event,process,process
+Effi Briest,Der Einzige war Rollo selbst,6021,gold_standard,stative_event,process,process,process
+Effi Briest,der jeden Tag Ministerial-Direktor oder dergleichen werden kann,6026,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und bald kam der Kessiner Kirchturm in Sicht und gleich danach auch das Bollwerk und die lange Häuserreihe mit Schiffen und Booten davor,6027,gold_standard,process,process,process,stative_event
+Effi Briest,"Von Haltung und Anstand getragen, lebte sie ganz in dem Hochgefühl, die Dienerin eines guten Hauses zu sein",6029,gold_standard,process,process,process,stative_event
+Effi Briest,Schilderungen,6032,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"als mit Spinn und Mencke, Goschenhofer und ähnlichen Firmen",6036,gold_standard,non_event,non_event,process,process
+Effi Briest,und höre dabei den übermütigen Zuruf,6038,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,aber freilich hörte sie schon vom Hause her ihren Namen rufen,6049,gold_standard,process,process,process,stative_event
+Effi Briest,da,6050,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Innstetten war in seinem Kessiner Hause nicht glänzend,6054,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,auch nach dem,6058,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Ja, Innstetten sehnte sich nach Unterbrechung von Arbeit und Einsamkeit",6060,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,ein Wort,6061,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"und es sei doch zu viel verlangt, bloß um des Geredes der Kessiner willen, auf etwas zu verzichten",6062,gold_standard,stative_event,process,process,process
+Effi Briest,"Meine liebe Effi, ein Edelmann sieht anders aus",6063,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"der nicht bloß ganz Schwedisch-Pommern, sondern auch die Kessiner Gegend als skandinavisches Vorland ansah",6070,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Und ereignet sich's gar,6072,gold_standard,non_event,non_event,process,process
+Effi Briest,Sie wissen,6079,gold_standard,stative_event,process,process,process
+Effi Briest,Richtig,6081,gold_standard,non_event,non_event,process,process
+Effi Briest,"ein unendlich feiner Ton, fast wie menschliche Stimme",6082,gold_standard,non_event,stative_event,stative_event,stative_event
+Effi Briest,Dirigieren,6083,gold_standard,non_event,non_event,process,process
+Effi Briest,so daß er eigentlich immer mehr respektiert als geliebt worden sei,6086,gold_standard,process,process,process,stative_event
+Effi Briest,und der Frieden,6087,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"die nicht Mitglieder der Ressource, sondern immer nur geladene Gäste waren",6089,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,eine Teilung,6092,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,Und das Gefühl des Unheimlichen jetzt überkam es ihn selbst,6096,gold_standard,change_of_state,non_event,non_event,non_event
+Effi Briest,wenn es aber ausnahmsweise 'mal wirklich etwas zu besitzen galt,6098,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Effi, Du bist doch noch immer",6102,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Das Schmeichelhafteste,6104,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"ja, wahrhaftig, jetzt hab' ich es",6107,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Ich begreife nicht,6111,gold_standard,non_event,non_event,process,non_event
+Effi Briest,"Nun also, an Don Pedro's Hofe war ein schöner, schwarzer spanischer Ritter",6112,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Vetter Briest,6115,gold_standard,non_event,non_event,process,process
+Effi Briest,"Eingreifen, lieber Pastor",6120,gold_standard,non_event,non_event,process,process
+Effi Briest,"Aber es kam mir zu plötzlich, zu stark",6132,gold_standard,process,process,process,stative_event
+Effi Briest,und richtig,6135,gold_standard,non_event,non_event,process,process
+Effi Briest,das heißt,6136,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"das mit den Schlusen, das ist unsere Sache",6137,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Denn Ziegenpeter ist ansteckend, schon bloß durch Anblick",6138,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"und alles bloß, um einem Landrat guten Tag zu sagen, noch dazu einem Landrat aus Hinterpommern",6139,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,also darin,6143,gold_standard,non_event,non_event,process,process
+Effi Briest,"daß er Landrat wurde, Landrat im Kessiner Kreise",6145,gold_standard,process,non_event,process,non_event
+Effi Briest,Unter gewöhnlichen Umständen wäre ihr denn auch die Herauskehrung und Geltendmachung dieses Triumphes ein Leichtes gewesen,6146,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Nach diesem, im Pfarr- und Kantorhause gemachten Besuche war Effi wieder nach drüben zurückgekehrt",6147,gold_standard,process,stative_event,stative_event,stative_event
+Effi Briest,"Sie gefiel sich nämlich darin, Kessin als einen halb sibirischen Ort aufzufassen",6151,gold_standard,stative_event,process,process,process
+Effi Briest,"was ungefähr so viel bedeutet, wie schwarzer Adler und pour le mérite zusammen genommen",6155,gold_standard,stative_event,process,process,process
+Effi Briest,"das mußten sie immer tragen, und dieser Kalatrava-Ritter",6158,gold_standard,non_event,non_event,process,process
+Effi Briest,und es war ganz unverkennbar,6159,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"morgens neben der Sonnenuhr, immer ruhig, immer schläfrig",6162,gold_standard,process,non_event,process,non_event
+Effi Briest,Weißt Du noch,6165,gold_standard,non_event,process,process,process
+Effi Briest,Aber sie kamen doch seltener und schwächer,6168,gold_standard,process,process,process,stative_event
+Effi Briest,"Du regst Dich auf, Effi",6170,gold_standard,non_event,non_event,process,process
+Effi Briest,Etwas teuer,6172,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Nein, es ist doch mehr Ehrlichkeit dabei",6178,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,das ist das Bessere,6179,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"ja, Gieshübler meinte sogar",6184,gold_standard,process,non_event,process,non_event
+Effi Briest,für einen Ring,6186,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Nein, es ist eigentlich kurz",6187,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,Und das alles so ziemlich in demselben Augenblicke,6191,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"Nun aber Effi, nun ist es Zeit",6193,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Jeder hatte mehr oder weniger seine Freude daran, mit Ausnahme Sidoniens",6197,gold_standard,stative_event,process,process,process
+Effi Briest,und den,6200,gold_standard,non_event,non_event,process,process
+Effi Briest,"Da hätte sie wirklich selber mitspielen mögen, wenn auch nur, um dem lächerlichen Pensionslehrer einen Kreidestrich auf den Rücken zu machen",6201,gold_standard,non_event,process,process,process
+Effi Briest,in all' und jedem,6203,gold_standard,non_event,non_event,process,process
+Effi Briest,"und von denen sie immer geliebt worden war, auch in den Jahren ihres Elends und ihrer Verbannung",6204,gold_standard,stative_event,process,process,process
+Effi Briest,"Und wirklich, diese sechs kannte sie auswendig",6205,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,er werde nach Treptow hin telegraphieren an seinen Freund Buddenbrook,6208,gold_standard,non_event,non_event,process,process
+Effi Briest,"Ja, Crampas, Sie kleidet das",6211,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,und das sei 'was anderes als dieser Schein,6214,gold_standard,non_event,non_event,process,process
+Effi Briest,Du bleibst,6217,gold_standard,process,non_event,process,non_event
+Effi Briest,Ja,6218,gold_standard,non_event,non_event,process,process
+Effi Briest,oder doch beinah',6221,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,und die Ferienreise ist eigentlich eine Vetternreise,6227,gold_standard,stative_event,process,process,process
+Effi Briest,Eigentlich habe ich ja alles,6228,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Sie werden erfahren, liebe Freundin",6238,gold_standard,non_event,non_event,process,process
+Effi Briest,das hier mit allem Bescheid wußte und natürlich auch mit dem Schloon,6239,gold_standard,stative_event,process,process,process
+Effi Briest,es ließ sich aber anfangs nur schwach und vereinzelt damit an,6242,gold_standard,process,process,process,stative_event
+Effi Briest,Ausführungen,6248,gold_standard,non_event,non_event,process,process
+Effi Briest,und ein Glück,6251,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,"sie wisse nichts von Geschichte, mit Ausnahme der sechs Frauen von Heinrich dem Achten, diesem englischen Blaubart",6253,gold_standard,stative_event,non_event,non_event,non_event
+Effi Briest,"Nun aber ist es höchste Zeit, Effi",6255,gold_standard,stative_event,process,process,process
+Effi Briest,Jahnke gravitätisch am rechten Flügel,6259,gold_standard,non_event,process,process,stative_event
+Effi Briest,"Und wirklich, die gute Roswitha hatte noch ein übriges gethan",6264,gold_standard,process,non_event,process,non_event
+Effi Briest,nur solche müßten die Entscheidung treffen,6265,gold_standard,non_event,non_event,stative_event,stative_event
+Effi Briest,aber das andere das war doch arg und beinahe beleidigend,6267,gold_standard,stative_event,non_event,stative_event,stative_event
+Effi Briest,Immer sagt' ich mir,6270,gold_standard,process,non_event,process,non_event

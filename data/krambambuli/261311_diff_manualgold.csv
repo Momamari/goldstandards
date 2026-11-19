@@ -1,0 +1,37 @@
+title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth
+Krambambuli,in dem die Leiche sich befand,30,gold_standard,stative_event,process,process,process
+Krambambuli,Die Frau des Revierjägers wurde ordentlich eifersüchtig auf den »Buli,88,gold_standard,change_of_state,process,process,process
+Krambambuli,weil dieser kein zweites umsonst hergeben wollte,98,gold_standard,stative_event,non_event,non_event,non_event
+Krambambuli,Die Plage hielt er heute noch für eine Freude,102,gold_standard,stative_event,process,process,process
+Krambambuli,Das wissen die beiden,123,gold_standard,stative_event,process,process,process
+Krambambuli,wie der Mann meinte,138,gold_standard,stative_event,process,process,process
+Krambambuli,Mein Hund kennt den niederträchtigen Strolch,179,gold_standard,stative_event,process,process,process
+Krambambuli,und fühlte sich wie neugeboren nach diesem Entschluß,194,gold_standard,stative_event,process,process,process
+Krambambuli,dachte Hopp,202,gold_standard,stative_event,process,process,process
+Krambambuli,Dem Jäger lachte das Herz im Leibe über den prächtigen Handel,207,gold_standard,stative_event,process,process,process
+Krambambuli,denn der Graf verlor früher die Freude an dem eigensinnigen Tiere,218,gold_standard,change_of_state,process,process,process
+Krambambuli,"Der Oberförster lag auf abgehauenen Zweigen, die Stirn mit einem dichten Kranz aus Lindenblüten umflochten, einen ebensolchen als Bandelier um die Brust gewunden",225,gold_standard,stative_event,process,process,process
+Krambambuli,Du hast genug,228,gold_standard,stative_event,process,process,process
+Krambambuli,gegen den der Haß sich zunächst wandte,234,gold_standard,stative_event,process,process,process
+Krambambuli,Dem Herrn des schönen Tieres sah der Lump aus den Augen,236,gold_standard,stative_event,process,process,process
+Krambambuli,daß sie genau in den Lauf dieses Schießprügels paßte,248,gold_standard,stative_event,process,process,process
+Krambambuli,die das Gesetz bei solchen Katastrophen vorschreibt,262,gold_standard,stative_event,process,process,process
+Krambambuli,Ich kann es mir denken,266,gold_standard,stative_event,non_event,non_event,non_event
+Krambambuli,den er noch für seinen Herrn hielt,293,gold_standard,stative_event,process,process,process
+Krambambuli,die einander auf dem Korn haben,306,gold_standard,stative_event,non_event,non_event,non_event
+Krambambuli,deren er unter dem schlechten Gesindel in jedem Dorfe mehrere besaß,327,gold_standard,stative_event,process,process,process
+Krambambuli,daß es schien,331,gold_standard,stative_event,process,process,process
+Krambambuli,so sieht das Sterben aus,335,gold_standard,stative_event,process,process,process
+Krambambuli,Am zehnten Tage nach dem Tode des Oberförsters hatte er zum erstenmal ein paar Stunden lang an etwas anderes gedacht als an seine Rache,358,gold_standard,stative_event,process,process,process
+Krambambuli,denkt der Alte,363,gold_standard,stative_event,process,process,process
+Krambambuli,kennt ihn,381,gold_standard,stative_event,process,process,process
+Krambambuli,"der sich schämte, die Wahrheit zu gestehen",402,gold_standard,stative_event,process,process,process
+Krambambuli,und liebte ihn trotz der rauhen Behandlung,405,gold_standard,stative_event,process,process,process
+Krambambuli,in welcher er sich befand,414,gold_standard,stative_event,process,process,process
+Krambambuli,das er an dem Hunde gefunden hatte,452,gold_standard,stative_event,process,process,process
+Krambambuli,So wenigstens meint der Herr Revierjäger Hopp,468,gold_standard,stative_event,process,process,process
+Krambambuli,die das Gerücht als die Geliebte des »Gelben« bezeichnete,485,gold_standard,stative_event,process,process,process
+Krambambuli,Krambambuli lag verendet vor ihm,487,gold_standard,stative_event,process,process,process
+Krambambuli,dem Krambambuli fehlte sie nicht,518,gold_standard,stative_event,non_event,non_event,non_event
+Krambambuli,in der »der Gelbe« lag,526,gold_standard,stative_event,process,process,process
+Krambambuli,Er wußte gleich,545,gold_standard,stative_event,process,process,process

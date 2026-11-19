@@ -1,0 +1,912 @@
+,title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth
+2090,Der blonde Eckbert,Es war ein rauher stürmischer Wintertag,1,gold_standard,stative_event,stative_event,stative_event,stative_event
+2093,Der blonde Eckbert,Wenn die Seele erst einmal zum Argwohn gespannt ist,2,gold_standard,non_event,non_event,non_event,non_event
+2096,Der blonde Eckbert,nur die Not meiner Eltern verstand ich sehr gut,3,gold_standard,stative_event,stative_event,stative_event,stative_event
+2099,Der blonde Eckbert,"daß es nur auf mich ankomme, in der Abwesenheit der Alten den Vogel und die Kleinodien zu nehmen, und damit die Welt aufzusuchen",4,gold_standard,non_event,non_event,non_event,non_event
+2102,Der blonde Eckbert,Ich vermied den Weg nach den wilden Felsen,5,gold_standard,non_event,non_event,non_event,non_event
+2105,Der blonde Eckbert,Ich dachte mir den schönsten Ritter von der Welt,6,gold_standard,process,process,process,process
+2108,Der blonde Eckbert,"und hiermit, Herr Walther, ist meine Geschichte geendigt",7,gold_standard,stative_event,stative_event,stative_event,stative_event
+2111,Der blonde Eckbert,Eckbert folgte ihm mit leichterm Herzen zur Stadt,8,gold_standard,process,process,process,process
+2114,Der blonde Eckbert,er durfte seiner Frau wegen diese Tochter nicht bei sich erziehn lassen,9,gold_standard,non_event,non_event,non_event,non_event
+2117,Der blonde Eckbert,sagte Eckbert stille vor sich hin,10,gold_standard,process,process,process,process
+2120,Der blonde Eckbert,mein Vater war ein armer Hirte,11,gold_standard,stative_event,process,stative_event,stative_event
+2123,Der blonde Eckbert,Ich fragte nach dem Schäfer Martin,12,gold_standard,process,process,process,process
+2126,Der blonde Eckbert,und man setzte sich wieder um den Kamin,13,gold_standard,process,process,process,process
+2129,Der blonde Eckbert,ich erschrak daher nicht wenig,14,gold_standard,process,process,process,process
+2132,Der blonde Eckbert,und welch einen unbeschreiblichen Reiz ihr ihre einsame Erziehung gegeben hatte,15,gold_standard,process,process,change_of_state,process
+2135,Der blonde Eckbert,der ihr nur mit seinem gewöhnlichen Liede Antwort gab,16,gold_standard,process,process,process,process
+2138,Der blonde Eckbert,was ich aus mir selber machen sollte,17,gold_standard,non_event,non_event,non_event,non_event
+2141,Der blonde Eckbert,Vor mir war ein steiler Felsen,18,gold_standard,stative_event,stative_event,stative_event,stative_event
+2144,Der blonde Eckbert,wird es dir auch immer gut gehn,19,gold_standard,non_event,non_event,non_event,non_event
+2147,Der blonde Eckbert,und bog die Zweige der Bäume nieder,20,gold_standard,stative_event,stative_event,stative_event,stative_event
+2150,Der blonde Eckbert,Gegen Abend schien die Gegend umher etwas freundlicher zu werden,21,gold_standard,stative_event,stative_event,stative_event,stative_event
+2153,Der blonde Eckbert,so aufeinandergepackt,22,gold_standard,non_event,stative_event,stative_event,stative_event
+2156,Der blonde Eckbert,"Um sich zu zerstreuen, begab er sich zuweilen nach der nächsten großen Stadt",23,gold_standard,process,process,process,process
+2159,Der blonde Eckbert,und schrie,24,gold_standard,process,process,stative_event,process
+2162,Der blonde Eckbert,die wunderbare Geschichten enthielten,25,gold_standard,stative_event,stative_event,stative_event,stative_event
+2165,Der blonde Eckbert,und ich erinnerte mich dabei recht lebhaft des schönen verlassenen Aufenthalts,26,gold_standard,process,process,process,process
+2168,Der blonde Eckbert,Wie ward ich überrascht,27,gold_standard,stative_event,stative_event,stative_event,stative_event
+2171,Der blonde Eckbert,"Wie liefen mir vor Freuden, wegen tausend seltsamer Erinnerungen, die Tränen von den Wangen",28,gold_standard,process,process,stative_event,process
+2174,Der blonde Eckbert,und so lebt ich im ganzen recht zufrieden,29,gold_standard,process,process,stative_event,process
+2177,Der blonde Eckbert,und es war selten,30,gold_standard,stative_event,process,stative_event,stative_event
+2180,Der blonde Eckbert,er hatte einen großen Weg zu machen,31,gold_standard,process,process,process,process
+2183,Der blonde Eckbert,aber je weiter ich ging,32,gold_standard,process,process,process,process
+2186,Der blonde Eckbert,wo er Gesellschaften und Feste besuchte,33,gold_standard,process,process,process,process
+2189,Der blonde Eckbert,der Vogel wollte einigemal zu singen anfangen,34,gold_standard,stative_event,stative_event,stative_event,stative_event
+2192,Der blonde Eckbert,und doch war mir der Gedanke widerwärtig,35,gold_standard,stative_event,stative_event,stative_event,stative_event
+2195,Der blonde Eckbert,Eckbert fand sich auf eine wunderbare Art überrascht,36,gold_standard,stative_event,stative_event,stative_event,stative_event
+2198,Der blonde Eckbert,und alles ward ihm immer mehr ein Rätsel,37,gold_standard,change_of_state,process,change_of_state,change_of_state
+2201,Der blonde Eckbert,und über den Feldern lag der entzückende Schein,38,gold_standard,stative_event,stative_event,stative_event,stative_event
+2204,Der blonde Eckbert,Ich hatte einige Edelsteine verkauft,39,gold_standard,process,process,process,process
+2207,Der blonde Eckbert,es war Walther,40,gold_standard,stative_event,stative_event,stative_event,stative_event
+2210,Der blonde Eckbert,ich solle ja auf alles ordentlich achtgeben,41,gold_standard,non_event,non_event,non_event,non_event
+2213,Der blonde Eckbert,indem sie dazu wie vor Alter mit dem Kopfe schüttelte,42,gold_standard,process,process,process,process
+2216,Der blonde Eckbert,als sie mir endlich mehr vertraute,43,gold_standard,stative_event,stative_event,stative_event,stative_event
+2219,Der blonde Eckbert,Im Anfange war dieser Gedanke nichts weiter als jeder andre Gedanke,44,gold_standard,stative_event,non_event,stative_event,stative_event
+2222,Der blonde Eckbert,und ging nach ihrer Kammer,45,gold_standard,process,process,process,process
+2225,Der blonde Eckbert,als ich auf einen kleinen Fußsteig geriet,46,gold_standard,process,process,process,process
+2228,Der blonde Eckbert,dann sah ich Geister heraufschweben,47,gold_standard,process,process,process,process
+2231,Der blonde Eckbert,als es Abend ward,48,gold_standard,process,process,process,process
+2234,Der blonde Eckbert,Dann warf sich Eckbert wieder sein unedles Mißtrauen gegen seinen wackern Freund vor,49,gold_standard,process,process,process,process
+2237,Der blonde Eckbert,hier traf ich aber gar keine menschliche Wohnung,50,gold_standard,non_event,non_event,non_event,non_event
+2240,Der blonde Eckbert,der Tag war grau und trübe,51,gold_standard,stative_event,stative_event,stative_event,stative_event
+2243,Der blonde Eckbert,ich ging näher,52,gold_standard,process,process,process,process
+2246,Der blonde Eckbert,und hieß mir einen von den geflochtenen Rohrstühlen nehmen,53,gold_standard,process,process,process,process
+2249,Der blonde Eckbert,fing sie an,54,gold_standard,process,process,process,process
+2252,Der blonde Eckbert,Waldeinsamkeit Mich wieder freut,55,gold_standard,stative_event,stative_event,stative_event,stative_event
+2255,Der blonde Eckbert,indem sie nach Eckbert hindeuteten,56,gold_standard,process,process,process,process
+2258,Der blonde Eckbert,als wenn ich aus der Hölle in ein Paradies getreten wäre,57,gold_standard,non_event,non_event,non_event,non_event
+2261,Der blonde Eckbert,"bemerkte man an ihm eine gewisse Verschlossenheit, eine stille zurückhaltende Melancholie",58,gold_standard,process,process,process,process
+2264,Der blonde Eckbert,Wenn die Alte von ihren langen Wanderungen zurückkam,59,gold_standard,process,process,process,process
+2267,Der blonde Eckbert,Mir war,60,gold_standard,stative_event,stative_event,stative_event,stative_event
+2270,Der blonde Eckbert,"Unendlich freute ich mich darauf, meine Eltern nun nach so manchen Jahren wiederzusehn",61,gold_standard,stative_event,stative_event,stative_event,stative_event
+2273,Der blonde Eckbert,ich setzte mich nieder,62,gold_standard,process,process,process,process
+2276,Der blonde Eckbert,ich mußte oft dicht an schwindlichten Abgründen vorbeigehn,63,gold_standard,non_event,non_event,non_event,non_event
+2279,Der blonde Eckbert,meine vormalige Reise in der Kindheit sei nicht so trübselig gewesen als meine jetzige,64,gold_standard,stative_event,non_event,stative_event,stative_event
+2282,Der blonde Eckbert,der Fremde erzeigte Eckbert alle möglichen Gefälligkeiten,65,gold_standard,process,process,process,process
+2285,Der blonde Eckbert,denn er fühlte es deutlich,66,gold_standard,stative_event,stative_event,stative_event,stative_event
+2288,Der blonde Eckbert,und konnte nicht zum Frühstück erscheinen,67,gold_standard,non_event,non_event,non_event,non_event
+2291,Der blonde Eckbert,daß niemand als Walther mit dem Alten spreche,68,gold_standard,process,process,process,process
+2294,Der blonde Eckbert,aber er war schon gestorben,69,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+2297,Der blonde Eckbert,Ich vergaß mich und meine Führerin,70,gold_standard,change_of_state,non_event,non_event,non_event
+2300,Der blonde Eckbert,Ich konnte die Nacht hindurch nicht schlafen,71,gold_standard,non_event,non_event,non_event,non_event
+2303,Der blonde Eckbert,aber ich konnte ein rechtes Mitleid mit mir selber haben,72,gold_standard,stative_event,stative_event,stative_event,stative_event
+2306,Der blonde Eckbert,daß er wahnsinnig sei,73,gold_standard,stative_event,stative_event,stative_event,stative_event
+2309,Der blonde Eckbert,bald durch einen zwischen Felsen gewundenen Weg gehn,74,gold_standard,non_event,non_event,non_event,non_event
+2312,Der blonde Eckbert,Mir geschieht kein Leid,75,gold_standard,non_event,non_event,non_event,non_event
+2315,Der blonde Eckbert,Sie war die Tochter eines Ritters,76,gold_standard,stative_event,stative_event,stative_event,stative_event
+2318,Der blonde Eckbert,ging er nach einigen unbedeutenden Worten wieder weg,77,gold_standard,process,process,process,process
+2321,Der blonde Eckbert,und mit jedem Jahre entspann sich zwischen ihnen eine innigere Freundschaft,78,gold_standard,process,process,process,process
+2324,Der blonde Eckbert,Mit Berthas Krankheit ward es immer bedenklicher,79,gold_standard,process,process,change_of_state,process
+2327,Der blonde Eckbert,den man gewöhnlich nur den blonden Eckbert nannte,80,gold_standard,process,process,process,process
+2330,Der blonde Eckbert,wenn ich meine Geschäfte tat,81,gold_standard,process,process,process,process
+2333,Der blonde Eckbert,hörte ich das Bellen immer schwächer,82,gold_standard,process,process,process,process
+2336,Der blonde Eckbert,"den Gedanken an Freundschaft, den Wunsch nach Umgang hatte er nun auf ewig aufgegeben",83,gold_standard,process,process,process,process
+2339,Der blonde Eckbert,was ich in der Kindheit immer nur träumte,84,gold_standard,process,process,stative_event,process
+2342,Der blonde Eckbert,denn es war mir,85,gold_standard,stative_event,stative_event,stative_event,stative_event
+2345,Der blonde Eckbert,er verfiel von entsetzlichen Vorstellungen auf noch entsetzlichere,86,gold_standard,process,process,process,process
+2348,Der blonde Eckbert,so war es fast,87,gold_standard,stative_event,stative_event,stative_event,stative_event
+2351,Der blonde Eckbert,Ich glaubte jetzt das Gesause einer Mühle aus der Ferne zu hören,88,gold_standard,stative_event,stative_event,stative_event,stative_event
+2354,Der blonde Eckbert,und am Ende fiel mir ein,89,gold_standard,process,process,process,process
+2357,Der blonde Eckbert,und das vermehrte seinen Unmut,90,gold_standard,process,process,stative_event,stative_event
+2360,Der blonde Eckbert,der mir immer noch im Gedächtnisse lag,91,gold_standard,stative_event,stative_event,stative_event,stative_event
+2363,Der blonde Eckbert,Diese wenigen Worte wurden beständig wiederholt,92,gold_standard,process,process,process,process
+2366,Der blonde Eckbert,und ich konnte nicht begreifen,93,gold_standard,non_event,non_event,non_event,non_event
+2369,Der blonde Eckbert,ihre Probezeit war ja schon vorüber,94,gold_standard,stative_event,process,stative_event,stative_event
+2372,Der blonde Eckbert,wenn er vor seinem Freunde ein Geheimnis haben soll,95,gold_standard,non_event,non_event,non_event,non_event
+2375,Der blonde Eckbert,und nun ward Wein und die Abendmahlzeit hereingebracht,96,gold_standard,process,process,process,process
+2378,Der blonde Eckbert,als höre ich in einiger Entfernung ein leises Husten,97,gold_standard,non_event,non_event,non_event,non_event
+2381,Der blonde Eckbert,und ich mochte ohngefähr zwölf Jahr alt sein,98,gold_standard,non_event,non_event,non_event,non_event
+2384,Der blonde Eckbert,denn es war dasselbe Dorf,99,gold_standard,stative_event,stative_event,stative_event,stative_event
+2387,Der blonde Eckbert,sammelte Kräuter und Steine,100,gold_standard,process,process,process,process
+2390,Der blonde Eckbert,Es war schon im Herbst,101,gold_standard,stative_event,process,stative_event,stative_event
+2393,Der blonde Eckbert,"aber ich nahm mich sehr in acht, um sie nicht zu erbosen",102,gold_standard,process,process,process,process
+2396,Der blonde Eckbert,Dieser sah jetzt seinen Argwohn bestätigt,103,gold_standard,stative_event,stative_event,stative_event,stative_event
+2399,Der blonde Eckbert,Als der Tag graute,104,gold_standard,stative_event,stative_event,stative_event,stative_event
+2402,Der blonde Eckbert,und deswegen Plane anlegen,105,gold_standard,non_event,non_event,non_event,non_event
+2405,Der blonde Eckbert,die auszuruhen schien,106,gold_standard,stative_event,stative_event,stative_event,stative_event
+2408,Der blonde Eckbert,"daß ihm sein Leben in manchen Augenblicken mehr wie ein seltsames Märchen, als wie ein wirklicher Lebenslauf erschien",107,gold_standard,process,process,stative_event,stative_event
+2411,Der blonde Eckbert,daß die Alte etwas Seltsames an sich habe,108,gold_standard,stative_event,non_event,stative_event,stative_event
+2414,Der blonde Eckbert,Seine Schönheit fiel mir zwar immer auf,109,gold_standard,process,process,process,process
+2417,Der blonde Eckbert,daß ich mich vor ihm hätte fürchten müssen,110,gold_standard,non_event,non_event,non_event,non_event
+2420,Der blonde Eckbert,ich weinte,111,gold_standard,process,process,stative_event,process
+2423,Der blonde Eckbert,und sagte,112,gold_standard,process,process,process,process
+2426,Der blonde Eckbert,und er sang es lauter und schallender,113,gold_standard,process,process,stative_event,process
+2429,Der blonde Eckbert,sie schien sich gar nicht wieder erholen zu können,114,gold_standard,stative_event,stative_event,stative_event,stative_event
+2432,Der blonde Eckbert,Ich überlegte alle Worte genau,115,gold_standard,process,process,process,process
+2435,Der blonde Eckbert,die Tochter deines Vaters,116,gold_standard,stative_event,stative_event,stative_event,stative_event
+2438,Der blonde Eckbert,wenn der Wind über mir weg durch die Bäume fuhr,117,gold_standard,process,non_event,non_event,process
+2441,Der blonde Eckbert,und endlich hörte es ganz auf,118,gold_standard,process,process,process,process
+2444,Der blonde Eckbert,"Ich hatte es mir so schön gedacht, sie mit meinem Reichtume zu überraschen",119,gold_standard,process,process,process,process
+2447,Der blonde Eckbert,und glaubte,120,gold_standard,process,process,process,process
+2450,Der blonde Eckbert,und einer dem andern dann bittere Vorwürfe machte,121,gold_standard,process,process,process,process
+2453,Der blonde Eckbert,das mich fast um meinen Verstand gebracht hat,122,gold_standard,process,process,process,process
+2456,Der blonde Eckbert,Jetzt sah sie sich nach mir um,123,gold_standard,process,process,process,process
+2459,Der blonde Eckbert,Ich hatte kein Vermögen,124,gold_standard,non_event,non_event,non_event,non_event
+2462,Der blonde Eckbert,und mir die Zeit nicht lang werden lassen,125,gold_standard,non_event,non_event,non_event,non_event
+2465,Der blonde Eckbert,Aber was konnte sie mit der rechten Bahn meinen,126,gold_standard,non_event,non_event,non_event,non_event
+2468,Der blonde Eckbert,wenn von lustigen Leuten die Rede war,127,gold_standard,stative_event,stative_event,stative_event,stative_event
+2471,Der blonde Eckbert,ich fand mich leicht in die Kunst,128,gold_standard,process,process,stative_event,process
+2474,Der blonde Eckbert,er lebte unter ewigen innern Vorwürfen,129,gold_standard,process,process,stative_event,process
+2477,Der blonde Eckbert,in allen Gesellschaften trafen sie sich,130,gold_standard,process,process,process,process
+2480,Der blonde Eckbert,Walther ging den Vorschlag ein,131,gold_standard,process,process,process,process
+2483,Der blonde Eckbert,wie ich ihnen helfen wollte,132,gold_standard,non_event,non_event,non_event,non_event
+2486,Der blonde Eckbert,ich möchte ihr folgen,133,gold_standard,non_event,non_event,non_event,non_event
+2489,Der blonde Eckbert,die mir drohte,134,gold_standard,process,process,process,process
+2492,Der blonde Eckbert,die Freundschaft Walthers hatte ihn so manches Jahr hindurch beglückt,135,gold_standard,stative_event,stative_event,stative_event,stative_event
+2495,Der blonde Eckbert,Nur haltet meine Erzählung für kein Märchen,136,gold_standard,non_event,non_event,non_event,non_event
+2498,Der blonde Eckbert,daß er nur unglücklich mit jedwedem Freunde sein könne,137,gold_standard,non_event,non_event,non_event,non_event
+2501,Der blonde Eckbert,die Einsamkeit und meine Hülflosigkeit schienen mir nun gar nicht fürchterlich,138,gold_standard,non_event,non_event,stative_event,stative_event
+2504,Der blonde Eckbert,Eckbert konnte sein Betragen nicht begreifen,139,gold_standard,non_event,non_event,non_event,non_event
+2507,Der blonde Eckbert,auch sah man ihn nur selten außerhalb den Ringmauern seines kleinen Schlosses,140,gold_standard,process,process,process,process
+2510,Der blonde Eckbert,einer ritt fast nicht mehr ohne den andern aus,141,gold_standard,process,process,process,process
+2513,Der blonde Eckbert,"Nie bin ich so angenehm überrascht worden, als in diesem Augenblick",142,gold_standard,process,non_event,non_event,process
+2516,Der blonde Eckbert,und wenn er dann wieder an Walther zurückdachte,143,gold_standard,process,process,process,process
+2519,Der blonde Eckbert,weil ihn die seltsame Geschichte seiner Gattin beunruhigte,144,gold_standard,change_of_state,stative_event,stative_event,change_of_state
+2522,Der blonde Eckbert,so sonderbar sie auch klingen mag,145,gold_standard,non_event,non_event,non_event,non_event
+2525,Der blonde Eckbert,und mir ein Geheimnis entdeckte,146,gold_standard,process,process,process,process
+2528,Der blonde Eckbert,und man sagte mir,147,gold_standard,process,process,process,process
+2531,Der blonde Eckbert,Der Mensch wäre vielleicht recht glücklich,148,gold_standard,non_event,non_event,non_event,non_event
+2534,Der blonde Eckbert,Ich begriff nämlich wohl,149,gold_standard,stative_event,stative_event,stative_event,stative_event
+2537,Der blonde Eckbert,als es nach einer solchen Vertraulichkeit wohl natürlich gewesen wäre,150,gold_standard,non_event,non_event,non_event,non_event
+2540,Der blonde Eckbert,daß die Wohnung abenteuerlich und von allen Menschen entfernt liege,151,gold_standard,stative_event,non_event,stative_event,stative_event
+2543,Der blonde Eckbert,Unbekümmert darüber setzte er nun seine Reise zu Fuß fort,152,gold_standard,process,process,process,process
+2546,Der blonde Eckbert,ich half mir so ziemlich mit meinen Antworten durch,153,gold_standard,process,process,process,process
+2549,Der blonde Eckbert,Warum verließ sie mich tückisch,154,gold_standard,non_event,non_event,non_event,non_event
+2552,Der blonde Eckbert,Plötzlich sah er sich etwas in der Ferne bewegen,155,gold_standard,process,process,process,process
+2555,Der blonde Eckbert,So saß ich ihr nun dicht gegenüber,156,gold_standard,process,process,process,process
+2558,Der blonde Eckbert,In einem Augenblicke kam mir die ruhige Einsamkeit so schön vor,157,gold_standard,stative_event,stative_event,stative_event,stative_event
+2561,Der blonde Eckbert,als ich mit ihm zur Tür hinaustrat,158,gold_standard,process,process,process,process
+2564,Der blonde Eckbert,daß ich ein einfältiges dummes Kind sei,159,gold_standard,stative_event,stative_event,stative_event,stative_event
+2567,Der blonde Eckbert,"es war ein seltsamer Kampf in meiner Seele, wie ein Streiten von zwei widerspenstigen Geistern in mir",160,gold_standard,process,process,process,process
+2570,Der blonde Eckbert,nur Eckbert ging noch unruhig im Saale auf und ab,161,gold_standard,process,process,process,process
+2573,Der blonde Eckbert,Meine Perlen,162,gold_standard,non_event,non_event,non_event,non_event
+2576,Der blonde Eckbert,der auch er am meisten zugetan war,163,gold_standard,stative_event,stative_event,stative_event,stative_event
+2579,Der blonde Eckbert,sah er sich plötzlich in einem Gewinde von Felsen verirrt,164,gold_standard,process,process,process,process
+2582,Der blonde Eckbert,und kurze hellblonde Haare lagen schlicht und dicht an seinem blassen eingefallenen Gesichte,165,gold_standard,stative_event,stative_event,stative_event,stative_event
+2585,Der blonde Eckbert,Ich fürchtete den Anbruch des Tages,166,gold_standard,stative_event,process,stative_event,stative_event
+2588,Der blonde Eckbert,lobte sie meine Aufmerksamkeit,167,gold_standard,process,process,process,process
+2591,Der blonde Eckbert,Eng er endlich an,168,gold_standard,process,process,process,process
+2594,Der blonde Eckbert,als sei ich erwacht,169,gold_standard,non_event,non_event,non_event,non_event
+2597,Der blonde Eckbert,und suchte ihn zu trösten,170,gold_standard,process,process,process,process
+2600,Der blonde Eckbert,Ich hatte schon immer bemerkt,171,gold_standard,process,process,process,process
+2603,Der blonde Eckbert,Hugo war gerührt,172,gold_standard,stative_event,stative_event,stative_event,stative_event
+2606,Der blonde Eckbert,daß ich eine so ganz unnütze Last des Hauswesens sei,173,gold_standard,stative_event,stative_event,stative_event,stative_event
+2609,Der blonde Eckbert,so eine unbedeutende Kleinigkeit es auch an sich scheinen möchte,174,gold_standard,non_event,non_event,non_event,non_event
+2612,Der blonde Eckbert,denn ich glaubte immer,175,gold_standard,stative_event,stative_event,stative_event,stative_event
+2615,Der blonde Eckbert,und gab mir Brot und etwas Wein,176,gold_standard,process,process,process,process
+2618,Der blonde Eckbert,übrigens tat sie gar nicht,177,gold_standard,non_event,non_event,non_event,non_event
+2621,Der blonde Eckbert,wo sie das Brot hernehmen sollten,178,gold_standard,non_event,non_event,non_event,non_event
+2624,Der blonde Eckbert,Denn ich hatte in der Ebene noch keine Berge gesehn,179,gold_standard,non_event,non_event,non_event,non_event
+2627,Der blonde Eckbert,fing Bertha wieder an,180,gold_standard,process,process,process,process
+2630,Der blonde Eckbert,und winselte Über diese ungewohnte Behandlung,181,gold_standard,process,process,process,process
+2633,Der blonde Eckbert,In manchen Stunden war er so sehr von seiner Nichtswürdigkeit überzeugt,182,gold_standard,stative_event,stative_event,stative_event,stative_event
+2636,Der blonde Eckbert,ging die Sonne gerade unter,183,gold_standard,stative_event,process,stative_event,process
+2639,Der blonde Eckbert,ob er wohl einen Mörder lieben könne,184,gold_standard,non_event,non_event,non_event,non_event
+2642,Der blonde Eckbert,Die ganze Nacht hindurch weint ich herzlich,185,gold_standard,process,process,stative_event,process
+2645,Der blonde Eckbert,Der Vogel hatte schon seit lange nicht mehr gesungen,186,gold_standard,non_event,non_event,non_event,non_event
+2648,Der blonde Eckbert,Die Ermordung seines Freundes stand ihm unaufhörlich vor Augen,187,gold_standard,stative_event,stative_event,stative_event,stative_event
+2651,Der blonde Eckbert,Warum hab ich diesen schrecklichen Gedanken immer geahndet,188,gold_standard,non_event,non_event,non_event,non_event
+2654,Der blonde Eckbert,Wird er sie nicht andern mitteilen,189,gold_standard,non_event,non_event,non_event,non_event
+2657,Der blonde Eckbert,die Felsen wurden immer furchtbarer,190,gold_standard,stative_event,stative_event,stative_event,stative_event
+2660,Der blonde Eckbert,Meine Neugier war außerordentlich gespannt,191,gold_standard,stative_event,stative_event,stative_event,stative_event
+2663,Der blonde Eckbert,so glaubt ich jetzt,192,gold_standard,stative_event,process,stative_event,process
+2666,Der blonde Eckbert,Der Hund liebte mich sehr,193,gold_standard,stative_event,stative_event,stative_event,stative_event
+2669,Der blonde Eckbert,Der Hund krümmte sich,194,gold_standard,process,process,process,process
+2672,Der blonde Eckbert,Indem ich sie so betrachtete,195,gold_standard,process,process,process,process
+2675,Der blonde Eckbert,Oft dachte er,196,gold_standard,process,process,process,process
+2678,Der blonde Eckbert,der meine Freude freilich um vieles minderte,197,gold_standard,process,stative_event,stative_event,stative_event
+2681,Der blonde Eckbert,Sonst hätte sich alles gut und schön geendet,198,gold_standard,non_event,non_event,non_event,non_event
+2684,Der blonde Eckbert,ob ich weitergehn sollte,199,gold_standard,non_event,non_event,non_event,non_event
+2687,Der blonde Eckbert,und wie Ihr den kleinen Strohmian füttert,200,gold_standard,process,process,stative_event,process
+2690,Der blonde Eckbert,ich dachte an mich selbst zurück,201,gold_standard,process,process,process,process
+2693,Der blonde Eckbert,und war von niemand abhängig,202,gold_standard,stative_event,non_event,stative_event,stative_event
+2696,Der blonde Eckbert,"Edle Frau, ich danke Euch",203,gold_standard,process,process,process,process
+2699,Der blonde Eckbert,Nun brach die Nacht herein,204,gold_standard,process,process,process,process
+2702,Der blonde Eckbert,der durch die Felsen klage,205,gold_standard,non_event,non_event,non_event,process
+2705,Der blonde Eckbert,die Welt um ihn her war verzaubert,206,gold_standard,stative_event,stative_event,stative_event,stative_event
+2708,Der blonde Eckbert,"daß ich mich in der ganzen Zeit keines Sturmwindes, keines Gewitters erinnere",207,gold_standard,non_event,non_event,non_event,non_event
+2711,Der blonde Eckbert,und wenn es auch geschah,208,gold_standard,process,process,process,process
+2714,Der blonde Eckbert,indem er sagte,209,gold_standard,process,process,process,process
+2717,Der blonde Eckbert,der mich von der großen Straße immer mehr entfernte,210,gold_standard,process,process,stative_event,process
+2720,Der blonde Eckbert,Ich kam durch mehrere Dörfer,211,gold_standard,process,process,process,process
+2723,Der blonde Eckbert,wir zogen hieher,212,gold_standard,process,process,process,process
+2726,Der blonde Eckbert,Ich lernte mich schnell in die Wirtschaft finden,213,gold_standard,process,process,process,process
+2729,Der blonde Eckbert,die Alte würde mir plötzlich entgegentreten,214,gold_standard,non_event,non_event,non_event,non_event
+2732,Der blonde Eckbert,Eckbert fühlte sich leicht und beruhigt,215,gold_standard,stative_event,stative_event,stative_event,stative_event
+2735,Der blonde Eckbert,Beide waren nun häufig beisammen,216,gold_standard,process,process,stative_event,stative_event
+2738,Der blonde Eckbert,konnte ich sie mir nicht anders vorstellen wie den kleinen Spitz,217,gold_standard,stative_event,non_event,stative_event,stative_event
+2741,Der blonde Eckbert,"Was sagst du, Eckbert",218,gold_standard,non_event,non_event,non_event,non_event
+2744,Der blonde Eckbert,dann sagte er ihr einige tröstende Worte,219,gold_standard,process,process,process,process
+2747,Der blonde Eckbert,weiß er ihn,220,gold_standard,non_event,non_event,non_event,non_event
+2750,Der blonde Eckbert,Sie ließ mir meine Nahrung zurück,221,gold_standard,stative_event,stative_event,stative_event,stative_event
+2753,Der blonde Eckbert,am Ende war ich mir meiner kaum noch bewußt,222,gold_standard,stative_event,stative_event,stative_event,stative_event
+2756,Der blonde Eckbert,daß ihre Haushaltung weit ordentlicher geführt werde,223,gold_standard,process,process,stative_event,process
+2759,Der blonde Eckbert,"sah er plötzlich Walthers Gesicht, alle seine Mienen, die ganze, ihm so wohlbekannte Gestalt",224,gold_standard,process,process,process,process
+2762,Der blonde Eckbert,der sich ereignen könnte,225,gold_standard,non_event,non_event,non_event,non_event
+2765,Der blonde Eckbert,Mein Vater war immer sehr ergrimmt auf mich,226,gold_standard,stative_event,stative_event,stative_event,stative_event
+2768,Der blonde Eckbert,in denen sich nirgend ein Ausweg entdecken ließ,227,gold_standard,non_event,non_event,non_event,process
+2771,Der blonde Eckbert,"als ich mit dem festen Vorsatze aufstand, mit dem Vogel die Hütte zu verlassen, und die sogenannte Welt aufzusuchen",228,gold_standard,process,process,process,process
+2774,Der blonde Eckbert,wenn ich es beschreiben soll,229,gold_standard,non_event,non_event,non_event,non_event
+2777,Der blonde Eckbert,und füllte meine Vorstellungen damit an,230,gold_standard,process,process,stative_event,process
+2780,Der blonde Eckbert,"und ich suchte mir eine Moosstelle aus, um dort zu ruhn",231,gold_standard,process,process,process,process
+2783,Der blonde Eckbert,und steckte es zu mir,232,gold_standard,process,process,process,process
+2786,Der blonde Eckbert,und kehrte mit freundlichen Gebärden zur Alten zurück,233,gold_standard,process,process,process,process
+2789,Der blonde Eckbert,Als wir vom Hügel heruntergingen,234,gold_standard,process,process,process,process
+2792,Der blonde Eckbert,mein Rädchen schnurrte,235,gold_standard,process,process,stative_event,process
+2795,Der blonde Eckbert,wenn ich allein war,236,gold_standard,stative_event,process,stative_event,stative_event
+2798,Der blonde Eckbert,und das war für mich auf ewig verloren,237,gold_standard,stative_event,stative_event,stative_event,stative_event
+2801,Der blonde Eckbert,und bettelte,238,gold_standard,process,process,process,process
+2804,Der blonde Eckbert,in welchem ich geboren war,239,gold_standard,process,process,process,process
+2807,Der blonde Eckbert,wir sind jetzt freilich alle über diese Zeit der Jugend hinüber,240,gold_standard,stative_event,stative_event,stative_event,stative_event
+2810,Der blonde Eckbert,herzhaft drückte ich die Finger zusammen,241,gold_standard,process,process,process,process
+2813,Der blonde Eckbert,Als das Abendessen abgetragen war,242,gold_standard,stative_event,process,stative_event,stative_event
+2816,Der blonde Eckbert,daß ihn Hugo nur aus einem Irrtume liebe,243,gold_standard,stative_event,stative_event,stative_event,stative_event
+2819,Der blonde Eckbert,und seiner gar nicht zu achten scheine,244,gold_standard,stative_event,stative_event,stative_event,stative_event
+2822,Der blonde Eckbert,und beide sprachen eine Zeitlang heimlich,245,gold_standard,process,process,process,process
+2825,Der blonde Eckbert,er konnte sich nicht aus dem Rätsel herausfinden,246,gold_standard,non_event,non_event,non_event,non_event
+2828,Der blonde Eckbert,jener kannte ihn nicht,247,gold_standard,non_event,non_event,non_event,non_event
+2831,Der blonde Eckbert,aber ganz fremde Gesichter saßen in der Stube umher,248,gold_standard,process,process,stative_event,process
+2834,Der blonde Eckbert,und das Gespräch der Freunde heitrer und vertraulicher,249,gold_standard,process,process,process,process
+2837,Der blonde Eckbert,das Wunderbarste vermischte sich mit dem Gewöhnlichsten,250,gold_standard,process,process,change_of_state,process
+2840,Der blonde Eckbert,"daß es unrecht sei, Euch etwas zu verhehlen",251,gold_standard,stative_event,non_event,stative_event,stative_event
+2843,Der blonde Eckbert,Indem ich aß,252,gold_standard,process,process,process,process
+2846,Der blonde Eckbert,die grünen Birken funkelten,253,gold_standard,stative_event,stative_event,stative_event,stative_event
+2849,Der blonde Eckbert,er glaubte sich verraten,254,gold_standard,stative_event,stative_event,stative_event,stative_event
+2852,Der blonde Eckbert,als wenn Waldhorn und Schalmeie ganz in der Ferne durcheinanderspielen,255,gold_standard,non_event,non_event,non_event,non_event
+2855,Der blonde Eckbert,Wie ein unruhiger eist eilte er jetzt von Gemach zu Gemach,256,gold_standard,process,process,stative_event,process
+2858,Der blonde Eckbert,denn das ist die Natur des Menschen,257,gold_standard,non_event,non_event,non_event,non_event
+2861,Der blonde Eckbert,Ich konnte nicht schlafen,258,gold_standard,non_event,non_event,non_event,non_event
+2864,Der blonde Eckbert,was ich anfangen sollte,259,gold_standard,non_event,non_event,non_event,non_event
+2867,Der blonde Eckbert,so daß sich seine Federn noch prächtiger zeigten,260,gold_standard,stative_event,stative_event,stative_event,stative_event
+2870,Der blonde Eckbert,Er war ohngefähr vierzig Jahr alt,261,gold_standard,stative_event,stative_event,stative_event,stative_event
+2873,Der blonde Eckbert,ich wünschte wieder in derselben Lage zu sein,262,gold_standard,stative_event,stative_event,stative_event,stative_event
+2876,Der blonde Eckbert,ich war zufrieden,263,gold_standard,stative_event,stative_event,stative_event,stative_event
+2879,Der blonde Eckbert,er sah immer nach mir hin,264,gold_standard,process,process,process,process
+2882,Der blonde Eckbert,ich wußte durchaus nicht,265,gold_standard,non_event,non_event,non_event,non_event
+2885,Der blonde Eckbert,durch den seltsamsten Zufall war das nun wirklich geworden,266,gold_standard,process,process,process,process
+2888,Der blonde Eckbert,worauf ich am meisten immer im Leben gehofft hatte,267,gold_standard,stative_event,stative_event,stative_event,stative_event
+2891,Der blonde Eckbert,ich wünschte wieder dazubleiben,268,gold_standard,stative_event,stative_event,stative_event,stative_event
+2894,Der blonde Eckbert,Ein gewaltiges Entsetzen befiel mich,269,gold_standard,change_of_state,process,stative_event,stative_event
+2897,Der blonde Eckbert,Als wir heraustraten,270,gold_standard,process,process,process,process
+2900,Der blonde Eckbert,wir wollen uns schlafen legen,271,gold_standard,non_event,non_event,non_event,non_event
+2903,Der blonde Eckbert,der Bauer aber schlug sie aus,272,gold_standard,process,process,process,process
+2906,Der blonde Eckbert,Als sie geendet hatte,273,gold_standard,process,process,process,process
+2909,Der blonde Eckbert,"Er beschloß eine Reise zu machen, um seine Vorstellungen wieder zu ordnen",274,gold_standard,process,process,process,process
+2912,Der blonde Eckbert,kurz,275,gold_standard,non_event,non_event,non_event,non_event
+2915,Der blonde Eckbert,verließ noch in der Nacht die Stadt,276,gold_standard,process,process,process,process
+2918,Der blonde Eckbert,Ich betete,277,gold_standard,process,process,stative_event,process
+2921,Der blonde Eckbert,sie hatte vor ihrem Tode noch viel von Walther und der Alten gesprochen,278,gold_standard,process,process,process,process
+2924,Der blonde Eckbert,daß er wahrscheinlich ohne meine Hülfe verhungern müsse,279,gold_standard,non_event,non_event,non_event,non_event
+2927,Der blonde Eckbert,von keinem menschlichen Geschöpfe besucht,280,gold_standard,non_event,non_event,non_event,non_event
+2930,Der blonde Eckbert,achtete ich eben nicht sehr darauf,281,gold_standard,process,non_event,non_event,process
+2933,Der blonde Eckbert,Ihr müßt mich nicht für zudringlich halten,282,gold_standard,non_event,non_event,non_event,non_event
+2936,Der blonde Eckbert,er war schon sonst immer schwermütig gewesen,283,gold_standard,stative_event,stative_event,stative_event,stative_event
+2939,Der blonde Eckbert,Ein munteres Bellen kam uns entgegen,284,gold_standard,process,process,process,process
+2942,Der blonde Eckbert,Der Vogel drehte den Kopf auf eine wunderliche Weise,285,gold_standard,process,process,process,process
+2945,Der blonde Eckbert,daß ich zu sterben wünschte,286,gold_standard,stative_event,stative_event,stative_event,stative_event
+2948,Der blonde Eckbert,und mich in der kleinen Wohnung antraf,287,gold_standard,process,process,process,process
+2951,Der blonde Eckbert,aber indem flog der Bolzen ab,288,gold_standard,process,process,process,process
+2954,Der blonde Eckbert,Meine Reise war ziemlich einförmig,289,gold_standard,stative_event,stative_event,stative_event,stative_event
+2957,Der blonde Eckbert,aber wenn ich so an meinem Rade saß,290,gold_standard,process,process,process,process
+2960,Der blonde Eckbert,Er schlug sich die ganze Nacht mit diesen Vorstellungen herum,291,gold_standard,process,process,process,process
+2963,Der blonde Eckbert,den Hund bellen,292,gold_standard,process,process,process,process
+2966,Der blonde Eckbert,Als er ankam,293,gold_standard,process,process,process,process
+2969,Der blonde Eckbert,in den der Tag kaum noch hineinblickte,294,gold_standard,stative_event,stative_event,stative_event,stative_event
+2972,Der blonde Eckbert,Was gilt's,295,gold_standard,non_event,non_event,non_event,non_event
+2975,Der blonde Eckbert,Eckbert war alsdann heiter und aufgeräumt,296,gold_standard,stative_event,stative_event,stative_event,stative_event
+2978,Der blonde Eckbert,Wie die menschliche Natur vergeßlich ist,297,gold_standard,non_event,non_event,non_event,non_event
+2981,Der blonde Eckbert,daß er mit den Anwesenden viel rede,298,gold_standard,process,process,process,process
+2984,Der blonde Eckbert,züchtigte er mich auf die grausamste Art,299,gold_standard,process,process,process,process
+2987,Der blonde Eckbert,Ich erwachte,300,gold_standard,change_of_state,process,change_of_state,change_of_state
+2990,Der blonde Eckbert,Eng Bertha an,301,gold_standard,process,process,process,process
+2993,Der blonde Eckbert,sagte sie mir,302,gold_standard,process,process,process,process
+2996,Der blonde Eckbert,und jetzt gereut mich diese Vertraulichkeit,303,gold_standard,stative_event,stative_event,stative_event,stative_event
+2999,Der blonde Eckbert,stand die Sonne schon ziemlich hoch,304,gold_standard,stative_event,stative_event,stative_event,stative_event
+3002,Der blonde Eckbert,schrie sie ihm entgegen,305,gold_standard,process,process,process,process
+3005,Der blonde Eckbert,weil ich doch nur ein unnützes Geschöpf sei,306,gold_standard,stative_event,stative_event,stative_event,stative_event
+3008,Der blonde Eckbert,und immer nur einzelne Worte von seinem Liede sang,307,gold_standard,process,process,process,process
+3011,Der blonde Eckbert,An einem Tage ging meine Wirtin wieder fort,308,gold_standard,process,process,process,process
+3014,Der blonde Eckbert,er traf auf kein Wild,309,gold_standard,non_event,non_event,non_event,non_event
+3017,Der blonde Eckbert,und sagte,310,gold_standard,process,process,process,process
+3020,Der blonde Eckbert,wenn er so ungestört sein Leben bis ans Ende fortführen könnte,311,gold_standard,non_event,non_event,non_event,non_event
+3023,Der blonde Eckbert,daß ich im Anfange darüber lachen mußte,312,gold_standard,stative_event,process,stative_event,stative_event
+3026,Der blonde Eckbert,das Unrecht bestraft sich selbst,313,gold_standard,non_event,non_event,non_event,non_event
+3029,Der blonde Eckbert,was sie damit hatte sagen wollen,314,gold_standard,stative_event,non_event,stative_event,stative_event
+3032,Der blonde Eckbert,und beschloß zu sterben,315,gold_standard,process,process,process,process
+3035,Der blonde Eckbert,außer sich stürzte er hinaus,316,gold_standard,process,process,process,process
+3038,Der blonde Eckbert,Sonst hört ich beständig von mir,317,gold_standard,process,process,process,process
+3041,Der blonde Eckbert,Ich begrub ihn im Garten,318,gold_standard,process,process,process,process
+3044,Der blonde Eckbert,So war ich ohngefähr vier Tage fortgewandert,319,gold_standard,process,process,process,process
+3047,Der blonde Eckbert,als mir plötzlich war,320,gold_standard,stative_event,stative_event,stative_event,stative_event
+3050,Der blonde Eckbert,So wunderbar kam mir die Welt nicht vor,321,gold_standard,stative_event,non_event,stative_event,stative_event
+3053,Der blonde Eckbert,sooft ich ruhte,322,gold_standard,process,non_event,non_event,non_event
+3056,Der blonde Eckbert,Ist das Zufall,323,gold_standard,non_event,non_event,non_event,non_event
+3059,Der blonde Eckbert,der aus der Hütte zu kommen schien,324,gold_standard,stative_event,stative_event,stative_event,stative_event
+3062,Der blonde Eckbert,ich hatte die Empfindung,325,gold_standard,stative_event,stative_event,stative_event,stative_event
+3065,Der blonde Eckbert,als würde ich sie nicht wiedersehn,326,gold_standard,non_event,non_event,non_event,non_event
+3068,Der blonde Eckbert,aber in der Nacht wachte ich einigemal auf,327,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+3071,Der blonde Eckbert,Meine junge Seele bekam jetzt zuerst eine Ahndung von der Welt und ihren Begebenheiten,328,gold_standard,process,process,change_of_state,process
+3074,Der blonde Eckbert,ich ließ los,329,gold_standard,process,process,process,process
+3077,Der blonde Eckbert,und die Sparsamkeit selbst schien alles anzuordnen,330,gold_standard,non_event,non_event,non_event,process
+3080,Der blonde Eckbert,und spielte oben an der Decke,331,gold_standard,process,process,stative_event,process
+3083,Der blonde Eckbert,so wunderlich mir auch die Stimme und das Wesen der Alten vorkam,332,gold_standard,stative_event,stative_event,stative_event,stative_event
+3086,Der blonde Eckbert,In einem abgelegenen Gemache ging er in unbeschreiblicher Unruhe auf und ab,333,gold_standard,process,process,stative_event,process
+3089,Der blonde Eckbert,aber in der Nacht fiel es nur wieder ein,334,gold_standard,process,process,process,process
+3092,Der blonde Eckbert,und sich nur selber durch seine Einbildung alles erschaffe,335,gold_standard,stative_event,stative_event,stative_event,stative_event
+3095,Der blonde Eckbert,Als er im stärksten Trabe seines Pferdes einige Tage so fortgeeilt war,336,gold_standard,process,process,process,process
+3098,Der blonde Eckbert,und ich in einem Dorfe einkehren mußte,337,gold_standard,non_event,non_event,non_event,non_event
+3101,Der blonde Eckbert,und die Bäume draußen schüttelten sich vor nasser Kälte,338,gold_standard,stative_event,stative_event,stative_event,stative_event
+3104,Der blonde Eckbert,ich sah jetzt etwas Dunkles vor mir liegen,339,gold_standard,process,process,process,process
+3107,Der blonde Eckbert,in der Hand hielt sie einen Krückenstock,340,gold_standard,process,process,stative_event,process
+3110,Der blonde Eckbert,dann kam er zu mir,341,gold_standard,process,process,process,process
+3113,Der blonde Eckbert,Als ich aus dem Walde wieder heraustrat,342,gold_standard,process,process,process,process
+3116,Der blonde Eckbert,und arbeitete mich von einem Tage zum andern hinüber,343,gold_standard,process,process,process,process
+3119,Der blonde Eckbert,als müßte alles so sein,344,gold_standard,non_event,non_event,non_event,non_event
+3122,Der blonde Eckbert,so trifft sie auch in allen Kleinigkeiten Bestätigungen an,345,gold_standard,non_event,non_event,non_event,non_event
+3125,Der blonde Eckbert,Du weißt,346,gold_standard,stative_event,stative_event,stative_event,stative_event
+3128,Der blonde Eckbert,zu diesem gesellte sich Hugo,347,gold_standard,process,process,process,process
+3131,Der blonde Eckbert,"war alles ebenso, wie um mich her",348,gold_standard,stative_event,non_event,stative_event,non_event
+3134,Der blonde Eckbert,und ich verlor mich so in ihm,349,gold_standard,process,process,process,process
+3137,Der blonde Eckbert,der Moos von den Bäumen sammelte,350,gold_standard,process,process,process,process
+3140,Der blonde Eckbert,oder wohl gar ermorden könne,351,gold_standard,non_event,non_event,non_event,non_event
+3143,Der blonde Eckbert,auf einem einsamen Spazierritte entdeckte er seinem Freunde seine ganze Geschichte,352,gold_standard,process,process,process,process
+3146,Der blonde Eckbert,der Schweiß stand ihm auf der Stirne,353,gold_standard,stative_event,stative_event,stative_event,stative_event
+3149,Der blonde Eckbert,wäre ich vor Entsetzen fast in Ohnmacht gesunken,354,gold_standard,non_event,non_event,non_event,non_event
+3152,Der blonde Eckbert,oder mir kleine Kiesel gaben,355,gold_standard,process,process,process,process
+3155,Der blonde Eckbert,Wenn ich mich so vergessen hatte,356,gold_standard,change_of_state,non_event,non_event,non_event
+3158,Der blonde Eckbert,andre waren jetzt verfallen,357,gold_standard,stative_event,stative_event,stative_event,stative_event
+3161,Der blonde Eckbert,ich sah Wälder und Wiesen mit fernen angenehmen Bergen wieder vor mir liegen,358,gold_standard,process,process,stative_event,process
+3164,Der blonde Eckbert,Ich hatte nicht das Herz zurückzugehn,359,gold_standard,non_event,non_event,non_event,non_event
+3167,Der blonde Eckbert,bald sprach sie mit dem Vogel,360,gold_standard,process,process,process,process
+3170,Der blonde Eckbert,"dann entzückte mich wieder die Vorstellung einer neuen Welt, mit allen ihren wunderbaren Mannigfaltigkeiten",361,gold_standard,stative_event,stative_event,stative_event,stative_event
+3173,Der blonde Eckbert,und kam nun nach einer Wanderschaft von vielen Tagen in einem Dorfe an,362,gold_standard,process,process,process,process
+3176,Der blonde Eckbert,ja er betrachtete die Gegenden nur wenig,363,gold_standard,process,process,process,process
+3179,Der blonde Eckbert,die sich in Edelsteine verwandelten,364,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+3182,Der blonde Eckbert,weil ich jetzt Hunger und Durst empfand,365,gold_standard,stative_event,stative_event,stative_event,stative_event
+3185,Der blonde Eckbert,Walther sah sich um,366,gold_standard,process,process,process,process
+3188,Der blonde Eckbert,der ihm einen Pfad zeigte,367,gold_standard,process,process,process,process
+3191,Der blonde Eckbert,bis es erschöpft unter ihm zusammenstürzte,368,gold_standard,process,process,process,process
+3194,Der blonde Eckbert,"Du bist brav, mein Kind",369,gold_standard,stative_event,stative_event,stative_event,stative_event
+3197,Der blonde Eckbert,Die Flamme warf einen hellen Schein durch das Gemach,370,gold_standard,stative_event,stative_event,stative_event,stative_event
+3200,Der blonde Eckbert,mein Vater würde mich noch wieder einholen,371,gold_standard,non_event,non_event,non_event,non_event
+3203,Der blonde Eckbert,als ob ich mir diese Seltsamkeit nur einbilde,372,gold_standard,non_event,non_event,non_event,non_event
+3206,Der blonde Eckbert,daß sie mich auch einst berauben,373,gold_standard,non_event,non_event,non_event,non_event
+3209,Der blonde Eckbert,blähte er sich stolz auf,374,gold_standard,process,process,process,process
+3212,Der blonde Eckbert,daß es mir immer nicht war,375,gold_standard,non_event,non_event,non_event,non_event
+3215,Der blonde Eckbert,und das Rieseln der Quellen und von Zeit zu Zeit das Flüstern der Bäume tönte durch die heitre Stille wie in wehmütiger Freude,376,gold_standard,process,process,stative_event,process
+3218,Der blonde Eckbert,Schon war ich über Berge und durch einige Wälder gekommen,377,gold_standard,process,process,process,process
+3221,Der blonde Eckbert,die Mägde mußten sich entfernen,378,gold_standard,non_event,non_event,non_event,non_event
+3224,Der blonde Eckbert,die wunderbarsten Phantasien beschäftigten mich,379,gold_standard,process,process,stative_event,process
+3227,Der blonde Eckbert,daß ich mich immer nicht trotz aller angewandten Mühe auf den Namen des kleinen Hundes besinnen konnte,380,gold_standard,non_event,non_event,non_event,non_event
+3230,Der blonde Eckbert,Gern,381,gold_standard,non_event,non_event,non_event,non_event
+3233,Der blonde Eckbert,als er es sonst gewohnt gewesen war,382,gold_standard,stative_event,stative_event,stative_event,stative_event
+3236,Der blonde Eckbert,was er bis dahin oft mit vieler Sorgfalt verborgen hat,383,gold_standard,non_event,non_event,non_event,non_event
+3239,Der blonde Eckbert,Walther war seit vielen Jahren sein einziger Umgang gewesen,384,gold_standard,stative_event,process,stative_event,stative_event
+3242,Der blonde Eckbert,Schon lange kannt ich einen jungen Ritter,385,gold_standard,stative_event,stative_event,stative_event,stative_event
+3245,Der blonde Eckbert,kein Wild kam unserer Behausung nahe,386,gold_standard,non_event,non_event,non_event,non_event
+3248,Der blonde Eckbert,denn seine Federn glänzten mit allen möglichen Farben,387,gold_standard,stative_event,stative_event,stative_event,stative_event
+3251,Der blonde Eckbert,und ich eine fremde Aussprache hörte,388,gold_standard,process,process,process,process
+3254,Der blonde Eckbert,und ich erriet nun,389,gold_standard,process,process,process,process
+3257,Der blonde Eckbert,Sie war fast ganz schwarz gekleidet,390,gold_standard,stative_event,stative_event,stative_event,stative_event
+3260,Der blonde Eckbert,Wird er sie nicht mißbrauchen,391,gold_standard,non_event,non_event,non_event,non_event
+3263,Der blonde Eckbert,als würde ihm froh und leicht sein,392,gold_standard,non_event,non_event,non_event,non_event
+3266,Der blonde Eckbert,daß sie diesmal länger als gewöhnlich ausbleiben werde,393,gold_standard,non_event,non_event,non_event,non_event
+3269,Der blonde Eckbert,als wenn sie der erste Windstoß durcheinanderwerfen würde,394,gold_standard,non_event,non_event,non_event,non_event
+3272,Der blonde Eckbert,und hat er ihn mit Vorsatz genannt,395,gold_standard,non_event,non_event,non_event,non_event
+3275,Der blonde Eckbert,Bald mußte ich über Hügel klettern,396,gold_standard,non_event,non_event,non_event,non_event
+3278,Der blonde Eckbert,ich konnte nichts in der Wirtschaft helfen,397,gold_standard,non_event,non_event,non_event,non_event
+3281,Der blonde Eckbert,Es waren Klippen,398,gold_standard,stative_event,stative_event,stative_event,stative_event
+3284,Der blonde Eckbert,und ich begriff es auch bald,399,gold_standard,process,process,process,process
+3287,Der blonde Eckbert,sagte Eckbert zu sich selber,400,gold_standard,process,process,process,process
+3290,Der blonde Eckbert,denn er war weit hinein in die Wälder verirrt,401,gold_standard,stative_event,process,process,process
+3293,Der blonde Eckbert,Niemand kam so häufig auf die Burg als Philipp Walther,402,gold_standard,process,non_event,non_event,process
+3296,Der blonde Eckbert,Was mich aber noch weit mehr jammerte,403,gold_standard,stative_event,stative_event,stative_event,stative_event
+3299,Der blonde Eckbert,da diese aber doch nichts fruchteten,404,gold_standard,non_event,non_event,non_event,non_event
+3302,Der blonde Eckbert,"welche Sehnsucht ich empfand, nur eines Men schen ansichtig zu werden",405,gold_standard,stative_event,stative_event,stative_event,stative_event
+3305,Der blonde Eckbert,In diesen Augenblicken geben sich die zarten Seelen einander zu erkennen,406,gold_standard,non_event,non_event,non_event,non_event
+3308,Der blonde Eckbert,ich ging ihr dann mit dem Hunde entgegen,407,gold_standard,process,process,process,process
+3311,Der blonde Eckbert,der Hund sprang mich unaufhörlich an,408,gold_standard,process,process,stative_event,process
+3314,Der blonde Eckbert,ich öffnete sie hastig,409,gold_standard,process,process,process,process
+3317,Der blonde Eckbert,daß einer vor der Bekanntschaft des andern zurückschreckt,410,gold_standard,non_event,non_event,stative_event,stative_event
+3320,Der blonde Eckbert,sagte Walther,411,gold_standard,process,process,process,process
+3323,Der blonde Eckbert,ich lernte weder nähen noch spinnen,412,gold_standard,non_event,non_event,non_event,non_event
+3326,Der blonde Eckbert,als wenn ich zugegen wäre,413,gold_standard,non_event,non_event,non_event,non_event
+3329,Der blonde Eckbert,Noch nahm ich eins von den Gefäßen,414,gold_standard,process,process,process,process
+3332,Der blonde Eckbert,das schönste Hellblau und das brennendste Rot wechselten an seinem Halse und Leibe,415,gold_standard,stative_event,stative_event,stative_event,stative_event
+3335,Der blonde Eckbert,und eröffnete die Tür unsrer kleinen Hütte,416,gold_standard,process,process,process,process
+3338,Der blonde Eckbert,als ihm beim Schein der vielen Lichter die Mienen seines Freundes nicht gefielen,417,gold_standard,non_event,non_event,non_event,non_event
+3341,Der blonde Eckbert,Ich sah ihr lange nach,418,gold_standard,process,process,process,process
+3344,Der blonde Eckbert,und verließ auch den Ritter ziemlich gleichgültig,419,gold_standard,process,process,process,process
+3347,Der blonde Eckbert,er lebte von einem kleinen Vermögen,420,gold_standard,process,process,process,process
+3350,Der blonde Eckbert,den er habe,421,gold_standard,stative_event,stative_event,stative_event,stative_event
+3353,Der blonde Eckbert,So wie ich weiter ging,422,gold_standard,process,process,stative_event,process
+3356,Der blonde Eckbert,und seine Gegenwart ängstigte mich,423,gold_standard,stative_event,stative_event,stative_event,stative_event
+3359,Der blonde Eckbert,in denen es den Menschen ängstigt,424,gold_standard,non_event,non_event,non_event,non_event
+3362,Der blonde Eckbert,"Es schien aber seine Verdammnis zu sein, gerade in der Stunde des Vertrauens Argwohn zu schöpfen",425,gold_standard,stative_event,stative_event,stative_event,stative_event
+3365,Der blonde Eckbert,und alle Gegenstände umher wurden mir bekannt,426,gold_standard,process,process,process,process
+3368,Der blonde Eckbert,und kein Schlaf kam in seine Augen,427,gold_standard,non_event,non_event,non_event,non_event
+3371,Der blonde Eckbert,"es wäre nur Eigensinn oder Trägheit von mir, um meine Tage in Müßiggang hinzubringen",428,gold_standard,stative_event,stative_event,stative_event,stative_event
+3374,Der blonde Eckbert,Als sie sich erholt hatte,429,gold_standard,process,process,process,process
+3377,Der blonde Eckbert,"als er in einer Nacht plötzlich wieder anfing, und zwar mit einem veränderten Liede",430,gold_standard,process,process,process,process
+3380,Der blonde Eckbert,und ihre Augen wurden immer glühender,431,gold_standard,process,process,change_of_state,process
+3383,Der blonde Eckbert,und trug das Abendessen auf,432,gold_standard,process,process,process,process
+3386,Der blonde Eckbert,das mit Edelsteinen angefüllt war,433,gold_standard,stative_event,stative_event,stative_event,stative_event
+3389,Der blonde Eckbert,an jenem Abend sagte Walther beim Abschiede plötzlich zu mir,434,gold_standard,process,process,process,process
+3392,Der blonde Eckbert,Eckbert spornte sein Roß durch Wiesen und Wälder,435,gold_standard,process,process,process,process
+3395,Der blonde Eckbert,"dann sagte ich lange rührende Reden in Gedanken her, zuweilen auch wohl laut, um ihn nur zu gewinnen",436,gold_standard,process,process,process,process
+3398,Der blonde Eckbert,so zeigte ich mich noch viel ungeschickter,437,gold_standard,process,process,process,process
+3401,Der blonde Eckbert,als Eckbert an einem neblichten Abend mit seinem Freunde und seinem Weibe Bertha um das Feuer eines Kamines saß,438,gold_standard,process,process,stative_event,process
+3404,Der blonde Eckbert,seit ich dazugehöre,439,gold_standard,stative_event,stative_event,stative_event,stative_event
+3407,Der blonde Eckbert,und sich die Knechte wieder entfernt hatten,440,gold_standard,process,process,process,process
+3410,Der blonde Eckbert,Wir stiegen nun einen Hügel hinan,441,gold_standard,process,process,process,process
+3413,Der blonde Eckbert,sie schlief in der Stube,442,gold_standard,process,process,process,process
+3416,Der blonde Eckbert,und ging laut weinend aus dem Dorfe hinaus,443,gold_standard,process,process,process,process
+3419,Der blonde Eckbert,und kam erst am Abend zurück,444,gold_standard,process,process,process,process
+3422,Der blonde Eckbert,war mir der Anblick des Vogels ordentlich zuwider,445,gold_standard,stative_event,stative_event,stative_event,stative_event
+3425,Der blonde Eckbert,daß Ihr so edel denkt,446,gold_standard,stative_event,stative_event,stative_event,stative_event
+3428,Der blonde Eckbert,ich dachte gar nicht mehr daran,447,gold_standard,non_event,non_event,non_event,non_event
+3431,Der blonde Eckbert,er besuchte seine Gattin,448,gold_standard,process,process,process,process
+3434,Der blonde Eckbert,was ich las,449,gold_standard,process,process,process,process
+3437,Der blonde Eckbert,Ich kann mir Euch recht vorstellen,450,gold_standard,stative_event,stative_event,stative_event,stative_event
+3440,Der blonde Eckbert,Aus dem wenigen bildete ich mir ganz wunderliche Vorstellungen von der Welt und den Menschen,451,gold_standard,process,process,process,process
+3443,Der blonde Eckbert,alles war mit einem neblichten Dufte überzogen,452,gold_standard,stative_event,stative_event,stative_event,stative_event
+3446,Der blonde Eckbert,aber jetzt war er ganz mit sich zerfallen,453,gold_standard,stative_event,stative_event,stative_event,stative_event
+3449,Der blonde Eckbert,und schlief nur wenig,454,gold_standard,process,process,process,process
+3452,Der blonde Eckbert,denn er war überzeugt,455,gold_standard,stative_event,stative_event,stative_event,stative_event
+3455,Der blonde Eckbert,sooft ich ihn auch damals nannte,456,gold_standard,process,process,process,process
+3458,Der blonde Eckbert,alles war von mir und meiner Gesellschaft hergenommen,457,gold_standard,stative_event,stative_event,stative_event,stative_event
+3461,Der blonde Eckbert,alles war ordentlich aufgeräumt,458,gold_standard,stative_event,stative_event,stative_event,stative_event
+3464,Der blonde Eckbert,denn ihr Gesicht war in einer ewigen Bewegung,459,gold_standard,process,process,process,process
+3467,Der blonde Eckbert,"Er zog fort, ohne sich einen bestimmten Weg vorzusetzen",460,gold_standard,process,process,process,process
+3470,Der blonde Eckbert,und den Vogel dazwischen,461,gold_standard,process,process,process,process
+3473,Der blonde Eckbert,kein Mensch könne ihn seiner Achtung würdigen,462,gold_standard,non_event,non_event,non_event,non_event
+3476,Der blonde Eckbert,Er glaubte ein hämisches Lächeln zu bemerken,463,gold_standard,stative_event,stative_event,stative_event,stative_event
+3479,Der blonde Eckbert,ob er jetzt träume,464,gold_standard,non_event,non_event,non_event,non_event
+3482,Der blonde Eckbert,hörte ich einen wunderbaren Gesang wie von einem Vogel,465,gold_standard,process,process,process,process
+3485,Der blonde Eckbert,"aber die Sucht etwas Neues zu sehn, trieb mich vorwärts",466,gold_standard,process,process,process,process
+3488,Der blonde Eckbert,Er hörte nun mit seinem Liede gar nicht wieder auf,467,gold_standard,process,non_event,non_event,process
+3491,Der blonde Eckbert,Ich blieb nicht lange munter,468,gold_standard,process,non_event,non_event,process
+3494,Der blonde Eckbert,es waren neue Häuser entstanden,469,gold_standard,process,process,process,process
+3497,Der blonde Eckbert,Die Alte war schon einige Tage abwesend,470,gold_standard,non_event,non_event,non_event,non_event
+3500,Der blonde Eckbert,"Zugleich war es mir dann vielleicht möglich, den überaus schönen Ritter anzutreffen",471,gold_standard,non_event,non_event,non_event,non_event
+3503,Der blonde Eckbert,die mir unterirdische Schätze entdeckten,472,gold_standard,process,process,process,process
+3506,Der blonde Eckbert,ich bin erst die Veranlassung,473,gold_standard,stative_event,stative_event,stative_event,stative_event
+3509,Der blonde Eckbert,der die Worte sang,474,gold_standard,process,process,process,process
+3512,Der blonde Eckbert,aber ich vergaß die Alte und meinen ehemaligen Aufenthalt etwas mehr,475,gold_standard,process,process,process,process
+3515,Der blonde Eckbert,rief Eckbert aus,476,gold_standard,process,process,process,process
+3518,Der blonde Eckbert,Ich war ganz trostlos,477,gold_standard,stative_event,stative_event,stative_event,stative_event
+3521,Der blonde Eckbert,Und wie hängt dieser Mensch dann mit meinem Schicksale zusammen,478,gold_standard,non_event,non_event,non_event,non_event
+3524,Der blonde Eckbert,aber es ist gewiß nur zu gewiß,479,gold_standard,stative_event,stative_event,stative_event,stative_event
+3527,Der blonde Eckbert,in der Nacht hörte ich die seltsamsten Töne,480,gold_standard,process,process,process,process
+3530,Der blonde Eckbert,und ich schlief nur spät gegen Morgen ein,481,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+3533,Der blonde Eckbert,Als ich aber oben stand,482,gold_standard,process,process,stative_event,process
+3536,Der blonde Eckbert,als ich es vermutet hatte,483,gold_standard,stative_event,stative_event,stative_event,stative_event
+3539,Der blonde Eckbert,Der Vogel legte nämlich an jedem Tage ein Ei,484,gold_standard,process,process,stative_event,process
+3542,Der blonde Eckbert,worüber ich anfing mich in der Einsamkeit zu fürchten,485,gold_standard,process,process,process,process
+3545,Der blonde Eckbert,wäre es auch,486,gold_standard,non_event,non_event,non_event,non_event
+3548,Der blonde Eckbert,"und, durch meine Flucht gereizt, mich noch grausamer behandeln",487,gold_standard,non_event,non_event,non_event,non_event
+3551,Der blonde Eckbert,Eine krummgebückte Alte schlich hustend mit einer Krücke den Hügel heran,488,gold_standard,process,process,process,process
+3554,Der blonde Eckbert,Und Bertha war deine Schwester,489,gold_standard,stative_event,stative_event,stative_event,stative_event
+3557,Der blonde Eckbert,daß ich mich wohl in dem benachbarten Gebirge befinden müsse,490,gold_standard,non_event,non_event,non_event,non_event
+3560,Der blonde Eckbert,Er lebte sehr ruhig für sich,491,gold_standard,process,process,stative_event,process
+3563,Der blonde Eckbert,oder ein ferner Holzschlag weit durch den stillen Morgen hintönte,492,gold_standard,process,non_event,non_event,process
+3566,Der blonde Eckbert,Dieser Gedanke wurde mir bald noch deutlicher,493,gold_standard,process,process,process,process
+3569,Der blonde Eckbert,ich raffle mich auf,494,gold_standard,process,process,process,process
+3572,Der blonde Eckbert,wenn ich gefragt wurde,495,gold_standard,process,process,process,process
+3575,Der blonde Eckbert,sie wußten sehr oft nicht,496,gold_standard,non_event,non_event,non_event,non_event
+3578,Der blonde Eckbert,"und ging unter Tränen, unter abgebrochenen Seufzern den ganzen Tag hindurch",497,gold_standard,process,process,process,process
+3581,Der blonde Eckbert,damit er um so mehr unser Freund werde,498,gold_standard,non_event,non_event,non_event,non_event
+3584,Der blonde Eckbert,Es schien ihm,499,gold_standard,stative_event,stative_event,stative_event,stative_event
+3587,Der blonde Eckbert,und hustete,500,gold_standard,process,process,process,process
+3590,Der blonde Eckbert,fast ohne daß ich es wußte,501,gold_standard,stative_event,non_event,stative_event,stative_event
+3593,Der blonde Eckbert,er wollte ihm zur Danksagung einige Münzen geben,502,gold_standard,stative_event,process,stative_event,stative_event
+3596,Der blonde Eckbert,und sich verstellen,503,gold_standard,non_event,non_event,non_event,non_event
+3599,Der blonde Eckbert,Gott im Himmel,504,gold_standard,non_event,non_event,non_event,non_event
+3602,Der blonde Eckbert,Eckbert fiel zu Boden,505,gold_standard,process,process,process,process
+3605,Der blonde Eckbert,den sonst nur längst gekannte Freunde hervorbringen,506,gold_standard,process,process,stative_event,process
+3608,Der blonde Eckbert,ich gab ihm meine Hand,507,gold_standard,process,process,process,process
+3611,Der blonde Eckbert,Ich wußte nicht,508,gold_standard,non_event,non_event,non_event,non_event
+3614,Der blonde Eckbert,und bald sprang ein kleiner behender Hund die Alte an,509,gold_standard,process,process,process,process
+3617,Der blonde Eckbert,ich ließ alles aus den Händen fallen,510,gold_standard,process,process,stative_event,process
+3620,Der blonde Eckbert,sie sagte,511,gold_standard,process,process,process,process
+3623,Der blonde Eckbert,Zugleich fühlte ich einen peinigenden Hunger,512,gold_standard,stative_event,stative_event,stative_event,stative_event
+3626,Der blonde Eckbert,es war fast,513,gold_standard,stative_event,process,stative_event,stative_event
+3629,Der blonde Eckbert,und den Käfig auf den Boden stellte,514,gold_standard,process,process,process,process
+3632,Der blonde Eckbert,wie Ihr den kleinen Strohmian füttert,515,gold_standard,process,process,stative_event,process
+3635,Der blonde Eckbert,und konnte doch nicht davon zurückkehren,516,gold_standard,non_event,non_event,non_event,non_event
+3638,Der blonde Eckbert,so wurde ihretwegen fast nichts in dem gewöhnlichen Gange des Lebens geändert,517,gold_standard,process,non_event,non_event,process
+3641,Der blonde Eckbert,daß er glaubte,518,gold_standard,stative_event,stative_event,stative_event,stative_event
+3644,Der blonde Eckbert,der Hund bellte,519,gold_standard,process,process,stative_event,process
+3647,Der blonde Eckbert,und es wurden nun ernstliche Anstalten gemacht,520,gold_standard,process,process,process,process
+3650,Der blonde Eckbert,aber durch ihre Liebe kam ich in diesen Wohlstand,521,gold_standard,process,process,change_of_state,process
+3653,Der blonde Eckbert,Sie stand auf,522,gold_standard,process,process,process,process
+3656,Der blonde Eckbert,mit welchem ich so lange umging,523,gold_standard,process,process,process,process
+3659,Der blonde Eckbert,wenn nur dieses einzige Wesen aus seinem Wege gerückt werden könnte,524,gold_standard,non_event,non_event,non_event,non_event
+3662,Der blonde Eckbert,"Er nahm seine Armbrust, um sich zu zerstreuen und auf die Jagd zu gehn",525,gold_standard,process,process,process,process
+3665,Der blonde Eckbert,Als mir Köhler und Bergleute endlich begegneten,526,gold_standard,process,process,stative_event,process
+3668,Der blonde Eckbert,daß mein Vater und meine Mutter sich oft über ihre Armut entzweiten,527,gold_standard,process,process,process,process
+3671,Der blonde Eckbert,"Dann hielten ihn wieder Bedenklichkeiten und die Furcht, verabscheut zu werden, zurück",528,gold_standard,process,process,process,process
+3674,Der blonde Eckbert,Sein Weib liebte die Einsamkeit ebensosehr,529,gold_standard,stative_event,stative_event,stative_event,stative_event
+3677,Der blonde Eckbert,"Niemand als ich war dein Freund Walther, dein Hugo",530,gold_standard,stative_event,stative_event,stative_event,stative_event
+3680,Der blonde Eckbert,Ich war über diesen Antrag sehr erfreut,531,gold_standard,stative_event,stative_event,stative_event,stative_event
+3683,Der blonde Eckbert,die Lust zum Leben erwachte in allen meinen Adern,532,gold_standard,change_of_state,process,change_of_state,process
+3686,Der blonde Eckbert,ohne daß ich auf den Befehl der Alten wartete,533,gold_standard,non_event,non_event,non_event,non_event
+3689,Der blonde Eckbert,warum ich so beängstigt war,534,gold_standard,stative_event,stative_event,stative_event,stative_event
+3692,Der blonde Eckbert,als mir ein fremder Mensch so zu meinen Erinnerungen half,535,gold_standard,process,process,process,process
+3695,Der blonde Eckbert,das nicht das unbedeutendste Geschäft auszurichten wisse,536,gold_standard,non_event,non_event,non_event,non_event
+3698,Der blonde Eckbert,und so fühlte ich im Grunde nie einen Wunsch nach Veränderung,537,gold_standard,non_event,non_event,non_event,non_event
+3701,Der blonde Eckbert,Ein alter Ritter war in der Gesellschaft,538,gold_standard,stative_event,process,stative_event,stative_event
+3704,Der blonde Eckbert,daß diese Strafe mit jedem Tage wiederkehren sollte,539,gold_standard,non_event,non_event,non_event,non_event
+3707,Der blonde Eckbert,als wenn er ein nahes munteres Bellen vernahm,540,gold_standard,non_event,non_event,non_event,non_event
+3710,Der blonde Eckbert,weil mir der Kopf von allen den seltsamen Vorstellungen schwindelte,541,gold_standard,change_of_state,process,change_of_state,process
+3713,Der blonde Eckbert,Jetzt wandelte mich oft eine Furcht vor meiner Aufwärterin an,542,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+3716,Der blonde Eckbert,Mit ihrem Krückenstocke ging sie ziemlich behende,543,gold_standard,process,process,process,process
+3719,Der blonde Eckbert,so daß ich durchaus nicht wissen konnte,544,gold_standard,non_event,non_event,non_event,non_event
+3722,Der blonde Eckbert,"als wenn mein Vorhaben schon vor mir stände, ohne mich dessen deutlich bewußt zu sein",545,gold_standard,non_event,non_event,non_event,non_event
+3725,Der blonde Eckbert,Von neuem mich freut Waldeinsamkeit,546,gold_standard,stative_event,stative_event,stative_event,stative_event
+3728,Der blonde Eckbert,und faßte seinen Hals,547,gold_standard,process,process,process,process
+3731,Der blonde Eckbert,Indem sie das sagte,548,gold_standard,process,process,process,process
+3734,Der blonde Eckbert,"so erschrak er vor dem Gedanken, einen Freund zu finden",549,gold_standard,process,process,process,process
+3737,Der blonde Eckbert,er sah mich bittend an,550,gold_standard,process,process,process,process
+3740,Der blonde Eckbert,daß Walther nicht so herzlich von ihm Abschied genommen hatte,551,gold_standard,non_event,non_event,non_event,non_event
+3743,Der blonde Eckbert,die Röte von ihren Wangen war verschwunden,552,gold_standard,change_of_state,stative_event,stative_event,stative_event
+3746,Der blonde Eckbert,Ich trat schnell zurück,553,gold_standard,process,process,process,process
+3749,Der blonde Eckbert,Walther schien sich nicht viel darum zu kümmern,554,gold_standard,non_event,non_event,non_event,non_event
+3752,Der blonde Eckbert,mein Mann sagt,555,gold_standard,process,process,stative_event,process
+3755,Der blonde Eckbert,und zuweilen geschieht es wohl auch,556,gold_standard,non_event,non_event,non_event,process
+3758,Der blonde Eckbert,"und er keines Gedankens, keiner Erinnerung mächtig",557,gold_standard,non_event,non_event,non_event,non_event
+3761,Der blonde Eckbert,Bringst du mir meinen Vogel,558,gold_standard,non_event,non_event,non_event,non_event
+3764,Der blonde Eckbert,für den er nicht ein völliger Fremdling sei,559,gold_standard,non_event,non_event,non_event,non_event
+3767,Der blonde Eckbert,und bei jedem Schritte verzog sie ihr Gesicht so,560,gold_standard,process,process,process,process
+3770,Der blonde Eckbert,In das sanfteste Rot und Gold war alles verschmolzen,561,gold_standard,stative_event,stative_event,stative_event,stative_event
+3773,Der blonde Eckbert,von oben sah man in ein grünes Tal voller Birken hinein,562,gold_standard,process,process,stative_event,process
+3776,Der blonde Eckbert,Ihr lächelt,563,gold_standard,process,process,process,process
+3779,Der blonde Eckbert,damit er versichert sein könne,564,gold_standard,non_event,non_event,stative_event,non_event
+3782,Der blonde Eckbert,Hier wohnt kein Neid,565,gold_standard,non_event,non_event,non_event,non_event
+3785,Der blonde Eckbert,denn es war gerade zur schönsten Jahrszeit,566,gold_standard,stative_event,stative_event,stative_event,stative_event
+3788,Der blonde Eckbert,überlief mich mancher Schauer,567,gold_standard,process,process,stative_event,process
+3791,Der blonde Eckbert,dumpf und verworren hörte er die Alte sprechen,568,gold_standard,process,process,process,process
+3794,Der blonde Eckbert,meine Angst trieb mich vorwärts,569,gold_standard,process,process,stative_event,process
+3797,Der blonde Eckbert,denn sie hatte einige alte geschriebene Bücher,570,gold_standard,stative_event,stative_event,stative_event,stative_event
+3800,Der blonde Eckbert,mich aber nie genauer darum bekümmert,571,gold_standard,non_event,non_event,non_event,non_event
+3803,Der blonde Eckbert,und nahm eine Aufwärterin zu mir,572,gold_standard,process,process,process,process
+3806,Der blonde Eckbert,und sich oft nach seinem Reichtum und seiner Frau auf eine eigne Weise erkundigt hatte,573,gold_standard,process,process,process,process
+3809,Der blonde Eckbert,und wies mich bald nachher zur Arbeit an,574,gold_standard,process,process,process,process
+3812,Der blonde Eckbert,als hätte ich sie nur gestern angelehnt,575,gold_standard,non_event,non_event,non_event,non_event
+3815,Der blonde Eckbert,oft sah ich mich erschrocken um,576,gold_standard,process,process,process,process
+3818,Der blonde Eckbert,und jetzt waren beide so plötzlich dahingerafft,577,gold_standard,process,process,process,process
+3821,Der blonde Eckbert,und wenn er auch kam,578,gold_standard,process,process,process,process
+3824,Der blonde Eckbert,Ich stand auf dem freien Felde,579,gold_standard,process,process,stative_event,process
+3827,Der blonde Eckbert,ich verdoppelte meine Schritte,580,gold_standard,process,process,process,process
+3830,Der blonde Eckbert,Vieles war verändert,581,gold_standard,stative_event,stative_event,stative_event,stative_event
+3833,Der blonde Eckbert,mein Herz klopfte ungestüm,582,gold_standard,process,process,stative_event,process
+3836,Der blonde Eckbert,die Mäßigkeit wohnte dort,583,gold_standard,stative_event,stative_event,stative_event,stative_event
+3839,Der blonde Eckbert,sie freute sich über mein Wachstum und mein gesundes Aussehn,584,gold_standard,stative_event,stative_event,stative_event,stative_event
+3842,Der blonde Eckbert,Die Dämmerung war schon eingebrochen,585,gold_standard,stative_event,stative_event,stative_event,stative_event
+3845,Der blonde Eckbert,je mehr ängstigte mich die Vorstellung von der Alten und dem kleinen Hunde,586,gold_standard,stative_event,stative_event,stative_event,stative_event
+3848,Der blonde Eckbert,Die Haushaltung bei meinen Eltern war nicht zum besten bestellt,587,gold_standard,non_event,non_event,non_event,non_event
+3851,Der blonde Eckbert,und fragte ihn dann,588,gold_standard,process,process,process,process
+3854,Der blonde Eckbert,so weit nur mein Auge reichte,589,gold_standard,stative_event,stative_event,stative_event,stative_event
+3857,Der blonde Eckbert,und doch war dieser Mensch jetzt der einzige in der Welt,590,gold_standard,stative_event,stative_event,stative_event,stative_event
+3860,Der blonde Eckbert,"meine Gedanken, meine Wünsche lebten wieder auf",591,gold_standard,process,process,change_of_state,process
+3863,Der blonde Eckbert,ich griff also den kleinen Hund,592,gold_standard,process,process,process,process
+3866,Der blonde Eckbert,Das machte mit den Birken und mit dem Gesang einer entfernten Nachtigall ein so wunderbares Gemisch,593,gold_standard,process,process,process,process
+3869,Der blonde Eckbert,und in den Felsentälern hallte meine Stimme auf eine schreckliche Art zurück,594,gold_standard,process,process,stative_event,process
+3872,Der blonde Eckbert,und unsere Verbindung hat uns bis jetzt noch keinen Augenblick gereut,595,gold_standard,non_event,non_event,non_event,non_event
+3875,Der blonde Eckbert,Eckbert lag wahnsinnig und verscheidend auf dem Boden,596,gold_standard,process,process,stative_event,process
+3878,Der blonde Eckbert,Oft ging die Alte aus,597,gold_standard,process,process,process,process
+3881,Der blonde Eckbert,mußte es ihm wohl unbequem fallen,598,gold_standard,non_event,non_event,non_event,non_event
+3884,Der blonde Eckbert,"Ein junger Ritter, Hugo, schloß sich an den stillen betrübten Eckbert",599,gold_standard,process,process,process,process
+3887,Der blonde Eckbert,Kein Mensch verirrte sich dorthin,600,gold_standard,non_event,non_event,non_event,non_event
+3890,Der blonde Eckbert,die seltsam genug ist,601,gold_standard,stative_event,stative_event,stative_event,stative_event
+3893,Der blonde Eckbert,Aber nach einiger Zeit trug die Lust zu leben dennoch den Sieg davon,602,gold_standard,stative_event,stative_event,stative_event,stative_event
+3896,Der blonde Eckbert,und schien eine wahrhafte Zuneigung gegen ihn zu empfinden,603,gold_standard,stative_event,non_event,stative_event,stative_event
+3899,Der blonde Eckbert,Ich ward ihr endlich von Herzen gut,604,gold_standard,change_of_state,process,change_of_state,change_of_state
+3902,Der blonde Eckbert,Es war mir jetzt lieber,605,gold_standard,stative_event,process,stative_event,stative_event
+3905,Der blonde Eckbert,Ich war jetzt vierzehn Jahr alt,606,gold_standard,stative_event,stative_event,stative_event,stative_event
+3908,Der blonde Eckbert,Als ich aufstand,607,gold_standard,process,process,process,process
+3911,Der blonde Eckbert,besah mich von allen Seiten,608,gold_standard,process,process,process,process
+3914,Der blonde Eckbert,und wenn er sang,609,gold_standard,process,process,process,process
+3917,Der blonde Eckbert,So war ich ungefähr acht Jahr alt geworden,610,gold_standard,process,process,change_of_state,process
+3920,Der blonde Eckbert,und war niemals in den Fehden seiner Nachbarn verwickelt,611,gold_standard,non_event,non_event,non_event,non_event
+3923,Der blonde Eckbert,Dieser wohnte eigentlich in Franken,612,gold_standard,process,process,stative_event,process
+3926,Der blonde Eckbert,die Nacht sah schwarz zu den Fenstern herein,613,gold_standard,stative_event,stative_event,stative_event,stative_event
+3929,Der blonde Eckbert,ich fühlte mich so außerordentlich verlassen,614,gold_standard,stative_event,stative_event,stative_event,stative_event
+3932,Der blonde Eckbert,bald darauf war ich in einem Walde,615,gold_standard,stative_event,process,stative_event,stative_event
+3935,Der blonde Eckbert,aber da er getragen ward,616,gold_standard,process,process,process,process
+3938,Der blonde Eckbert,die man damals erst errichtet hatte,617,gold_standard,process,process,process,process
+3941,Der blonde Eckbert,ich traf auch Brandstellen,618,gold_standard,process,process,process,process
+3944,Der blonde Eckbert,er kam der Freundschaft des Ritters um so schneller entgegen,619,gold_standard,process,process,process,process
+3947,Der blonde Eckbert,kaum von mittler Größe,620,gold_standard,stative_event,stative_event,stative_event,stative_event
+3950,Der blonde Eckbert,hielt sich aber oft über ein halbes Jahr in der Nähe von Eckberts Burg auf,621,gold_standard,process,process,process,process
+3953,Der blonde Eckbert,fiel Eckbert hastig ein,622,gold_standard,process,process,process,process
+3956,Der blonde Eckbert,Aber dennoch konnte er sich nicht widerstehn,623,gold_standard,non_event,non_event,non_event,non_event
+3959,Der blonde Eckbert,Es fiel ihm ein,624,gold_standard,process,process,process,process
+3962,Der blonde Eckbert,und wußte nicht worüber,625,gold_standard,non_event,non_event,non_event,non_event
+3965,Der blonde Eckbert,man wies mir eine Stube und ein Bette an,626,gold_standard,process,process,process,process
+3968,Der blonde Eckbert,Die Erinnerung an meine damalige Lebensart ist mir noch bis jetzt immer seltsam,627,gold_standard,stative_event,stative_event,stative_event,stative_event
+3971,Der blonde Eckbert,und ging nach der entgegengesetzten Seite,628,gold_standard,process,process,process,process
+3974,Der blonde Eckbert,Sein Entsetzen war unbeschreiblich,629,gold_standard,stative_event,stative_event,stative_event,stative_event
+3977,Der blonde Eckbert,und Walther stürzte nieder,630,gold_standard,process,process,process,process
+3980,Der blonde Eckbert,"der Hund strengte sich sehr an, mir nachzukommen",631,gold_standard,process,process,process,process
+3983,Der blonde Eckbert,und nahm dann den Käfig mit dem Vogel unter den Arm,632,gold_standard,process,process,process,process
+3986,Der blonde Eckbert,wenn ich wieder aufschaute,633,gold_standard,process,process,process,process
+3989,Der blonde Eckbert,Walther wünschte ihr mit einem Handkusse eine gute Nacht,634,gold_standard,process,process,process,process
+3992,Der blonde Eckbert,Endlich traf er auf einen alten Bauer,635,gold_standard,process,process,process,process
+3995,Der blonde Eckbert,und es war niemand anders als Walther,636,gold_standard,stative_event,stative_event,stative_event,stative_event
+3998,Der blonde Eckbert,band ihn in der Stube fest,637,gold_standard,process,process,process,process
+4001,Der blonde Eckbert,und wirklich war ich äußerst ungeschickt und unbeholfen,638,gold_standard,stative_event,stative_event,stative_event,stative_event
+4004,Der blonde Eckbert,Hat er den Namen erraten,639,gold_standard,non_event,non_event,non_event,non_event
+4007,Der blonde Eckbert,ich könnte mir wieder einbilden,640,gold_standard,non_event,non_event,non_event,non_event
+4010,Der blonde Eckbert,Eckbert sah seine leidende Gattin mit einem tiefen Gefühle an,641,gold_standard,process,process,stative_event,process
+4013,Der blonde Eckbert,bald streichelte sie den kleinen Hund,642,gold_standard,process,process,process,process
+4016,Der blonde Eckbert,und mehr als jemals fühlt ich,643,gold_standard,stative_event,stative_event,stative_event,stative_event
+4019,Der blonde Eckbert,das meine Gesundheit zerrüttet,644,gold_standard,process,process,stative_event,process
+4022,Der blonde Eckbert,So legte ich unter Tränen und Seufzern den Weg zurück,645,gold_standard,process,process,process,process
+4025,Der blonde Eckbert,ich war müde und erschöpft,646,gold_standard,stative_event,stative_event,stative_event,stative_event
+4028,Der blonde Eckbert,Er hatte so lange mit Bertha in einer schönen Ruhe gelebt,647,gold_standard,process,process,process,process
+4031,Der blonde Eckbert,und dabei war alles so still in der Gegend umher,648,gold_standard,stative_event,stative_event,stative_event,stative_event
+4034,Der blonde Eckbert,es sang also,649,gold_standard,process,process,process,process
+4037,Der blonde Eckbert,"daß ich etwas tun, oder lernen sollte",650,gold_standard,non_event,non_event,non_event,non_event
+4040,Der blonde Eckbert,oder ehemals von einem Weibe Bertha geträumt habe,651,gold_standard,non_event,non_event,non_event,non_event
+4043,Der blonde Eckbert,aber nie gedeiht es,652,gold_standard,non_event,non_event,non_event,non_event
+4046,Der blonde Eckbert,von der ich gelesen hatte,653,gold_standard,process,process,process,process
+4049,Der blonde Eckbert,denn alsdann war ich selbst die Gebieterin im Hause,654,gold_standard,stative_event,process,stative_event,stative_event
+4052,Der blonde Eckbert,Birken säuselten dazwischen,655,gold_standard,process,process,stative_event,process
+4055,Der blonde Eckbert,Schon beim Eintritt ward mir wundersam zumute,656,gold_standard,change_of_state,stative_event,stative_event,change_of_state
+4058,Der blonde Eckbert,sagte sie einst zu mir mit einem schnarrenden Tone,657,gold_standard,process,process,process,process
+4061,Der blonde Eckbert,denn kaum waren sie in den Saal getreten,658,gold_standard,process,process,process,process
+4064,Der blonde Eckbert,die übrigen ließ ich stehn,659,gold_standard,non_event,non_event,non_event,non_event
+4067,Der blonde Eckbert,wenn du so fortfährst,660,gold_standard,non_event,non_event,non_event,non_event
+4070,Der blonde Eckbert,steckte die Hand hinein,661,gold_standard,process,process,process,process
+4073,Der blonde Eckbert,die vor dem Fenster rauschten,662,gold_standard,process,process,stative_event,process
+4076,Der blonde Eckbert,kurz,663,gold_standard,non_event,non_event,non_event,non_event
+4079,Der blonde Eckbert,wenn man von der rechten Bahn abweicht,664,gold_standard,non_event,non_event,non_event,non_event
+4082,Der blonde Eckbert,und ich werde den Anblick und die Empfindung dieses Abends nie vergessen,665,gold_standard,non_event,non_event,non_event,non_event
+4085,Der blonde Eckbert,Ich habe mich immer nicht wieder auf den seltsamen Namen des Hundes besinnen können,666,gold_standard,non_event,non_event,non_event,non_event
+4088,Der blonde Eckbert,in einem glänzenden Käfig hing ein Vogel am Fenster,667,gold_standard,stative_event,stative_event,stative_event,stative_event
+4091,Der blonde Eckbert,der Sonnenschein breitete sich munter über die Felder aus,668,gold_standard,process,stative_event,stative_event,stative_event
+4094,Der blonde Eckbert,"und er fühlte wieder denselben Drang, sich ihm ganz mitzuteilen",669,gold_standard,stative_event,stative_event,stative_event,stative_event
+4097,Der blonde Eckbert,und es ward nachher in meiner Einsamkeit eine Quelle von unendlichem Vergnügen,670,gold_standard,process,process,stative_event,process
+4100,Der blonde Eckbert,war Bertha schon gestorben,671,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+4103,Der blonde Eckbert,im Walde glaubt ich oft,672,gold_standard,process,process,process,process
+4106,Der blonde Eckbert,dabei hatte ich noch für den Hund und für den Vogel zu sorgen,673,gold_standard,non_event,non_event,non_event,non_event
+4109,Der blonde Eckbert,und sie nannte mich Kind und Tochter,674,gold_standard,process,process,process,process
+4112,Der blonde Eckbert,"Jetzt war es um das Bewußtsein, um die Sinne Eckberts geschehn",675,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+4115,Der blonde Eckbert,Ich nahm mit einer gewissen Bangigkeit von ihr Abschied,676,gold_standard,process,process,process,process
+4118,Der blonde Eckbert,Eckbert war immer nur auf kurze Augenblicke froh,677,gold_standard,stative_event,process,stative_event,stative_event
+4121,Der blonde Eckbert,und beide schienen sich von Herzen zu lieben,678,gold_standard,non_event,non_event,non_event,process
+4124,Der blonde Eckbert,und tat alles,679,gold_standard,process,process,process,process
+4127,Der blonde Eckbert,wenn ich davon hatte reden hören,680,gold_standard,process,non_event,non_event,process
+4130,Der blonde Eckbert,und es ist ein Unglück für den Menschen,681,gold_standard,non_event,non_event,non_event,non_event
+4133,Der blonde Eckbert,daß ihre Perlen und Edelsteine wohl etwas Kostbares sein könnten,682,gold_standard,non_event,non_event,non_event,non_event
+4136,Der blonde Eckbert,und sagte mir,683,gold_standard,process,process,process,process
+4139,Der blonde Eckbert,Walther klagte über den weiten Rückweg,684,gold_standard,process,process,stative_event,process
+4142,Der blonde Eckbert,Es war mir enge und bedrängt zu Sinne,685,gold_standard,stative_event,stative_event,stative_event,stative_event
+4145,Der blonde Eckbert,"ein Mann, dem sich Eckbert angeschlossen hatte",686,gold_standard,process,process,process,process
+4148,Der blonde Eckbert,ob jener auch wahrhaft sein Freund sei,687,gold_standard,non_event,non_event,stative_event,non_event
+4151,Der blonde Eckbert,Weil du in früher Jugend deinen Vater einst davon erzählen hörtest,688,gold_standard,process,process,process,process
+4154,Der blonde Eckbert,sondern als fiele ich nur in einen andern noch seltsamern Traum,689,gold_standard,non_event,non_event,non_event,non_event
+4157,Der blonde Eckbert,Er sang,690,gold_standard,process,process,process,process
+4160,Der blonde Eckbert,Meinen Hund,691,gold_standard,non_event,non_event,non_event,non_event
+4163,Der blonde Eckbert,und mit dem Hunde sprechen,692,gold_standard,process,process,process,process
+4166,Der blonde Eckbert,kein Gedanke hielt ihm stand,693,gold_standard,non_event,non_event,non_event,non_event
+4169,Der blonde Eckbert,die vor ihm lagen,694,gold_standard,stative_event,stative_event,stative_event,stative_event
+4172,Der blonde Eckbert,nur daß ich von der Alten träumte,695,gold_standard,process,process,process,process
+4175,Der blonde Eckbert,indem sie ihre Gesichtsverzerrungen machte,696,gold_standard,process,process,process,process
+4178,Der blonde Eckbert,aber bald erkannt ich mich,697,gold_standard,process,process,process,process
+4181,Der blonde Eckbert,es war,698,gold_standard,stative_event,stative_event,stative_event,stative_event
+4184,Der blonde Eckbert,und doch trieb ihn ein Schauder nach seiner Burg zurück,699,gold_standard,process,process,process,process
+4187,Der blonde Eckbert,Eckbert ward durch dieses Betragen im äußersten Grade gepeinigt,700,gold_standard,stative_event,stative_event,stative_event,stative_event
+4190,Der blonde Eckbert,und dachte bei sich nach,701,gold_standard,process,process,process,process
+4193,Der blonde Eckbert,wenn ich plötzlich reich würde,702,gold_standard,non_event,non_event,non_event,non_event
+4196,Der blonde Eckbert,konnte ich ordentlich betrübt werden,703,gold_standard,stative_event,stative_event,stative_event,stative_event
+4199,Der blonde Eckbert,aber jeder mußte doch seine innerliche Unruhe an ihm gewahr werden,704,gold_standard,non_event,non_event,non_event,non_event
+4202,Der blonde Eckbert,ich schlief ziemlich ruhig,705,gold_standard,process,process,process,process
+4205,Der blonde Eckbert,der sich immer als den Gegner Eckberts gezeigt,706,gold_standard,process,process,process,process
+4208,Der blonde Eckbert,und jetzt war alles umsonst,707,gold_standard,stative_event,stative_event,stative_event,stative_event
+4211,Der blonde Eckbert,in dem sich eine Perl oder ein Edelstein befand,708,gold_standard,stative_event,stative_event,stative_event,stative_event
+4214,Der blonde Eckbert,und das bloße Wort Gebirge war meinem kindischen Ohr ein fürchterlicher Ton gewesen,709,gold_standard,stative_event,process,stative_event,stative_event
+4217,Der blonde Eckbert,und eine schwarze Kappe bedeckte ihren Kopf und einen großen Teil des Gesichtes,710,gold_standard,stative_event,stative_event,stative_event,stative_event
+4220,Der blonde Eckbert,"sie lagen mir näher am Herzen, als sonst",711,gold_standard,stative_event,stative_event,stative_event,stative_event
+4223,Der blonde Eckbert,so daß es mich beinahe wieder zum Lachen gebracht hätte,712,gold_standard,non_event,non_event,non_event,non_event
+4226,Der blonde Eckbert,und er war es wirklich,713,gold_standard,stative_event,stative_event,stative_event,stative_event
+4229,Der blonde Eckbert,daß dies niemand anders als Walther sei,714,gold_standard,non_event,non_event,non_event,non_event
+4232,Der blonde Eckbert,Seit diesem Abend besuchte Walther nur selten die Burg seines Freundes,715,gold_standard,process,process,process,process
+4235,Der blonde Eckbert,Er stieg träumend einen Hügel hinan,716,gold_standard,process,process,process,process
+4238,Der blonde Eckbert,und daß an dem Vogel etwas Außerordentliches sei,717,gold_standard,stative_event,non_event,stative_event,stative_event
+4241,Der blonde Eckbert,In einer angenehmen Stadt mietete ich mir ein kleines Haus mit einem Garten,718,gold_standard,process,process,process,process
+4244,Der blonde Eckbert,was ich wollte,719,gold_standard,stative_event,stative_event,stative_event,stative_event
+4247,Der blonde Eckbert,die Erzählung in der Nacht müsse sie auf diese Art gespannt haben,720,gold_standard,non_event,non_event,non_event,non_event
+4250,Der blonde Eckbert,und er hörte mit wunderlichen Tönen ein Lied singen,721,gold_standard,process,process,process,process
+4253,Der blonde Eckbert,sooft ich von meiner Kindheit sprach,722,gold_standard,process,process,process,process
+4256,Der blonde Eckbert,Es gibt Stunden,723,gold_standard,non_event,non_event,non_event,non_event
+4259,Der blonde Eckbert,Waldeinsamkeit Wie liegst du weit,724,gold_standard,stative_event,stative_event,stative_event,stative_event
+4262,Der blonde Eckbert,und winselte immerfort,725,gold_standard,process,process,process,process
+4265,Der blonde Eckbert,die er bei einem Hirten erziehn ließ,726,gold_standard,process,non_event,non_event,non_event
+4268,Der blonde Eckbert,und verließ sie,727,gold_standard,process,process,process,process
+4271,Der blonde Eckbert,denn sie war von einem andern Weibe,728,gold_standard,stative_event,stative_event,stative_event,stative_event
+4274,Der blonde Eckbert,Auch Walther legte sich schlafen,729,gold_standard,process,process,process,process
+4277,Der blonde Eckbert,Sie kam mir vor wie ein Wunder,730,gold_standard,process,process,process,process
+4280,Der blonde Eckbert,war,731,gold_standard,non_event,non_event,non_event,non_event
+4283,Der blonde Eckbert,Er wünschte durch irgendeinen Freund die Leere in seiner Seele auszufüllen,732,gold_standard,stative_event,stative_event,stative_event,stative_event
+4286,Der blonde Eckbert,Sie faltete ihre knöchernen Hände,733,gold_standard,process,process,process,process
+4289,Der blonde Eckbert,Aber über unser Schwatzen ist es schon tief in die Nacht geworden,734,gold_standard,process,process,process,process
+4292,Der blonde Eckbert,Mein Vater glaubte,735,gold_standard,stative_event,stative_event,stative_event,stative_event
+4295,Der blonde Eckbert,nun war mir,736,gold_standard,stative_event,stative_event,stative_event,stative_event
+4298,Der blonde Eckbert,er sah mich mit bittenden Augen an,737,gold_standard,process,process,process,process
+4301,Der blonde Eckbert,ich wünschte mir alle mögliche Geschicklichkeit,738,gold_standard,stative_event,stative_event,stative_event,stative_event
+4304,Der blonde Eckbert,denn ich war in allen meinen Bewegungen und meinem ganzen Wesen sehr lebhaft,739,gold_standard,stative_event,stative_event,stative_event,stative_event
+4307,Der blonde Eckbert,daß er nur wenig mit ihm spreche,740,gold_standard,process,process,process,process
+4310,Der blonde Eckbert,als mir der Tag ins Gesicht schien,741,gold_standard,stative_event,stative_event,stative_event,stative_event
+4313,Der blonde Eckbert,Ich war der Verzweiflung nahe,742,gold_standard,stative_event,stative_event,stative_event,stative_event
+4316,Der blonde Eckbert,zündete sie Licht an,743,gold_standard,process,process,process,process
+4319,Der blonde Eckbert,die Bäume standen mit ihren Wipfeln in der Abendröte,744,gold_standard,stative_event,stative_event,stative_event,stative_event
+4322,Der blonde Eckbert,ich schöpfte mit der Hand einen Trunk aus dem Bache,745,gold_standard,process,process,process,process
+4325,Der blonde Eckbert,ich war halb betäubt,746,gold_standard,stative_event,stative_event,stative_event,stative_event
+4328,Der blonde Eckbert,der wunderbare Vogel sang,747,gold_standard,process,process,stative_event,process
+4331,Der blonde Eckbert,Die wilden Felsen traten immer weiter hinter uns zurück,748,gold_standard,process,process,process,process
+4334,Der blonde Eckbert,und betete laut,749,gold_standard,process,process,process,process
+4337,Der blonde Eckbert,sie lag in einer Fieberhitze,750,gold_standard,process,process,stative_event,process
+4340,Der blonde Eckbert,Indem er noch immer hinstarrte,751,gold_standard,process,process,stative_event,process
+4343,Der blonde Eckbert,Die Alte keichte,752,gold_standard,process,process,process,process
+4346,Der blonde Eckbert,der Mond sah abwechselnd durch die vorüberflatternden Wolken,753,gold_standard,stative_event,process,stative_event,process
+4349,Der blonde Eckbert,und den Vogel sein Lied wiederholen,754,gold_standard,process,process,process,process
+4352,Der blonde Eckbert,die Wälder und die Blätter der Bäume standen still,755,gold_standard,stative_event,stative_event,stative_event,stative_event
+4355,Der blonde Eckbert,sie schienen unzertrennlich,756,gold_standard,stative_event,stative_event,stative_event,stative_event
+4358,Der blonde Eckbert,deckte einen ganz kleinen Tisch,757,gold_standard,process,process,process,process
+4361,Der blonde Eckbert,ich fand das kleine Haus,758,gold_standard,process,process,process,process
+4364,Der blonde Eckbert,und wedelte,759,gold_standard,process,process,process,process
+4367,Der blonde Eckbert,Nach dem Abendessen betete sie wieder,760,gold_standard,process,process,process,process
+4370,Der blonde Eckbert,der mir überaus gefiel,761,gold_standard,stative_event,stative_event,stative_event,stative_event
+4373,Der blonde Eckbert,es fiel ihm auf,762,gold_standard,process,process,process,process
+4376,Der blonde Eckbert,und wäre beinahe wieder umgekehrt,763,gold_standard,non_event,non_event,non_event,non_event
+4379,Der blonde Eckbert,ich hatte ein solches Mitleid mit mir selber,764,gold_standard,stative_event,stative_event,stative_event,stative_event
+4382,Der blonde Eckbert,sie konnten sich nicht mit mir freuen,765,gold_standard,non_event,non_event,non_event,non_event
+4385,Der blonde Eckbert,Je mehr ich ihn betrachtete,766,gold_standard,process,process,process,process
+4388,Der blonde Eckbert,daß meine Frau ihre Geschichte er zählt,767,gold_standard,process,process,process,process
+4391,Der blonde Eckbert,als ich in die Schenke trat,768,gold_standard,process,process,process,process
+4394,Der blonde Eckbert,wußte seine Geschichte nicht,769,gold_standard,non_event,non_event,non_event,non_event
+4397,Der blonde Eckbert,trat ich mit in die Hütte,770,gold_standard,process,process,process,process
+4400,Der blonde Eckbert,dann erinnerte er sich wieder der Züge Walthers,771,gold_standard,process,process,process,process
+4403,Der blonde Eckbert,der im Traum zu sein schien,772,gold_standard,stative_event,non_event,stative_event,stative_event
+4406,Der blonde Eckbert,und er irgendeinen unglücklichen Vorfall befürchtete,773,gold_standard,stative_event,stative_event,stative_event,stative_event
+4409,Der blonde Eckbert,kurz,774,gold_standard,non_event,non_event,non_event,non_event
+4412,Der blonde Eckbert,als wenn ich etwas sehr Eiliges zu tun hätte,775,gold_standard,non_event,non_event,non_event,non_event
+4415,Der blonde Eckbert,ich dachte daran,776,gold_standard,process,process,process,process
+4418,Der blonde Eckbert,sang sie mit kreischendem Ton ein geistliches Lied,777,gold_standard,process,process,process,process
+4421,Der blonde Eckbert,so kam er mir immer wider Willen zurück,778,gold_standard,process,process,process,process
+4424,Der blonde Eckbert,und kehrte nach vielen Irrwegen auf seine Burg zurück,779,gold_standard,process,process,process,process
+4427,Der blonde Eckbert,ich öffnete endlich den Käfig,780,gold_standard,process,process,process,process
+4430,Der blonde Eckbert,der mit Birken bepflanzt war,781,gold_standard,stative_event,stative_event,stative_event,stative_event
+4433,Der blonde Eckbert,und stierten mich an,782,gold_standard,process,process,stative_event,process
+4436,Der blonde Eckbert,und peinigte,783,gold_standard,stative_event,stative_event,stative_event,stative_event
+4439,Der blonde Eckbert,"aber ich fürchtete mich, ihn mit mir zu nehmen",784,gold_standard,stative_event,stative_event,stative_event,stative_event
+4442,Der blonde Eckbert,In den Abendstunden lehrte sie mich lesen,785,gold_standard,process,process,process,process
+4445,Der blonde Eckbert,er behandelte mich daher oft ziemlich grausam,786,gold_standard,process,process,process,process
+4448,Der blonde Eckbert,der reine Himmel sah aus wie ein aufgeschlossenes Paradies,787,gold_standard,stative_event,stative_event,stative_event,stative_event
+4451,Der blonde Eckbert,er sei schon seit drei Jahren mit seiner Frau gestorben,788,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+4454,Der blonde Eckbert,tiefer Schnee lag auf den Bergen,789,gold_standard,stative_event,stative_event,stative_event,stative_event
+4457,Der blonde Eckbert,"Die Felsen um mich her gewannen jetzt eine andre, weit seltsamere Gestalt",790,gold_standard,stative_event,stative_event,stative_event,stative_event
+4460,Der blonde Eckbert,und dann hörte ich die Alte husten,791,gold_standard,process,process,process,process
+4463,Der blonde Eckbert,und ward an der Ecke des Waldes eine alte Frau gewahr,792,gold_standard,process,process,process,process
+4466,Der blonde Eckbert,und konnte gar nicht begreifen,793,gold_standard,non_event,non_event,non_event,non_event
+4469,Der blonde Eckbert,und sagte,794,gold_standard,process,process,process,process
+4472,Der blonde Eckbert,und es rührte mich recht inniglich,795,gold_standard,stative_event,stative_event,stative_event,stative_event
+4475,Der blonde Eckbert,sang der Vogel sein wunderliches Lied,796,gold_standard,process,process,stative_event,process
+4478,Der blonde Eckbert,und ich liebte sie ganz über alles Maß,797,gold_standard,stative_event,stative_event,stative_event,stative_event
+4481,Der blonde Eckbert,Zuweilen kämpfe ich mit mir,798,gold_standard,process,process,process,process
+4484,Der blonde Eckbert,welches ein dichter Nebel bedeckte,799,gold_standard,stative_event,stative_event,stative_event,stative_event
+4487,Der blonde Eckbert,alles fiel mir von neuem in die Gedanken,800,gold_standard,process,process,process,process
+4490,Der blonde Eckbert,je weniger er sie vermutet hatte,801,gold_standard,process,process,stative_event,stative_event
+4493,Der blonde Eckbert,Ich wußte nicht,802,gold_standard,non_event,non_event,non_event,non_event
+4496,Der blonde Eckbert,denn der Hund und der Vogel machten denselben Eindruck auf mich,803,gold_standard,process,process,stative_event,stative_event
+4499,Der blonde Eckbert,er schwieg,804,gold_standard,non_event,non_event,non_event,non_event
+4502,Der blonde Eckbert,so schnell es nur laufen konnte,805,gold_standard,stative_event,stative_event,stative_event,stative_event
+4505,Der blonde Eckbert,daß ich ein freundliches Wort von ihm vernahm,806,gold_standard,process,process,process,process
+4508,Der blonde Eckbert,Er streifte umher,807,gold_standard,process,process,process,process
+4511,Der blonde Eckbert,wenn er mich nicht wieder liebte,808,gold_standard,non_event,non_event,non_event,non_event
+4514,Der blonde Eckbert,Nur selten wurde Eckbert von Gästen besucht,809,gold_standard,process,process,process,process
+4517,Der blonde Eckbert,Ist der Mensch nicht ein Tor,810,gold_standard,non_event,non_event,non_event,non_event
+4520,Der blonde Eckbert,Es ist unbeschreiblich,811,gold_standard,non_event,non_event,non_event,non_event
+4523,Der blonde Eckbert,Oft saß ich dann im Winkel,812,gold_standard,process,process,process,process
+4526,Der blonde Eckbert,der Vogel antwortete mir in seinem Liede auf alle meine Fragen,813,gold_standard,process,process,process,process
+4529,Der blonde Eckbert,weil er an diesem ohngefähr dieselbe Art zu denken fand,814,gold_standard,process,process,process,process
+4532,Der blonde Eckbert,und wußte selbst nicht,815,gold_standard,non_event,non_event,non_event,non_event
+4535,Der blonde Eckbert,Ich näherte mich ihr,816,gold_standard,process,process,process,process
+4538,Der blonde Eckbert,Wird er nicht vielleicht eine unselige Habsucht nach unsern Edelgesteinen empfinden,817,gold_standard,non_event,non_event,non_event,non_event
+4541,Der blonde Eckbert,und spielte nun in meiner Phantasie seltsame Geschichten mit mir selber,818,gold_standard,process,process,process,process
+4544,Der blonde Eckbert,Ich hatte auch von Liebe etwas gelesen,819,gold_standard,process,process,process,process
+4547,Der blonde Eckbert,mein Rädchen drehte sich immer munter,820,gold_standard,process,process,process,process
+4550,Der blonde Eckbert,aber er mußte zurückbleiben,821,gold_standard,non_event,non_event,non_event,non_event
+4553,Der blonde Eckbert,sie ließ mich neben sich niedersitzen,822,gold_standard,process,non_event,non_event,non_event
+4556,Der blonde Eckbert,er ließ sich zwar gegen Bertha und Walther nichts davon merken,823,gold_standard,non_event,non_event,non_event,non_event
+4559,Der blonde Eckbert,es war mir,824,gold_standard,stative_event,stative_event,stative_event,stative_event
+4562,Der blonde Eckbert,Siehe,825,gold_standard,non_event,non_event,non_event,non_event
+4565,Der blonde Eckbert,ich wünschte kaum noch zu leben,826,gold_standard,stative_event,stative_event,stative_event,stative_event
+4568,Der blonde Eckbert,Der Hund bellte,827,gold_standard,process,process,process,process
+4571,Der blonde Eckbert,Nie hab ich des Hundes und des Vogels mit einer solchen Emsigkeit gepflegt,828,gold_standard,process,process,process,process
+4574,Der blonde Eckbert,je bänger machte er mich,829,gold_standard,change_of_state,process,change_of_state,process
+4577,Der blonde Eckbert,An einem Morgen ließ sie ihren Mann an ihr Bette rufen,830,gold_standard,process,non_event,non_event,non_event
+4580,Der blonde Eckbert,Statt der gehofften Mühle stieß ich auf einen Wasserfall,831,gold_standard,process,process,process,process
+4583,Der blonde Eckbert,Ich bin in einem Dorfe geboren,832,gold_standard,process,process,process,process
+4586,Der blonde Eckbert,ich hatte wohl von Reichtümern gelesen,833,gold_standard,process,process,process,process
+4589,Der blonde Eckbert,als ich endlich wirklich die Grenzen der öden Felsen erreichte,834,gold_standard,process,process,process,process
+4592,Der blonde Eckbert,wie ihr eigentliches Aussehn beschaffen war,835,gold_standard,stative_event,stative_event,stative_event,stative_event
+4595,Der blonde Eckbert,Und indem sah er sich noch einmal um,836,gold_standard,process,process,process,process
+4598,Der blonde Eckbert,dessen Dasein ihn drückte,837,gold_standard,stative_event,stative_event,stative_event,stative_event
+4601,Der blonde Eckbert,und unten mitten in den Bäumen lag eine kleine Hütte,838,gold_standard,stative_event,stative_event,stative_event,stative_event
+4604,Der blonde Eckbert,"warum ich einfältiger sei, als die übrigen Kinder meiner Bekanntschaft",839,gold_standard,stative_event,non_event,stative_event,stative_event
+4607,Der blonde Eckbert,und das Licht stand zwischen uns,840,gold_standard,stative_event,stative_event,stative_event,stative_event
+4610,Der blonde Eckbert,"ich kann mir Euch recht vorstellen, mit dem seltsamen Vogel",841,gold_standard,stative_event,stative_event,stative_event,stative_event
+4613,Der blonde Eckbert,und endlich hörte sogar der Weg unter meinen Füßen auf,842,gold_standard,non_event,non_event,non_event,non_event
+4616,Der blonde Eckbert,daß der Himmel ihre Ehe mit keinen Kindern segnen wolle,843,gold_standard,non_event,non_event,non_event,non_event
+4619,Der blonde Eckbert,der Arzt ward ängstlich,844,gold_standard,change_of_state,change_of_state,change_of_state,change_of_state
+4622,Der blonde Eckbert,"und beschäftigte sich damit, sie in Ordnung zu bringen",845,gold_standard,process,process,process,process
+4625,Der blonde Eckbert,Am Morgen weckte mich die Alte,846,gold_standard,process,process,process,process
+4628,Der blonde Eckbert,die einsam und betrübt in engen Felsenritzen emporgeschossen waren,847,gold_standard,process,process,process,process
+4631,Der blonde Eckbert,nur klagten sie gewöhnlich darüber,848,gold_standard,process,process,process,process
+4634,Der blonde Eckbert,Ich war sehr blöde,849,gold_standard,stative_event,stative_event,stative_event,stative_event
+4637,Der blonde Eckbert,Vier Jahre hatte ich so mit der Alten gelebt,850,gold_standard,process,process,process,process
+4640,Der blonde Eckbert,"wie sich unser Sinn denn an alles, besonders in der Kindheit, gewöhnt",851,gold_standard,non_event,non_event,non_event,non_event
+4643,Der blonde Eckbert,nur in einem so kleinen Familienzirkel einheimisch,852,gold_standard,non_event,non_event,non_event,non_event
+4646,Der blonde Eckbert,ich fühlte keine Müdigkeit,853,gold_standard,non_event,non_event,non_event,non_event
+4649,Der blonde Eckbert,mein Geist und meine Augen schwärmten nur zwischen den goldnen Wolken,854,gold_standard,process,process,process,process
+4652,Der blonde Eckbert,"Sie trug mir jetzt das Geschäft auf, in ihrer Abwesenheit diese Eier zu nehmen und in den fremdartigen Gefäßen wohl zu verwahren",855,gold_standard,process,process,process,process
+4655,Der blonde Eckbert,Ganz konnte ich den Sinn ihrer Worte noch immer nicht fassen,856,gold_standard,process,non_event,non_event,process
+4658,Der blonde Eckbert,und dann wies sie mir in einer niedrigen und engen Kammer ein Bett an,857,gold_standard,process,process,process,process
+4661,Der blonde Eckbert,sie ging ganz mit mir wie mit einer Tochter um,858,gold_standard,process,process,process,process
+4664,Der blonde Eckbert,und drohte mit einer stummen Gebärde,859,gold_standard,process,process,process,process
+4667,Der blonde Eckbert,ich erschrak,860,gold_standard,process,process,process,process
+4670,Der blonde Eckbert,Ich mußte spinnen,861,gold_standard,non_event,non_event,non_event,non_event
+4673,Der blonde Eckbert,Es war jetzt gerade Mitternacht,862,gold_standard,stative_event,stative_event,stative_event,stative_event
+4676,Der blonde Eckbert,daß ich Unrecht getan hatte,863,gold_standard,process,process,process,process
+4679,Der blonde Eckbert,stand ich auf,864,gold_standard,process,process,process,process
+4682,Der blonde Eckbert,"und keinen Baum, keine Wiese, selbst kein Gebüsch konnte mein Auge erspähn, einzelne Sträucher ausgenommen",865,gold_standard,non_event,non_event,non_event,non_event
+4685,Der blonde Eckbert,und fürchtete doch den Tod,866,gold_standard,stative_event,stative_event,stative_event,stative_event
+4688,Der blonde Eckbert,daß sie heimlich in dem Käfige wirtschafte,867,gold_standard,process,process,stative_event,process
+4691,Der blonde Eckbert,Bertha war krank,868,gold_standard,stative_event,stative_event,stative_event,stative_event
+4694,Der blonde Eckbert,Eckbert begleitete ihn oft auf seinen einsamen Spaziergängen,869,gold_standard,process,process,process,process
+4697,Der blonde Eckbert,daß es das Ansehn hatte,870,gold_standard,stative_event,stative_event,stative_event,stative_event
+4700,Der blonde Eckbert,nur wenn er allein war,871,gold_standard,stative_event,process,stative_event,stative_event
+4703,Der blonde Eckbert,In einer Gegend des Harzes wohnte ein Ritter,872,gold_standard,process,process,stative_event,process
+4706,Der blonde Eckbert,"die Seele fühlt dann einen unwiderstehlichen Trieb, sich ganz mitzuteilen, dem Freunde auch das Innerste aufzuschließen",873,gold_standard,non_event,non_event,non_event,non_event
+4709,Der blonde Eckbert,nahm Eckbert die Hand Walthers,874,gold_standard,process,process,process,process
+4712,Der blonde Eckbert,das Feuer durch Holz vermehrt,875,gold_standard,process,process,process,process
+4715,Der blonde Eckbert,Ich weinte,876,gold_standard,process,process,process,process
+4718,Der blonde Eckbert,Eckbert lebte nun eine lange Zeit in der größten Einsamkeit,877,gold_standard,process,process,process,process
+4721,Der blonde Eckbert,und bat um ihre Hülfe,878,gold_standard,process,process,process,process
+4724,Der blonde Eckbert,wie er nun nach allen meinen Bemühungen aussah,879,gold_standard,stative_event,non_event,non_event,non_event
+4726,Der blonde Eckbert,"Freund, Ihr solltet Euch einmal von meiner Frau die Geschichte ihrer Jugend erzählen lassen",880,gold_standard,non_event,non_event,non_event,non_event
+4729,Der blonde Eckbert,Übrigens bekümmerte sich die Alte nicht weiter um mein Wesen,881,gold_standard,non_event,non_event,non_event,non_event
+4732,Der blonde Eckbert,Ach einzge Freud Waldeinsamkeit,882,gold_standard,non_event,non_event,non_event,non_event
+4735,Der blonde Eckbert,O dich gereut Einst mit der Zeit,883,gold_standard,non_event,non_event,non_event,non_event
+4738,Der blonde Eckbert,Lieber Mann ich muß dir etwas entdecken,884,gold_standard,stative_event,non_event,stative_event,non_event
+4741,Der blonde Eckbert,in welcher entsetzlichen Einsamkeit hab ich dann mein Leben hingebrach,885,gold_standard,process,process,process,process
+4744,Der blonde Eckbert,Ich hatte des Nachts immer im Walde geschlafen oder in abgelegenen Schäferhütten,886,gold_standard,process,process,process,process
+4747,Der blonde Eckbert,O wie mich freut Waldeinsamkeit,887,gold_standard,stative_event,non_event,stative_event,non_event
+4750,Der blonde Eckbert,ohne zu wissen was er tat,888,gold_standard,process,non_event,non_event,process
+4753,Der blonde Eckbert,einige Becher standen auf einem Wandschranke,889,gold_standard,stative_event,stative_event,stative_event,stative_event
+4756,Der blonde Eckbert,und eine schreckliche Wut bemeisterte sich seiner,890,gold_standard,change_of_state,stative_event,stative_event,stative_event
+4759,Der blonde Eckbert,Waldeinsamkeit,891,gold_standard,non_event,non_event,stative_event,non_event
+4762,Der blonde Eckbert,wie ich sie mit Gold und Silber überschütten,892,gold_standard,non_event,non_event,non_event,non_event
+4765,Der blonde Eckbert,die Strafe folgt nach,893,gold_standard,non_event,non_event,non_event,non_event
+4768,Der blonde Eckbert,"und Eckbert schlug ihm vor, bei ihm zu bleiben, die halbe Nacht unter traulichen Gesprächen hinzubringen, und dann in einem Gemache des Hauses bis am Morgen zu schlafen",894,gold_standard,process,process,stative_event,process
+4771,Der blonde Eckbert,"alles war weit kleiner, gedrängter",895,gold_standard,stative_event,stative_event,stative_event,stative_event
+4774,Der blonde Eckbert,"und konnte auch nicht vermuten, in dieser Wildnis auf eine zu stoßen",896,gold_standard,non_event,non_event,non_event,non_event
+4777,Der blonde Eckbert,genug,897,gold_standard,non_event,non_event,non_event,non_event
+4780,Der blonde Eckbert,und blieb nun länger aus,898,gold_standard,process,process,process,process
+4783,Der blonde Eckbert,bald hielt ich es für wilde Tiere,899,gold_standard,process,process,stative_event,stative_event
+4786,Der blonde Eckbert,"ich schmückte ihn mit allen Vortrefflichkeiten aus, ohne eigentlich zu wissen",900,gold_standard,process,process,process,process
+4789,Der blonde Eckbert,prächtige Damen sahen immer wie der Vogel aus,901,gold_standard,stative_event,stative_event,stative_event,stative_event
+4792,Der blonde Eckbert,daß ich mich schon herrlich geschmückt sah,902,gold_standard,process,process,process,process
+4795,Der blonde Eckbert,"daß er seinen Verstand nur darum bekömmt, um die Unschuld seiner Seele zu verlieren",903,gold_standard,non_event,non_event,non_event,non_event
+4798,Der blonde Eckbert,die wohlbekannte Schwelle,904,gold_standard,process,process,stative_event,process
+4801,Der blonde Eckbert,er sah noch immer hin,905,gold_standard,process,process,process,process
+4804,Der blonde Eckbert,Ihr hättet sie damals sehn sollen,906,gold_standard,non_event,non_event,non_event,non_event
+4807,Der blonde Eckbert,"und wenn ich nun aufstehn mußte, um irgend etwas zu helfen, oder zu tragen",907,gold_standard,non_event,non_event,non_event,non_event
+4810,Der blonde Eckbert,und wie wohl,908,gold_standard,change_of_state,process,change_of_state,process
+4813,Der blonde Eckbert,"ich kletterte in der Hoffnung hinauf, von dort den Ausgang aus der Wildnis zu entdecken, und vielleicht Wohnungen oder Menschen gewahr zu werden",909,gold_standard,process,process,process,process
+4816,Der blonde Eckbert,wir gingen über eine angenehme Wiese,910,gold_standard,process,process,process,process
+4819,Der blonde Eckbert,"Ich lief immerfort, ohne mich umzusehn",911,gold_standard,process,process,stative_event,process

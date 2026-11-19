@@ -1,0 +1,1080 @@
+,title,item,tasks,workers,n_tasks
+45,Das Erdbeben in Chili,Don Fernando Ormez,[682 734],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+79,Das Erdbeben in Chili,Er begriff nicht,[188 189],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+114,Das Erdbeben in Chili,Ja,[481 737],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+124,Das Erdbeben in Chili,Josephe antwortete,[391 505],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+170,Das Erdbeben in Chili,Sohn des Commendanten der Stadt,[680 699],"<ArrowStringArray>
+['Annotator2']
+Length: 1, dtype: str",2
+247,Das Erdbeben in Chili,da er sich umkehrte,[140 141],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+263,Das Erdbeben in Chili,"das überall, mit Rettung des Eigentums beschäftigt, aus den Toren stürzte",[168 169],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+303,Das Erdbeben in Chili,den ihr alle kennt,[681 700],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+325,Das Erdbeben in Chili,"der seine Zweige, voll duftender Früchte, weit ausbreitete",[331 332],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+328,Das Erdbeben in Chili,der sich seiner Sache immer günstig gezeigt,[499 498],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+477,Das Erdbeben in Chili,sank er ohnmächtig auf demselben nieder,[122 121],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+486,Das Erdbeben in Chili,sie ist's,[760 761],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+506,Das Erdbeben in Chili,steinigt sie,[718 719],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+509,Das Erdbeben in Chili,und,[711 714 717 821],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+569,Das Erdbeben in Chili,und fragte,[388 587 731],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+595,Das Erdbeben in Chili,"und keine menschliche Brust gab wärmere Glut dazu her, als Jeronimos und Josephens",[623 624],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+891,Der blonde Eckbert,Ich ward ihr endlich von Herzen gut,[410 411],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+893,Der blonde Eckbert,Ich wußte nicht,[194 561],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+905,Der blonde Eckbert,In einem abgelegenen Gemache ging er in unbeschreiblicher Unruhe auf und ab,[814 815],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+943,Der blonde Eckbert,O,[325 678],"<ArrowStringArray>
+['Annotator2']
+Length: 1, dtype: str",2
+1122,Der blonde Eckbert,daß er glaubte,[889 890],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+1208,Der blonde Eckbert,der sich immer als den Gegner Eckberts gezeigt,[910 911],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+1262,Der blonde Eckbert,er lebte von einem kleinen Vermögen,[28 29],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+1271,Der blonde Eckbert,er setzte mir mit Drohungen unbeschreiblich zu,[127 128],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2
+1382,Der blonde Eckbert,konnte ich ordentlich betrübt werden,[531 532],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+1384,Der blonde Eckbert,kurz,[108 488 877],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+1393,Der blonde Eckbert,mein Vater war ein armer Hirte,[81 80],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+1569,Der blonde Eckbert,und jetzt gereut mich diese Vertraulichkeit,[746 745],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+1597,Der blonde Eckbert,und sagte,[ 62 735 770],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+1727,Die Judenbuche,Aber er kann noch leben,[2736 2737],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+1745,Die Judenbuche,Ach Gott,[ 203 1447 2215],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+1827,Die Judenbuche,Butterdieb,[1840 1842],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+1913,Die Judenbuche,Der Anklage bedurfte es nicht,[2083 2084],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2008,Die Judenbuche,Doch,[904 922],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2096,Die Judenbuche,Er ist tot,[1318 1324],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2196,Die Judenbuche,Friedrich,[ 747  748 1355],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",3
+2261,Die Judenbuche,"Friedrich, wie ist dir",[1342 1398],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2278,Die Judenbuche,Geht,[1368 1392 1395],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+2284,Die Judenbuche,Gerechtigkeit,[2029 2031],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2292,Die Judenbuche,Gott,[ 226 2866],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2293,Die Judenbuche,Gott bewahre,[ 344 2715],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2437,Die Judenbuche,Ja,[ 442  845 2210  606  809],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+2457,Die Judenbuche,Jetzt schien sich in einiger Entfernung das Dunkel zu brechen,[643 644],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2458,Die Judenbuche,Johannes,[1809 2416],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2460,Die Judenbuche,Johannes erzählte nun,[2541 2542],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+2468,Die Judenbuche,Johannes seufzte tief,[2607 2608],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2507,Die Judenbuche,Längst war ich zu Haus,[1676 1675],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2569,Die Judenbuche,Mutter,[1246 1259 1405  192  201  215],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",6
+2588,Die Judenbuche,Nein,[ 792  901  917 1184 1225 1359 1642],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",7
+2601,Die Judenbuche,Nichts,[1312 2515],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2604,Die Judenbuche,Niemand,[854 856],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2606,Die Judenbuche,Nun,[ 805 1898 2305],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+2633,Die Judenbuche,Ohm,[673 675],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+2708,Die Judenbuche,Sieh,[ 669 1671],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2729,Die Judenbuche,So,[ 594  609  617  821 1655 2870],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",6
+2765,Die Judenbuche,Sonderbar,[2274 2537],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2780,Die Judenbuche,Um Gottes willen,[2022 2370],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2829,Die Judenbuche,Was fällt dir ein,[ 677 1438],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2838,Die Judenbuche,Was ist's,[ 885 1848],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2839,Die Judenbuche,Was sagen Sie dazu,[2299 2301],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2844,Die Judenbuche,Was willst du,[ 886 1248],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2856,Die Judenbuche,Wer weiß,[ 910 2723],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+2881,Die Judenbuche,Wo ist Friedrich,[1287 2100],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3073,Die Judenbuche,"das er geratener fand, für sich zu behalten",[1549 1550],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3083,Die Judenbuche,das in der frischen Luft kräftig gedieh,[173 174],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3155,Die Judenbuche,daß ihm alle Glieder im Wege standen,[833 832],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3507,Die Judenbuche,fragte der Gutsherr,[2247 2582],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3509,Die Judenbuche,fragte er,[ 195 1286],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3516,Die Judenbuche,fuhr Simon fort,[456 487 670],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+3519,Die Judenbuche,fuhr er fort,[1672 2555],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3522,Die Judenbuche,fügte er hinzu,[1677 2431],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3535,Die Judenbuche,geh,[ 925 1702],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3546,Die Judenbuche,gottlob,[ 484 1147],"<ArrowStringArray>
+['Annotator1', 'Annotator2']
+Length: 2, dtype: str",2
+3571,Die Judenbuche,ich dachte,[2171 1664],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3612,Die Judenbuche,"in der Kammertür stand Simon, fast unbekleidet",[1624 1625],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3623,Die Judenbuche,je mehr er in das Alter trat,[424 425],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+3648,Die Judenbuche,kurz,[  27 1801],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+3690,Die Judenbuche,murmelte er,[2208 2788],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3697,Die Judenbuche,nein,[ 743  906  919 1361 1690 1192],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",6
+3748,Die Judenbuche,rief Friedrich,[1187 1260],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3758,Die Judenbuche,rief sie,[ 749 1320 1439 2030],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+3768,Die Judenbuche,sagte Friedrich,[ 593 1638],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3771,Die Judenbuche,sagte Herr von S,[2006 2862],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3774,Die Judenbuche,sagte Johannes,[2437 2636],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3775,Die Judenbuche,sagte Margreth,[ 806  843 1306],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+3781,Die Judenbuche,sagte der Gutsherr,[1995 2492 2606 2716 2761],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+3785,Die Judenbuche,sagte die Mutter,[1343 1399],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3788,Die Judenbuche,sagte eine alte Frau,[1955 2419],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+3789,Die Judenbuche,sagte er,[ 761 1274 1282 1884 2277 2547 2884],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",7
+3791,Die Judenbuche,sagte er dann,[1292 1584 2385 2577 1583],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+3804,Die Judenbuche,sagte sie,[ 338  432  542  824 2009 2398 2677],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",7
+3848,Die Judenbuche,so,[596 619],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+4119,Die Judenbuche,und nach ein paar Stunden war die Umgegend voll von dem Mißgeschick eines oder mehrerer Forstbeamten,[94 95],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4218,Die Judenbuche,und wie wir eine Weile gesessen hatten,[2524 2525],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4244,Die Judenbuche,versetzte Johannes,[2584 2618],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4245,Die Judenbuche,versetzte Kapp,[2152 2213],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4248,Die Judenbuche,versetzte er,[1254 1445 2422],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+4249,Die Judenbuche,versetzte sie,[1352 2665],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4282,Die Judenbuche,"was bereits begann, seinem Alter unpassend zu werden",[987 986],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4330,Die Judenbuche,wenn er sich übernommen hatte,[156 157],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4340,Die Judenbuche,wenn sie nachts bei ihren Feuern kauerten,[396 397],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4383,Die Judenbuche,wiederholte der Gutsherr,[2128 2302],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4462,Die Verwandlung,Aber als er den Kopf endlich außerhalb des Bettes in der freien Luft hielt,[246 247],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4507,Die Verwandlung,"Als er nun so dahintorkelte, um alle Kräfte für den Lauf zu sammeln",[1846 1845],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4523,Die Verwandlung,Anna,[591 592],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4578,Die Verwandlung,Das Aufräumen des Zimmers konnte gar nicht mehr schneller getan sein,[2028 2027],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4612,Die Verwandlung,Der Rücken schien hart zu sein,[285 286],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4656,Die Verwandlung,Die Tür zum Vorzimmer war geöffnet,[719 720],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4799,Die Verwandlung,Gregor,[143 180 371 378 176 178],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",6
+4817,Die Verwandlung,Gregor ist ausgebrochen,[1765 1766],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4819,Die Verwandlung,Gregor kroch noch ein Stück vorwärts,[2281 2282],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4843,Die Verwandlung,"Gregor, hinter seiner Türe, nickte eifrig, erfreut über diese unerwartete Vorsicht und Sparsamkeit",[1334 1333],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+4848,Die Verwandlung,Grete,[579 580],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4861,Die Verwandlung,Herr Prokurist,[397 524],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4863,Die Verwandlung,Herr Samsa,[ 500 2318  468],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+4876,Die Verwandlung,Hilfe,[845 848],"<ArrowStringArray>
+['Annotator2']
+Length: 1, dtype: str",2
+4935,Die Verwandlung,Ja,[ 747  104 2723],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+4937,Die Verwandlung,"Ja, aber war es möglich, dieses möbelerschütternde Läuten ruhig zu verschlafen",[106 105],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+4988,Die Verwandlung,Nein,[ 438 1255],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+4996,Die Verwandlung,Nun,[ 726 2611 2711   81  108  310 1617 1695],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",8
+5057,Die Verwandlung,"Sie aber, Herr Prokurist, Sie haben einen besseren Überblick über die Verhältnisse als das sonstige Personal, ja sogar, ganz im Vertrauen gesagt, einen besseren Überblick als der Herr Chef selbst",[768 767],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+5082,Die Verwandlung,Sie wissen auch sehr wohl,[774 773],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5093,Die Verwandlung,Sollte der Wecker nicht geläutet haben,[98 99],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5143,Die Verwandlung,"Und selbst wenn er den Zug einholte, ein Donnerwetter des Chefs war nicht zu vermeiden",[118 120],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+5189,Die Verwandlung,Wenn er uns verstünde,[2439 2443],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5240,Die Verwandlung,Zwei starke Leute hätten vollständig genügt,[298 299],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5280,Die Verwandlung,aber schon der Schreibtisch mußte bleiben,[1620 1621],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5402,Die Verwandlung,"bekam er Angst, weiter auf diese Weise vorzurücken",[248 249],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5405,Die Verwandlung,besonders weil er so ungemein breit war,[211 212],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5441,Die Verwandlung,dachte er,[  11   35   46   62   93 1141],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",6
+5460,Die Verwandlung,daran zweifelte er nicht im geringsten,[205 206],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5527,Die Verwandlung,daß er auf vier Uhr richtig eingestellt war,[101 102],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5572,Die Verwandlung,daß gerade der untere Teil seines Körpers augenblicklich vielleicht der empfindlichste war,[240 241],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5620,Die Verwandlung,den Vater wagte sie nicht um Hilfe zu bitten,[1518 1519],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5683,Die Verwandlung,denn wie man genau hören konnte,[1032 1033],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5947,Die Verwandlung,fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt,[1 2],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+5978,Die Verwandlung,glauben Sie mir,[ 395 2374],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6058,Die Verwandlung,in welche Gregor durch diese Überlegungen versetzt wurde,[349 350],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6101,Die Verwandlung,man hatte sie vergessen,[2638 2637],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6159,Die Verwandlung,"ohne sich entschließen zu können, das Bett zu verlassen",[139 140],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+6182,Die Verwandlung,sagte Gregor,[439 727],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6186,Die Verwandlung,sagte Grete,[1684 1683],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6187,Die Verwandlung,sagte Herr Samsa,[2612 2652 2747],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+6201,Die Verwandlung,sagte die Schwester,[1537 2398],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6211,Die Verwandlung,sagte sich Gregor,[ 225 1000],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6347,Die Verwandlung,trotzdem sein Rücken ein wenig gedrückt wurde,[1045 1046],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6414,Die Verwandlung,und das trübe Wetter machte ihn ganz melancholisch,[27 28],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6470,Die Verwandlung,und er mußte auf seinen zwei Beinreihen regelrecht hinken,[962 963],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6472,Die Verwandlung,und er selbst fühlte sich durchaus nicht besonders frisch und beweglich,[116 117],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6638,Die Verwandlung,und sah sich um,[1685 2487],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6804,Die Verwandlung,was er wollte,[221 222],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6824,Die Verwandlung,weil kein sonstiger Platz zum Kriechen frei war,[2147 2146],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6928,Die Verwandlung,wie sie in der letzten Zeit trotz aller Plage zu einem schönen und üppigen Mädchen aufgeblüht war,[2780 2781],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6941,Die Verwandlung,wo dann die Beinchen hoffentlich einen Sinn bekommen würden,[308 309],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+6977,Die Verwandlung,während welcher die Schwester im Zimmer war,[1159 1160],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7016,Effi Briest,Aber Du hast noch was auf der Seele,[1704 1705],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2
+7019,Effi Briest,Aber Effi,[ 276 1330],"<ArrowStringArray>
+['Annotator2']
+Length: 1, dtype: str",2
+7069,Effi Briest,Aber das waren ja keine Wenden,[7404 7403],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7115,Effi Briest,Aber ich glaube,[3070 8263 8322],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+7137,Effi Briest,Aber lassen wir das,[1071 4205],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7139,Effi Briest,"Aber man lebt doch nicht bloß in der Welt, um schwach und zärtlich zu sein und alles mit Nachsicht zu behandeln",[7191 7190],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7195,Effi Briest,Ach,[7168 7207 7401 7458 7500 8190 8290 8339 8536 6175 6623],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",11
+7197,Effi Briest,Ach was,[7199 7955],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7198,Effi Briest,"Ach was, Innstetten",[2043 7956],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7199,Effi Briest,"Ach, Crampas",[2119 2351],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+7203,Effi Briest,"Ach, Geert",[2960 4843 2978],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+7206,Effi Briest,"Ach, Luise",[7169 7208 8537],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",3
+7214,Effi Briest,"Ach, gnädigste Frau",[4299 4314],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7238,Effi Briest,Alle Wetter,[ 503 7573],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+7258,Effi Briest,Alles ist an Zeit und Umstände gebunden,[7765 7764],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7298,Effi Briest,Also selber schuld,[4156 4157],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7386,Effi Briest,Beinah' im Gegenteil,[3078 3077],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7399,Effi Briest,Bitte,[7165 7511],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7402,Effi Briest,Briest,[7186 8482 8500 8508 8525],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",5
+7406,Effi Briest,"Briest war sehr froh, Frau und Tochter wieder zu Hause zu haben",[1054 1053],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7447,Effi Briest,Da hatte sich denn auch Ring patriotisch besonnen,[3412 3413],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7452,Effi Briest,Da ist es doch besser so,[1654 1655],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7507,Effi Briest,Dann sagte sie,[3101 8312],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7543,Effi Briest,Das Wetter war schön,[4666 8442],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7595,Effi Briest,Das kann ich mir denken,[1990 3285 6514],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+7610,Effi Briest,Das mit den Husaren hatte sich wegen der Schwierigkeiten so gut wie zerschlagen,[4712 4713],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7643,Effi Briest,Das will ich nicht gerade sagen,[2034 8061],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7676,Effi Briest,Denken Sie sich,[6522 7378 7364],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+7733,Effi Briest,Der Schloon,[3857 3860],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7757,Effi Briest,Desto schlimmer,[2891 2892],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7789,Effi Briest,Die Zwicker lächelte,[6742 6818],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7792,Effi Briest,Die arme Frau,[3004 6694],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7897,Effi Briest,Du siehst ja aus,[479 477],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7906,Effi Briest,Du weißt,[ 618 8313],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7907,Effi Briest,Du weißt schon,[4761 8382],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7918,Effi Briest,Effi,[4061 7491 7519 7602 8179 8287 8356],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",7
+7953,Effi Briest,Effi nickte,[2136 3118 6956 7051 8374],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+7965,Effi Briest,Effi schwieg,[ 665 3822],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+7984,Effi Briest,Effi war wenig erfreut über diese Begleitung,[3699 3700],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8000,Effi Briest,"Effi, komm",[684 861],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8072,Effi Briest,Endlich sagte sie,[2680 4736],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8105,Effi Briest,Er ist ja noch ein halber Junge,[1691 1692],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8113,Effi Briest,Er konnte sich nicht beruhigen,[6112 6425],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8172,Effi Briest,Es geht nicht,[3977 5611 1020],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+8305,Effi Briest,Frau von Briest schwieg,[1374 8347],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8320,Effi Briest,Freund,[7456 7470 7509],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",3
+8333,Effi Briest,Fürsten legen auch immer die Uniform aus der Gegend des anderen an,[543 542],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8358,Effi Briest,Geheimnisse,[1575 1579],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2
+8359,Effi Briest,Geheimrat Wüllersdorf,[5633 7809],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8367,Effi Briest,Gewiß,[1733 4526 6932],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+8374,Effi Briest,"Gieshübler selbst war viel zu artig, um gleich Unruhe zu zeigen oder gar Lärm zu machen",[3646 3647],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8384,Effi Briest,Glaub' ich nicht,[ 182 2328],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8394,Effi Briest,Gnädigste Frau,[7107 8252],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8396,Effi Briest,Gott,[5371 7083 7088 5378],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+8398,Effi Briest,Gott sei Dank,[ 128  322 1145],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+8409,Effi Briest,"Gut, gut",[2099 8010],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8417,Effi Briest,Hafenpolizei,[1871 1874],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8462,Effi Briest,Ich auch nicht,[ 185 3509],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8488,Effi Briest,Ich dachte,[1471 3112],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8490,Effi Briest,Ich denke,[2554 5414],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8503,Effi Briest,Ich glaube,[283 757],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8512,Effi Briest,Ich habe doch recht verstanden,[6706 6705],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8544,Effi Briest,Ich kenne das,[3474 4301],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8546,Effi Briest,Ich kenne ihn von früher,[4166 4165],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8567,Effi Briest,Ich nicht,[ 467 4146],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8589,Effi Briest,Ich weiß es auch nicht,[3448 5712],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8590,Effi Briest,Ich weiß es nicht,[5737 8226],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8614,Effi Briest,Ich wollte,[7496 1199],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8634,Effi Briest,Im übrigen,[6153 7816 1278 7815],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+8693,Effi Briest,Innstetten,[3145 6319 7812 7957 4082 6402],"<ArrowStringArray>
+['Annotator1', 'Annotator2']
+Length: 2, dtype: str",6
+8708,Effi Briest,Innstetten habe ohnehin alles,[928 927],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8722,Effi Briest,Innstetten lächelte,[5854 6069 6126],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+8724,Effi Briest,Innstetten nickte,[5699 5953],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8740,Effi Briest,Innstetten war einverstanden,[4638 5400],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8776,Effi Briest,Ja,"[2058 2155 2376 2878 3158 3818 4094 4837 5161 5691 5703 6542 7283 7355
+ 7372 7391 7420 7451 7517 7565 7701 7884 8325 8375 8392 8458 8486  428
+  461  471 3335 3789 4133 4904 6326 6400 6518 6687 6807]","<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",39
+8788,Effi Briest,"Ja, Effi",[2948 7518],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8792,Effi Briest,"Ja, Innstetten",[4989 6401],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8800,Effi Briest,"Ja, Roswitha",[6548 6629 6644],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+8836,Effi Briest,"Ja, meine gnädigste Frau",[2103 2111 3874],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+8844,Effi Briest,"Ja, sonst",[ 814 6519],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+8854,Effi Briest,Jahnke,[7357 7377 7395],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",3
+8869,Effi Briest,Jeder mußte ihr zu diesem Tage schreiben,[880 879],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8878,Effi Briest,Johanna kam,[5488 6364],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8896,Effi Briest,Kann schon sein,[ 287 6701],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8951,Effi Briest,Lesen Sie,[5688 7849],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8953,Effi Briest,Lethe,[7562 7564 7566],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+8956,Effi Briest,Liebe Effi,[1586 1593],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2
+8964,Effi Briest,Lies,[1584 1589],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8967,Effi Briest,Luise,[7170 7209 7218 8488 8517 8538],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",6
+8971,Effi Briest,Major Crampas,[4913 5694],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+8975,Effi Briest,Mama,[8304 8377],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+9061,Effi Briest,Natürlich,[ 769 1887 3232 7201 7689  348],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",6
+9073,Effi Briest,Nein,"[  80  220  362  570 2333 2356 2451 2775 2884 3628 3761 4334 4601 5057
+ 6594 7495 7603 7617 7818 7917 8357  330  407  449 1271 1892 3306 3764
+ 5745 6062 6680 6761]","<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",32
+9091,Effi Briest,"Nein, gnädigste Frau",[5070 4335],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9094,Effi Briest,"Nein, nein",[6370 8358],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9136,Effi Briest,Nun,[1368 6596 7385 7579 8295],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+9145,Effi Briest,Nun denn,[2156 2733],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9156,Effi Briest,Nun sehen Sie,[3501 7928],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9165,Effi Briest,"Nun, Effi",[4486  783],"<ArrowStringArray>
+['Annotator1', 'gold_standard']
+Length: 2, dtype: str",2
+9247,Effi Briest,Richtig,[5337 1478],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9270,Effi Briest,Roswitha,[6678 7098 7681 7693 7870 8273],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",6
+9305,Effi Briest,Schade,[2334 2936 7368 7568 8091],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+9314,Effi Briest,Schmerzliches,[6417 6894 6897],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+9359,Effi Briest,Sie haben recht,[6116 6809],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9384,Effi Briest,Sie müssen es wissen,[5738 7510],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9399,Effi Briest,Sie sind,[2353 2354],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9414,Effi Briest,Sie stand auf,[1417 7230 1416],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+9439,Effi Briest,"Sieh', Mama",[1742 8342 1708],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+9454,Effi Briest,So kam es,[1956 4552],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9472,Effi Briest,Sonderbar,[3110 3278],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9554,Effi Briest,Und dann,[8402 8523 3754],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+9658,Effi Briest,Und ich glaube,[ 302 1734],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9789,Effi Briest,Und wirklich,[2577 5457],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+9804,Effi Briest,Unerhört,[1337 3577],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9806,Effi Briest,Unmöglich,[5608 7972 7973],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+9808,Effi Briest,Unsinn,[ 281 8515],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9837,Effi Briest,Vielleicht,[1706 3810],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+9890,Effi Briest,Warum nicht,[2750 5058],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+10002,Effi Briest,Wie meinst Du das,[4738 8518],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+10068,Effi Briest,Wüllersdorf,[6196 8032 8049],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",3
+10075,Effi Briest,Wüllersdorf nickte,[5784 7927],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+10191,Effi Briest,aber freilich,[ 230 6841],"<ArrowStringArray>
+['Annotator2']
+Length: 1, dtype: str",2
+10275,Effi Briest,aller Wahrscheinlichkeit nach,[2843 3228],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+10318,Effi Briest,als die große Berliner Woche nun wirklich da war,[945 944],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+10424,Effi Briest,an dessen offener Seite man eines Teiches mit Wassersteg und angeketteltem Boot und dicht daneben einer Schaukel gewahr wurde,[5 6],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+10807,Effi Briest,das weiß ich auch,[6915 6625],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+10916,Effi Briest,daß dies weiblicher Geschmack ist,[4201 4200],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+10962,Effi Briest,"daß er, gleich beim ersten Durchsehen, ein paar davon ausgewählt",[5582 5584],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2
+11314,Effi Briest,der taugt nie 'was,[6606 6605],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11360,Effi Briest,die Frau,[3058 6424],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11417,Effi Briest,die den Rufnamen Effi führte,[26 25],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11472,Effi Briest,die keine sind,[6354 6356],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11506,Effi Briest,die schon seit geraumer Zeit der Erledigung harrte,[7715 7714],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11515,Effi Briest,die sich mit seinem Ehrbegriffe sehr wohl vertrugen,[2305 2304],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11516,Effi Briest,die sich mittlerweile mit ihrem rotblonden Wellenhaar auf „Onkel Crampas'“ Schoß gesetzt hatte,[3559 3560],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11623,Effi Briest,ein schöner Mann,[1694 4381],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11675,Effi Briest,"er hat das Gefühl, aus der Sache nicht heil herauszukommen",[6088 6089],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11739,Effi Briest,"es liegt eine hübsche Strecke von hier fort, in Pommern, in Hinterpommern sogar",[366 365],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11839,Effi Briest,ganz gesund,[6747 8180],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11863,Effi Briest,giebt es mir noch jetzt einen Stich ins Herz,[6939 6940],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+11867,Effi Briest,glaub' ich,[ 382 1458 1738 7360],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+11873,Effi Briest,gnäd'ge Frau,[3859 7686],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+11937,Effi Briest,ich glaube,[2423 4169 6771],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+11986,Effi Briest,ich weiß nicht,[4918 7839 8296],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+12030,Effi Briest,in Wahrheit aber schlummern hier die Keime einer sozialen Revolution,[6980 6981],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12079,Effi Briest,ja,[4503 7269 7386 7388 7874 8400 5795 7033],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",8
+12098,Effi Briest,"ja, wie sag' ich nur",[823 478],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12104,Effi Briest,je mehr man mich auszeichnet,[7898 7897],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12144,Effi Briest,küss' die Hand,[2375 2378],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12148,Effi Briest,lachte Effi,[ 452 2319 7413 7690 1576],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+12164,Effi Briest,liebe Effi,[7460 8301 8310],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",3
+12165,Effi Briest,liebe Freundin,[6745 6872],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+12166,Effi Briest,liebe Mama,[8168 8353],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",2
+12169,Effi Briest,lies,[1585 1590],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12208,Effi Briest,meine gnädigste Frau,[2168 2749 3334 3745 7134],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",5
+12209,Effi Briest,meine liebe Effi,[4177 4191 8192 8370],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",4
+12220,Effi Briest,mir ist,[3107 8259],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12313,Effi Briest,nein,[7618 8359],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12407,Effi Briest,oder doch beinah,[5424 5683 6053],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",3
+12433,Effi Briest,oder nicht,[2021 4823 5909 5932],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+12477,Effi Briest,sag' ich,[2606 3825],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12487,Effi Briest,sagte Crampas,[2701 3978 4342],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+12488,Effi Briest,sagte Effi,[ 445 1325 1430 1991 2005 2198 6737 6758],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",8
+12492,Effi Briest,sagte Frau von Briest,[1227 1638 7672 8274],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+12493,Effi Briest,sagte Hertha,[148 183 784],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",3
+12494,Effi Briest,sagte Hulda,[131 158 279 463],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+12499,Effi Briest,sagte Johanna,[5335 6540],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12501,Effi Briest,sagte Roswitha,[5353 5372 6515 6543 7702],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",5
+12502,Effi Briest,sagte Sidonie,[3469 3774 3790 3875],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+12503,Effi Briest,sagte Wüllersdorf,[5713 6030 6050 7885],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+12505,Effi Briest,sagte der alte Briest,[4975 7540],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12509,Effi Briest,sagte die Zwicker,[6787 6895],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12511,Effi Briest,sagte er,[4092 5389],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+12518,Effi Briest,sagte sie,[ 126 4186 7055 7678],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+12857,Effi Briest,und Du weißt,[2989 4612],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+13026,Effi Briest,"und da gab es denn eine lange, lange Tafel",[2640 2639],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+13068,Effi Briest,und das Einsteigen in die verschiedenen Gefährte schien sich schnell und ohne Störung vollziehen zu sollen,[3641 3642],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+13275,Effi Briest,und fuhr fort,[2826 4359],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+13444,Effi Briest,und küßte sie,[1394   84],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+13592,Effi Briest,und sagte,"[ 219  615 1726 3277 3326 3426 3856 4013 4708 4988 5544 5744 6061 6147
+ 7082 7450 7516 8176 8242 8284]","<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",20
+13651,Effi Briest,und setzte sich zu dem Kinde,[5401 5489],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14032,Effi Briest,von denen wir alle abstammen,[7411 7414],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14089,Effi Briest,warum nicht,[5758 6453],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14143,Effi Briest,was es denn eigentlich sei,[3652 3845],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14152,Effi Briest,was geschehen,[5776 6410],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14369,Effi Briest,wenn man sich überhaupt darüber ärgert,[7644 7645],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14429,Effi Briest,wie Papa sagt,[ 342 1523],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14460,Effi Briest,wie er will,[2903 7863],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14468,Effi Briest,wie ich Dir sage,[3008 3028],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14472,Effi Briest,wie ich sehe,[2098 3750],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14497,Effi Briest,wie schön es war,[7502 7501],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14499,Effi Briest,wie sich die Stadtbehörden eventuell zur Garnisonsfrage zu stellen gedächten,[4480 4481],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14506,Effi Briest,wie sie ist,[8266 5940],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14539,Effi Briest,willkommen,[5266 5267],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2
+14673,Effi Briest,wünschtest Du,[1645 1647],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14902,Krambambuli,Ja,[ 92 164 548 559],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",4
+14909,Krambambuli,Krambambuli,[83 88],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14913,Krambambuli,Krambambuli lag in der Ecke hinter seinem Herrn,[208 209],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14936,Krambambuli,Pack an,[476 478],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+14976,Krambambuli,Was macht denn mein Krambambuli,[218 414],"<ArrowStringArray>
+['Annotator1', 'Annotator2', 'gold_standard']
+Length: 3, dtype: str",2
+15006,Krambambuli,ach,[483 484],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2
+15169,Krambambuli,ja,[166 400 402],"<ArrowStringArray>
+['Annotator1']
+Length: 1, dtype: str",3
+15170,Krambambuli,"ja, ja",[399 401],"<ArrowStringArray>
+['Annotator2', 'gold_standard']
+Length: 2, dtype: str",2

@@ -1,0 +1,14 @@
+title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth
+Der blonde Eckbert,so aufeinandergepackt,22,gold_standard,non_event,stative_event,stative_event,stative_event
+Der blonde Eckbert,Ich vergaß mich und meine Führerin,70,gold_standard,change_of_state,non_event,non_event,non_event
+Der blonde Eckbert,der meine Freude freilich um vieles minderte,197,gold_standard,process,stative_event,stative_event,stative_event
+Der blonde Eckbert,sooft ich ruhte,322,gold_standard,process,non_event,non_event,non_event
+Der blonde Eckbert,Wenn ich mich so vergessen hatte,356,gold_standard,change_of_state,non_event,non_event,non_event
+Der blonde Eckbert,denn er war weit hinein in die Wälder verirrt,401,gold_standard,stative_event,process,process,process
+Der blonde Eckbert,die Röte von ihren Wangen war verschwunden,552,gold_standard,change_of_state,stative_event,stative_event,stative_event
+Der blonde Eckbert,der Sonnenschein breitete sich munter über die Felder aus,668,gold_standard,process,stative_event,stative_event,stative_event
+Der blonde Eckbert,die er bei einem Hirten erziehn ließ,726,gold_standard,process,non_event,non_event,non_event
+Der blonde Eckbert,sie ließ mich neben sich niedersitzen,822,gold_standard,process,non_event,non_event,non_event
+Der blonde Eckbert,An einem Morgen ließ sie ihren Mann an ihr Bette rufen,830,gold_standard,process,non_event,non_event,non_event
+Der blonde Eckbert,wie er nun nach allen meinen Bemühungen aussah,879,gold_standard,stative_event,non_event,non_event,non_event
+Der blonde Eckbert,und eine schreckliche Wut bemeisterte sich seiner,890,gold_standard,change_of_state,stative_event,stative_event,stative_event

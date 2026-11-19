@@ -1,0 +1,97 @@
+title,item,task,worker,label,ds_groundtruth,mace_ground_truth,glad_ground_truth
+Das Erdbeben in Chili,wie er sich aus diesem allgemeinen Verderben retten würde,15,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,Als sie erwachten,17,gold_standard,change_of_state,process,process,change_of_state
+Das Erdbeben in Chili,und in dieser Ordnung ging der Zug nach der Stadt,20,gold_standard,process,process,stative_event,process
+Das Erdbeben in Chili,"so ward ihr die Wollust, Tränen in die Augen dieser Dame treten zu sehen",37,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,in der Rechten das Schwert,43,gold_standard,stative_event,process,stative_event,process
+Das Erdbeben in Chili,das der göttlichen Rache gegeben wurde,50,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,"daß der Feuertod zur großen Entrüstung der Matronen und Jungfrauen von St. Jago, durch einen Machtspruch des Vizekönigs, in eine Enthauptung verwandelt ward",55,gold_standard,stative_event,stative_event,stative_event,change_of_state
+Das Erdbeben in Chili,"als ein Westwind, vom Meere her, sein wiederkehrendes Leben anwehte",63,gold_standard,process,process,stative_event,process
+Das Erdbeben in Chili,"Indessen war die schönste Nacht herabgestiegen, voll wundermilden Duftes, so silberglänzend und still",70,gold_standard,stative_event,process,stative_event,process
+Das Erdbeben in Chili,damit sie glücklich würden,73,gold_standard,stative_event,process,stative_event,process
+Das Erdbeben in Chili,"Hierauf, unter vielen Küssen, schliefen sie ein",81,gold_standard,change_of_state,process,process,change_of_state
+Das Erdbeben in Chili,Hier lag ein Haufen Erschlagener,86,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,die man sonst in der Gesellschaft wenig geachtet hatte,87,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,Der Palast des Vizekönigs war versunken,104,gold_standard,stative_event,process,stative_event,process
+Das Erdbeben in Chili,da die Erdstöße nachließen,109,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,und auf keine Art darein willigte,111,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,Eine geheime Bestellung entrüstete ihn dergestalt,115,gold_standard,change_of_state,process,process,change_of_state
+Das Erdbeben in Chili,Vergebens sann er auf Rettung,117,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,und glaubten sich gerettet,126,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,sank er ohnmächtig auf demselben nieder,127,gold_standard,change_of_state,process,change_of_state,change_of_state
+Das Erdbeben in Chili,Doch Meister Pedrillo ruhte nicht eher,132,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,ließ sich die Orgel schon mit musikalischer Pracht hören,136,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,wo er als Lehrer angestellt war,138,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,"daß seine Untätigkeit bei diesem Unglück, obschon durch mehrere Umstände gerechtfertigt, ihn reue",145,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,als ob alle Engel des Himmels sie umschirmten,147,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,oder der nicht selbst etwas Großmütiges getan hätte,165,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,Nun traf es sich,169,gold_standard,process,process,stative_event,process
+Das Erdbeben in Chili,"Der wütende Haufen, durch die Äußerung Jeronimos verwirrt, stutzte",192,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,als ob es das Tal von Eden gewesen wäre,194,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,da er ihm freiwillig von allen Seiten rettend erschien,206,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,der sich seinem Gemüt eingeprägt hatte,209,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,ehe Donna Constanze diese sinnreiche zur Rettung erfundene Maßregel noch ausgeführt hatte,211,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,und die ganze Natur verschüttet zu werden drohte,212,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,da sie vollendet hatte,214,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,wie Er glaubt,219,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,"daß sie den Drang, ihr Antlitz vor dem Schöpfer in den Staub zu legen, niemals lebhafter empfunden habe, als eben jetzt",222,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,indessen sich ein weiter Kreis des Entsetzens um sie bildete,227,gold_standard,process,process,stative_event,process
+Das Erdbeben in Chili,der sie leblos neben Jeronimo niederwarf,234,gold_standard,process,process,change_of_state,change_of_state
+Das Erdbeben in Chili,doch die Besinnung kehrte ihr bald wieder,239,gold_standard,process,process,process,change_of_state
+Das Erdbeben in Chili,und fürchterlich schien ihm das Wesen,240,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,Hierauf ward es still,249,gold_standard,stative_event,process,stative_event,process
+Das Erdbeben in Chili,und der Mond erblaßte schon wieder vor der Morgenröte,250,gold_standard,stative_event,process,stative_event,process
+Das Erdbeben in Chili,und ein unsägliches Wonnegefühl ergriff ihn,263,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,die ein Wunder des Himmels gerettet hatte,268,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,so beruhigte sie Donna Elvire,271,gold_standard,change_of_state,process,process,change_of_state
+Das Erdbeben in Chili,für den nicht an diesem Tage etwas Rührendes geschehen wäre,279,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,als er eines Ringes an seiner Hand gewahrte,296,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,"als plötzlich der größte Teil der Stadt, mit einem Gekrache versank",298,gold_standard,change_of_state,process,change_of_state,change_of_state
+Das Erdbeben in Chili,als müßt er sich freuen,302,gold_standard,stative_event,non_event,non_event,non_event
+Das Erdbeben in Chili,die sie erleuchtete,307,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,wo man auf jeden Fall in der Nähe des Hafens wäre,345,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,den seine jammervolle Seele suchte,348,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,wie sie meinte,352,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,dem die ganze Würdigkeit und Anmut ihres Betragens sehr gefiel,363,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,da die Orgel jetzt schwieg,368,gold_standard,stative_event,non_event,process,non_event
+Das Erdbeben in Chili,und an die Stelle war ein See getreten,377,gold_standard,stative_event,stative_event,stative_event,change_of_state
+Das Erdbeben in Chili,"wo ihr kleiner, hülfloser Knabe zurückgeblieben war",402,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,als ob das Firmament einstürzte,404,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,und was sie umeinander gelitten hätten,408,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,"ich schwieg – aus einem andern Grunde, Don Fernando",425,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,Da nun Don Alonzo mit der Antwort zauderte,443,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,die ganze im Tempel Jesu versammelte Christenheit,450,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,mit welcher das klösterliche Gesetz sie bedrohte,463,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,weil die Gefahr schon mehr vorüber wäre,465,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,wo Josephe eine vertraute Freundin hatte,472,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,das über den Wolken waltet,480,gold_standard,process,process,stative_event,process
+Das Erdbeben in Chili,und Verzweiflung bemächtigte sich seiner Seele,482,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,den ihr der Himmel wieder geschenkt hatte,484,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,die sie entflohen glaubte,490,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,Durch einen glücklichen Zufall hatte Jeronimo hier die Verbindung von neuem anzuknüpfen gewußt,492,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,als er endlich wieder erwachte,519,gold_standard,change_of_state,process,change_of_state,change_of_state
+Das Erdbeben in Chili,Das Leben schien ihm verhaßt,520,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,und Stille herrschte in der ganzen Versammlung,524,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,gleich als ob sie auf sein Entgegenkommen wartete,531,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,sein Gebet fing ihn zu reuen an,536,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,"als ob die Gemüter, seit dem fürchterlichen Schlage alle versöhnt wären",541,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,welche das Erdbeben verschont hatte,552,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,als ob der eine entsetzliche Eindruck alle früheren daraus verdrängt hätte,561,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,"und sich ihm die Aussicht in ein weites, nur von wenig Menschen besuchtes Tal eröffnete",565,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,und die feierliche Prozession der Nonnen nahm eben ihren Anfang,575,gold_standard,process,process,stative_event,process
+Das Erdbeben in Chili,Inzwischen war der Nachmittag herangekommen,580,gold_standard,stative_event,process,stative_event,process
+Das Erdbeben in Chili,"und bat ihn nur, die Leichname jetzt fortschaffen zu helfen",593,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,den ihm der Zufall gelassen hatte,596,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,ehe sie einschliefen,612,gold_standard,change_of_state,process,process,change_of_state
+Das Erdbeben in Chili,und ruhten,614,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,daß solche Dankfeste ja wiederholt werden würden,623,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,Er mochte wohl eine Viertelstunde in der tiefsten Bewußtlosigkeit gelegen haben,645,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,"daß in der Dominikanerkirche, der einzigen eine feierliche Messe von dem Prälaten des Klosters selbst gelesen werden würde, den Himmel um Verhütung ferneren Unglücks anzuflehen",658,gold_standard,process,non_event,process,non_event
+Das Erdbeben in Chili,Don Fernando erblaßte bei dieser Frage,659,gold_standard,process,process,change_of_state,change_of_state
+Das Erdbeben in Chili,"es ist nur auf wenige Augenblicke, Donna Josephe",681,gold_standard,stative_event,non_event,stative_event,non_event
+Das Erdbeben in Chili,als zugeben,684,gold_standard,stative_event,non_event,non_event,non_event
+Das Erdbeben in Chili,der ihm umständliche Auskunft gab,687,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,"Drauf erinnerte er sich plötzlich auch Josephens; und mit ihr seines Gefängnisses, der Glocken und des Augenblicks",689,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,Darauf ganz mit ihrem Blute besprützt,690,gold_standard,non_event,non_event,process,non_event
+Das Erdbeben in Chili,daß seine Stirn den Boden berührte,691,gold_standard,stative_event,process,process,process
+Das Erdbeben in Chili,und erst erinnerte er sich des schrecklichen Augenblicks,692,gold_standard,stative_event,process,process,process
